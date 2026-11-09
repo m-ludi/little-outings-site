@@ -1,0 +1,646 @@
+{
+ "version": 1,
+ "city": "chicago",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "chicago-lincoln-park-zoo-zoolights-free-mondays",
+   "title": "ZooLights Free Admission Mondays",
+   "organizer": "Lincoln Park Zoo",
+   "type": "Holiday",
+   "venue": "Lincoln Park Zoo",
+   "address": "2001 N. Clark St., Chicago, IL 60614",
+   "neighborhood": "Lincoln Park",
+   "borough": "Chicago",
+   "lat": 41.9212,
+   "lng": -87.634,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Every guest, kids included, needs a ticket",
+   "sessions": [
+    {
+     "start": "2026-11-23T16:30:00-06:00",
+     "end": "2026-11-23T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-30T16:30:00-06:00",
+     "end": "2026-11-30T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-07T16:30:00-06:00",
+     "end": "2026-12-07T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-14T16:30:00-06:00",
+     "end": "2026-12-14T21:00:00-06:00"
+    }
+   ],
+   "schedule": "Mondays Nov 23, Nov 30, Dec 7 and Dec 14, 4:30–9pm (last entry 8pm)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free with a reservation",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": "2026-11-16T11:00:00-06:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Free Monday tickets are released one week ahead at 11am CT. Tickets for Nov 23 drop Mon Nov 16. Every person in the group needs a ticket. Dec 21 and Dec 28 are not free nights."
+   },
+   "url": "https://www.lpzoo.org/event/zoolights/",
+   "description": "Lincoln Park Zoo glows with holiday light displays every evening of the season. On most Mondays, entry is free with a reservation.",
+   "tags": [
+    "free",
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "lpzoo.org ZooLights page: season Nov 20, 2026 to Jan 3, 2027, 4:30-9pm with last entry 8pm. Closed Nov 26, Dec 1, 8, 15, 24, 25. Free with required reservation on Mondays except Dec 21 and 28. 'Tickets for Free Admission Mondays will be released one week in advance at 11 a.m. CT.' Every individual including children must have a ticket. Other nights: fixed-date tickets $7-$12 in advance, $20 day-of or flexible. Monday session dates derived from the season dates and listed exceptions. opensAt is the release for the Nov 23 night (Nov 30 releases Nov 23, and so on). Address is the zoo's administrative address from the Hours & Location page.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-lincoln-park-zoo-zoolights-sensory-friendly-night",
+   "title": "ZooLights Sensory-Friendly Night",
+   "organizer": "Lincoln Park Zoo",
+   "type": "Holiday",
+   "venue": "Lincoln Park Zoo",
+   "address": "2001 N. Clark St., Chicago, IL 60614",
+   "neighborhood": "Lincoln Park",
+   "borough": "Chicago",
+   "lat": 41.9212,
+   "lng": -87.634,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-24T16:30:00-06:00",
+     "end": "2026-11-24T21:00:00-06:00"
+    }
+   ],
+   "schedule": "Tue Nov 24, 4:30–9pm",
+   "recurring": false,
+   "priceMin": 7,
+   "priceMax": 7,
+   "priceLabel": "$7 per person",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy a dated ticket online before the visit. Every guest needs a ticket to enter. Tickets can be shown on a phone."
+   },
+   "url": "https://www.lpzoo.org/event/sensory-friendly-night-at-zoolights-presented-by-comed-and-invesco-qqq/",
+   "description": "A calmer ZooLights evening. Blinking and moving lights are held still or slowed way down, and music is softened or turned off.",
+   "tags": [
+    "sensory-friendly",
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Date (Tuesday, November 24, ticket link carries date=2026-11-24), 4:30-9pm, $7, ticket required for all guests and the light and music changes confirmed on the lpzoo.org event page and the main ZooLights page. No age rule is given. Status 'open' is based on the live ticket link on the event page.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-cso-once-upon-a-symphony-stone-soup",
+   "title": "Once Upon a Symphony: Stone Soup",
+   "organizer": "Chicago Symphony Orchestra (Negaunee Music Institute)",
+   "type": "Music",
+   "venue": "Buntrock Hall at Symphony Center",
+   "address": "220 S. Michigan Ave., Chicago, IL 60604",
+   "neighborhood": "The Loop",
+   "borough": "Chicago",
+   "lat": 41.879,
+   "lng": -87.6249,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 71,
+   "ageLabel": "Ages 3 to 5",
+   "sessions": [
+    {
+     "start": "2026-12-05T10:00:00-06:00",
+     "end": "2026-12-05T10:50:00-06:00"
+    },
+    {
+     "start": "2026-12-05T11:45:00-06:00",
+     "end": "2026-12-05T12:35:00-06:00"
+    },
+    {
+     "start": "2027-01-30T10:00:00-06:00",
+     "end": "2027-01-30T10:50:00-06:00"
+    },
+    {
+     "start": "2027-01-30T11:45:00-06:00",
+     "end": "2027-01-30T12:35:00-06:00"
+    },
+    {
+     "start": "2027-02-13T10:00:00-06:00",
+     "end": "2027-02-13T10:50:00-06:00"
+    },
+    {
+     "start": "2027-02-13T11:45:00-06:00",
+     "end": "2027-02-13T12:35:00-06:00"
+    }
+   ],
+   "schedule": "Sat Dec 5, Jan 30 and Feb 13 at 10am and 11:45am (50 min)",
+   "recurring": false,
+   "priceMin": 30,
+   "priceMax": null,
+   "priceLabel": "From $30 including fees",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets on the CSO event page. On Dec 5, free family activities start at 10:30am in the Rotunda, with a library story time, a singalong and crafts."
+   },
+   "url": "https://chicagosymphony.org/performances/26-27/family/once-upon-a-symphony-stone-soup/",
+   "description": "A hungry traveler starts a pot of stone soup and a whole village pitches in. Storytelling and small-ensemble music, with sets and costumes by Chicago Children's Theatre.",
+   "tags": [
+    "music",
+    "preschool",
+    "indoor",
+    "storytelling"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Ages 3 to 5, 50 minutes, Buntrock Hall, '$30.00+ (incl. fees)', Dec 5 pre-concert Rotunda activities from 10:30am and the box office address confirmed on the chicagosymphony.org event page. Exact dates and 10:00/11:45am times from the official 2026/27 Season Chronological List PDF on chicagosymphony.org. No on-sale date is printed. Status 'open' is based on the price shown on the event page. The same series has The Elves and the Shoemaker on Sat Mar 20, 2027 at 10am and 11:45am (chron list), not listed separately because its own page could not be loaded.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-park-district-winter-2027-registration",
+   "title": "Chicago Park District Winter 2027 Program Registration",
+   "organizer": "Chicago Park District",
+   "type": "Class",
+   "venue": "Chicago Park District parks citywide",
+   "address": "Online registration for parks across Chicago",
+   "neighborhood": "Citywide",
+   "borough": "Chicago",
+   "lat": 41.8781,
+   "lng": -87.6298,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Ages vary by program",
+   "sessions": [],
+   "schedule": "Winter programs run Jan 4 to Mar 14, 2027",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Fees vary by program",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": "2026-12-07T09:00:00-06:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Programs post online Mon Nov 30. Online sign-up opens Mon Dec 7 at 9am for parks west of California Ave and Tue Dec 8 at 9am for parks east of it. Create an account first. Spring sign-up opens Mar 1 and 2, 2027."
+   },
+   "url": "https://www.chicagoparkdistrict.com/programs-101",
+   "description": "Winter classes at neighborhood parks all over the city. Browse the catalog and build a wish list before sign-up day.",
+   "tags": [
+    "classes",
+    "enrollment",
+    "winter"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "chicagoparkdistrict.com Programs 101 table: Winter 2027 programs posted online Mon 11/30/26. Online registration Mon 12/7/26 at 9am (parks west of California Ave and all virtual programs), Tue 12/8/26 at 9am (parks east of California Ave), Tue 12/8/26 at noon (Gymnastics Center). In-person registration 12/12/26 or 12/14/26, varies by park. Winter runs 1/4/27-3/14/27. Spring 2027: posted 2/22/27, online registration 3/1/27 (west) and 3/2/27 (east), no time given, programs 3/29/27-6/6/27. Wish lists open two weeks before the first online day. The page names no specific tot programs or ages, so ages 0-216 reflect the whole catalog. Lat/lng is city center. opensAt is the earlier (west zone) opening.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-botanic-garden-lightscape",
+   "title": "Lightscape",
+   "organizer": "Chicago Botanic Garden",
+   "type": "Holiday",
+   "venue": "Chicago Botanic Garden",
+   "address": "1000 Lake Cook Road, Glencoe, IL 60022",
+   "neighborhood": "Glencoe",
+   "borough": "Glencoe",
+   "lat": 42.1478,
+   "lng": -87.7896,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 2 and under are free",
+   "sessions": [
+    {
+     "start": "2026-11-13T16:30:00-06:00"
+    },
+    {
+     "start": "2026-12-02T16:30:00-06:00"
+    },
+    {
+     "start": "2026-12-09T16:30:00-06:00"
+    },
+    {
+     "start": "2026-12-16T16:30:00-06:00"
+    }
+   ],
+   "schedule": "Select nights Nov 13 to Jan 3 from 4:30pm. Sensory Night Dec 2. Family Nights Dec 9 and 16",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Prices vary by date, some nights under $30. Free for kids 2 and under",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Timed tickets are sold in 15-minute entry windows. Buying early locks in the lowest price. Saturdays and nights near the holidays are in high demand."
+   },
+   "url": "https://www.chicagobotanic.org/lightscape",
+   "description": "A 1.3-mile illuminated trail with music and large light installations. Plan on 45 to 75 minutes. Strollers are welcome except on 21+ nights.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "stroller-friendly",
+    "sensory-friendly"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Season Nov 13, 2026 to Jan 3, 2027 from the chicagobotanic.org press release. Lightscape FAQ: most evenings 4:30-10:30pm (last entry 8:45pm), select dates 4:30-9:30pm (last entry 7:45pm), 15-minute entry windows, children 2 and younger free, strollers allowed except 21+ nights, about 1.3 miles and 45-75 minutes, Sensory Night Dec 2 (social story and free sensory backpacks), Family Nights Dec 9 and Dec 16, Saturdays and holiday dates in high demand, $3 fee on paid nonmember tickets. The press release describes Jingle Jam Family Nights with Santa. No exact prices or on-sale dates are published. Session ends omitted because closing time varies by date. Sessions list opening night plus the sensory and family nights only.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-brookfield-zoo-holiday-magic",
+   "title": "Holiday Magic",
+   "organizer": "Brookfield Zoo Chicago",
+   "type": "Holiday",
+   "venue": "Brookfield Zoo Chicago",
+   "address": "31st St. and Golfview Ave., Brookfield, IL 60513",
+   "neighborhood": "Brookfield",
+   "borough": "Brookfield",
+   "lat": 41.8312,
+   "lng": -87.8338,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-21T15:00:00-06:00",
+     "end": "2026-11-21T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-22T15:00:00-06:00",
+     "end": "2026-11-22T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-23T15:00:00-06:00",
+     "end": "2026-11-23T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-24T15:00:00-06:00",
+     "end": "2026-11-24T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-25T15:00:00-06:00",
+     "end": "2026-11-25T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-27T15:00:00-06:00",
+     "end": "2026-11-27T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-28T15:00:00-06:00",
+     "end": "2026-11-28T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-29T15:00:00-06:00",
+     "end": "2026-11-29T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-03T15:00:00-06:00",
+     "end": "2026-12-03T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-04T15:00:00-06:00",
+     "end": "2026-12-04T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-05T15:00:00-06:00",
+     "end": "2026-12-05T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-06T15:00:00-06:00",
+     "end": "2026-12-06T21:00:00-06:00"
+    }
+   ],
+   "schedule": "Select nights Nov 21 to Jan 3, 3–9pm. Sensory-friendly night Thu Dec 3",
+   "recurring": false,
+   "priceMin": 29.95,
+   "priceMax": null,
+   "priceLabel": "From $29.95. Free for members",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy admission and parking online or on arrival at the Main Entrance. The South Gate needs advance tickets and parking reservations. Members get in and park at North Gate free."
+   },
+   "url": "https://www.brookfieldzoo.org/events/holiday-magic",
+   "description": "The zoo lights up for the holidays on select evenings. On the Dec 3 sensory-friendly night, lights are dimmer, music is softer and effects are reduced.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "sensory-friendly",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "brookfieldzoo.org Holiday Magic page: Nov 21-25 and 27-29, 2026; Dec 3-6, 10-13, 17-23 and 26-31, 2026; Jan 1-3, 2027; 3-9pm. 'Tickets starting at $29.95 / Free with Membership', Holiday Magic and North Gate parking free for members. Main Entrance tickets can be bought online in advance or on arrival, South Gate requires advance tickets and parking reservations. Sensory-friendly night Thursday, December 3, 2026. No child or under-2 pricing for this event and no on-sale date given. Main Entrance address from the brookfieldzoo.org Visit page (general admission lists children 2 and under free). Sessions list the first 12 open nights.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-morton-arboretum-illumination",
+   "title": "Illumination",
+   "organizer": "The Morton Arboretum",
+   "type": "Holiday",
+   "venue": "The Morton Arboretum",
+   "address": "4100 Illinois Route 53, Lisle, IL 60532",
+   "neighborhood": "Lisle",
+   "borough": "Lisle",
+   "lat": 41.8164,
+   "lng": -88.069,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-14T16:30:00-06:00"
+    },
+    {
+     "start": "2026-11-17T16:30:00-06:00"
+    }
+   ],
+   "schedule": "Evenings from 4:30pm, Nov 14 to Jan 2. Sensory Night Tue Nov 17",
+   "recurring": false,
+   "priceMin": 17.6,
+   "priceMax": null,
+   "priceLabel": "Adults from $22, members from $17.60. Prices vary by date",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Timed tickets are on sale now, and popular dates and times sell out. The entry time is printed on each ticket. The Pine Whistle Railroad needs a separate ticket."
+   },
+   "url": "https://mortonarb.org/explore/activities/exhibitions/illumination/",
+   "description": "A one-mile paved trail of light displays among the trees, easy to roll with a stroller. Sensory Night has static lights, quieter music and fewer people.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "stroller-friendly",
+    "sensory-friendly"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "mortonarb.org Illumination page: Sat Nov 14, 2026 through Sat Jan 2, 2027, opens each evening at 4:30pm, one-mile ADA paved path walkable and rollable for strollers, tickets sold while a date and time is not sold out, Sensory Night Tuesday Nov 17. Press release: adult tickets from $17.60 members and $22 nonmembers, member on-sale Oct 1 at 9am CT, public on-sale Oct 15 at 9am CT, Sensory Night is limited-capacity with static lights and lower-volume music. A free-under-age rule is stated only for the Pine Whistle Railroad add-on ($7 members, $9 public, 3 and younger free), so no child price is listed here. Closing time not stated, so session ends omitted.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-childrens-theatre-beatrix-potter-holiday-party",
+   "title": "The Beatrix Potter Holiday Party",
+   "organizer": "Chicago Children's Theatre",
+   "type": "Theater",
+   "venue": "Pritzker Family Studio Theatre at Chicago Children's Theatre",
+   "address": "100 S. Racine Ave., Chicago, IL 60607",
+   "neighborhood": "West Loop",
+   "borough": "Chicago",
+   "lat": 41.8797,
+   "lng": -87.6567,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 96,
+   "ageLabel": "Up to age 8. Lap seats for 18 months and under",
+   "sessions": [
+    {
+     "start": "2026-12-05T09:30:00-06:00",
+     "end": "2026-12-05T10:45:00-06:00"
+    },
+    {
+     "start": "2026-12-05T11:30:00-06:00",
+     "end": "2026-12-05T12:45:00-06:00"
+    },
+    {
+     "start": "2026-12-06T09:30:00-06:00",
+     "end": "2026-12-06T10:45:00-06:00"
+    },
+    {
+     "start": "2026-12-06T11:30:00-06:00",
+     "end": "2026-12-06T12:45:00-06:00"
+    },
+    {
+     "start": "2026-12-12T09:30:00-06:00",
+     "end": "2026-12-12T10:45:00-06:00"
+    },
+    {
+     "start": "2026-12-12T11:30:00-06:00",
+     "end": "2026-12-12T12:45:00-06:00"
+    },
+    {
+     "start": "2026-12-13T09:30:00-06:00",
+     "end": "2026-12-13T10:45:00-06:00"
+    },
+    {
+     "start": "2026-12-13T11:30:00-06:00",
+     "end": "2026-12-13T12:45:00-06:00"
+    },
+    {
+     "start": "2026-12-19T09:30:00-06:00",
+     "end": "2026-12-19T10:45:00-06:00"
+    },
+    {
+     "start": "2026-12-19T11:30:00-06:00",
+     "end": "2026-12-19T12:45:00-06:00"
+    },
+    {
+     "start": "2026-12-20T09:30:00-06:00",
+     "end": "2026-12-20T10:45:00-06:00"
+    },
+    {
+     "start": "2026-12-20T11:30:00-06:00",
+     "end": "2026-12-20T12:45:00-06:00"
+    }
+   ],
+   "schedule": "Sat and Sun at 9:30am and 11:30am, Dec 5 to 27 (75 min)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Lap seats $13 (18 months and under). See the official page for others",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Pick a show on the theatre's ticket page. Reserve lap seats by phone at (312) 374-8835 or buy them at the box office on show day."
+   },
+   "url": "https://chicagochildrenstheatre.org/event/the-beatrix-potter-holiday-party-2026/",
+   "description": "A puppet and trunk show of four Beatrix Potter tales, with original music and audience play. A lobby party with holiday treats follows.",
+   "tags": [
+    "theater",
+    "holiday",
+    "toddlers",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "chicagochildrenstheatre.org event page: runs Dec 5-Dec 27, 2026, public shows Saturdays and Sundays at 9:30am and 11:30am (school shows Wed-Fri), Pritzker Family Studio Theatre at 100 S. Racine, ideal for ages up to 8, 75 minutes (subject to change), lap seats $13 plus fees for 18 months and under by phone or at the box office day-of. Stories: Jeremy Fisher, The Tailor of Gloucester, Mrs. Tittlemouse, Peter Rabbit. Full ticket prices and on-sale date not shown. Status 'open' based on the live 'Pick your show' link. Sessions list the first 12 public shows (Dec 26-27 also fall in the run).",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-cpl-west-belmont-story-time",
+   "title": "Story Time at West Belmont Branch",
+   "organizer": "Chicago Public Library",
+   "type": "Story time",
+   "venue": "West Belmont Branch, Chicago Public Library",
+   "address": "3104 N. Narragansett Ave., Chicago, IL 60634",
+   "neighborhood": "Montclare",
+   "borough": "Chicago",
+   "lat": 41.937,
+   "lng": -87.7853,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 60,
+   "ageLabel": "Ages 0 to 5 with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-12-07T10:45:00-06:00",
+     "end": "2026-12-07T11:45:00-06:00"
+    }
+   ],
+   "schedule": "Mon Dec 7, 10:45–11:45am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No sign-up needed for families. Groups of four or more should call the branch to register."
+   },
+   "url": "https://chipublib.bibliocommons.com/v2/events/6ad8cc5fa66d123e2bd56a1a",
+   "description": "Books, fingerplays, songs and rhymes for young kids and their grown-ups. Free play time follows.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "CPL BiblioCommons event page: Story Time, West Belmont, 3104 N. Narragansett Avenue, Monday, December 07, 2026, 10:45-11:45am, children 0 to 5 with a participating adult, followed by free play, registration not required except groups of four or more. Only this date is listed on the page. Neighborhood is an approximation.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-cpl-altgeld-story-time",
+   "title": "Story Time at Altgeld Branch",
+   "organizer": "Chicago Public Library",
+   "type": "Story time",
+   "venue": "Altgeld Branch, Chicago Public Library",
+   "address": "955 E. 131st St., Chicago, IL 60827",
+   "neighborhood": "Riverdale",
+   "borough": "Chicago",
+   "lat": 41.659,
+   "lng": -87.598,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 60,
+   "ageLabel": "Ages 0 to 5 with an adult. Older siblings welcome",
+   "sessions": [
+    {
+     "start": "2026-12-08T10:30:00-06:00",
+     "end": "2026-12-08T11:00:00-06:00"
+    }
+   ],
+   "schedule": "Tue Dec 8, 10:30–11am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Check the library's event page for any changes before heading over."
+   },
+   "url": "https://chipublib.bibliocommons.com/v2/events/6aa2d01cf9ed2e00384f8ea2",
+   "description": "A short story time with fun stories, songs and activities for little ones and their grown-ups.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "CPL BiblioCommons event page: Story Time, Altgeld, 955 E. 131st Street, Tuesday, December 08, 2026, 10:30-11:00am, children 0 to 5 with an adult, older siblings welcome. The page shows no registration requirement (only Interested/Add to calendar buttons), so Walk-in is inferred. Only this date is listed.",
+   "addedBy": "claude",
+   "city": "chicago"
+  },
+  {
+   "id": "chicago-cpl-austin-irving-play-date",
+   "title": "Play Date at Austin-Irving Branch",
+   "organizer": "Chicago Public Library",
+   "type": "Play",
+   "venue": "Austin-Irving Branch, Chicago Public Library (2nd floor meeting room)",
+   "address": "6100 W. Irving Park Rd., Chicago, IL 60634",
+   "neighborhood": "Portage Park",
+   "borough": "Chicago",
+   "lat": 41.953,
+   "lng": -87.779,
+   "ageMinMonths": 6,
+   "ageMaxMonths": 60,
+   "ageLabel": "6 months to 5 years with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-12-17T11:00:00-06:00",
+     "end": "2026-12-17T11:45:00-06:00"
+    }
+   ],
+   "schedule": "Thu Dec 17, 11–11:45am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Accommodation requests need at least 14 business days' notice."
+   },
+   "url": "https://chipublib.bibliocommons.com/v2/events/6adbd590a85a2c003381bbd6",
+   "description": "Open play and social time with the library's toys, music and books. An easy way to meet other parents and caregivers.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "CPL BiblioCommons event page: Play Date, Austin-Irving, 6100 W. Irving Park Road, Meeting Room 2nd Floor, Thursday, December 17, 2026, 11:00-11:45am, children 6 months to 5 with a participating adult. No registration requirement shown, so Walk-in is inferred. Only this date is listed. Neighborhood is an approximation.",
+   "addedBy": "claude",
+   "city": "chicago"
+  }
+ ]
+}

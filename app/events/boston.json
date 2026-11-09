@@ -1,0 +1,616 @@
+{
+ "version": 1,
+ "city": "boston",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "boston-puppet-showplace-nest",
+   "city": "boston",
+   "title": "NEST: A Multilingual Story",
+   "organizer": "Puppet Showplace Theater (Happy Theater)",
+   "type": "Theater",
+   "venue": "Puppet Showplace Theater",
+   "address": "32 Station Street, Brookline, MA 02445",
+   "neighborhood": "Brookline Village",
+   "borough": "Brookline",
+   "lat": 42.3319,
+   "lng": -71.1163,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 72,
+   "ageLabel": "Best for ages 1 to 6, all ages welcome",
+   "sessions": [
+    {
+     "start": "2026-11-21T09:30:00-05:00",
+     "end": "2026-11-21T10:10:00-05:00"
+    },
+    {
+     "start": "2026-11-21T11:30:00-05:00",
+     "end": "2026-11-21T12:10:00-05:00"
+    },
+    {
+     "start": "2026-11-22T09:30:00-05:00",
+     "end": "2026-11-22T10:10:00-05:00"
+    },
+    {
+     "start": "2026-11-22T11:30:00-05:00",
+     "end": "2026-11-22T12:10:00-05:00"
+    }
+   ],
+   "schedule": "Sat Nov 21 and Sun Nov 22, 9:30am and 11:30am (40 min)",
+   "recurring": false,
+   "priceMin": 18.5,
+   "priceMax": 18.5,
+   "priceLabel": "$18.50 plus $3 fee, members $14.50, $3 with Card to Culture",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale on the event page. One price covers every age. Card to Culture holders (WIC, EBT, MassHealth, ConnectorCare) pay $3."
+   },
+   "url": "https://www.puppetshowplace.org/calendar/2026/11/21/nest-a-multilingual-story-for-ages-1-6-by-happy-theater",
+   "description": "A baby bird and a forest fairy explore the seasons with hand puppets and live classical guitar. Simple words come in English, French, Spanish and Russian.",
+   "tags": [
+    "toddlers",
+    "preschool",
+    "puppets",
+    "multilingual",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Dates, times, 40-min run time, ages 1-6, prices ($18.50 general admission plus $3 service fee, $14.50 members, $3 Card to Culture), venue and 30-min post-show meet-the-puppets activity confirmed on the puppetshowplace.org NEST event page and the theater's November 2026 calendar. Page does not show sold-out status.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-puppet-showplace-cinderella",
+   "city": "boston",
+   "title": "Cinderella",
+   "organizer": "Puppet Showplace Theater (Tanglewood Marionettes)",
+   "type": "Theater",
+   "venue": "Puppet Showplace Theater",
+   "address": "32 Station Street, Brookline, MA 02445",
+   "neighborhood": "Brookline Village",
+   "borough": "Brookline",
+   "lat": 42.3319,
+   "lng": -71.1163,
+   "ageMinMonths": 48,
+   "ageMaxMonths": 96,
+   "ageLabel": "Best for ages 4 to 8, all ages welcome",
+   "sessions": [
+    {
+     "start": "2026-11-27T10:30:00-05:00",
+     "end": "2026-11-27T11:15:00-05:00"
+    },
+    {
+     "start": "2026-11-27T13:00:00-05:00",
+     "end": "2026-11-27T13:45:00-05:00"
+    },
+    {
+     "start": "2026-11-27T15:00:00-05:00",
+     "end": "2026-11-27T15:45:00-05:00"
+    },
+    {
+     "start": "2026-11-28T10:30:00-05:00",
+     "end": "2026-11-28T11:15:00-05:00"
+    },
+    {
+     "start": "2026-11-28T13:00:00-05:00",
+     "end": "2026-11-28T13:45:00-05:00"
+    },
+    {
+     "start": "2026-11-28T15:00:00-05:00",
+     "end": "2026-11-28T15:45:00-05:00"
+    },
+    {
+     "start": "2026-11-29T10:30:00-05:00",
+     "end": "2026-11-29T11:15:00-05:00"
+    },
+    {
+     "start": "2026-11-29T13:00:00-05:00",
+     "end": "2026-11-29T13:45:00-05:00"
+    }
+   ],
+   "schedule": "Nov 27 to 29, 10:30am and 1pm, plus 3pm Fri and Sat (45 min)",
+   "recurring": false,
+   "priceMin": 18.5,
+   "priceMax": 18.5,
+   "priceLabel": "$18.50 plus $3 fee, members $14.50, $3 with Card to Culture",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale on the event page. Box office questions go to 617-731-6400 or boxoffice@puppetshowplace.org."
+   },
+   "url": "https://www.puppetshowplace.org/calendar/2026/11/27/cinderella-by-tanglewood-marionettes",
+   "description": "The classic fairy tale told with more than a dozen costumed marionettes over Thanksgiving weekend. Families can meet the puppeteers and try a dress-up station after the show.",
+   "tags": [
+    "preschool",
+    "puppets",
+    "thanksgiving",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Dates, times, 45-min run time, ages (especially 4-8), prices, box office contact, venue and post-show activities confirmed on the puppetshowplace.org Cinderella event page and the November 2026 calendar. Page does not show sold-out status.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-pops-holiday-pops-kids-matinee",
+   "city": "boston",
+   "title": "Holiday Pops Kids' Matinee",
+   "organizer": "Boston Pops (Boston Symphony Orchestra)",
+   "type": "Music",
+   "venue": "Symphony Hall",
+   "address": "301 Massachusetts Avenue, Boston, MA 02115",
+   "neighborhood": "Fenway",
+   "borough": "Boston",
+   "lat": 42.3429,
+   "lng": -71.0858,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Made for young kids, under 2 free by phone",
+   "sessions": [
+    {
+     "start": "2026-12-06T11:00:00-05:00",
+     "end": "2026-12-06T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-12T11:00:00-05:00",
+     "end": "2026-12-12T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00-05:00",
+     "end": "2026-12-13T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-19T11:00:00-05:00",
+     "end": "2026-12-19T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-20T11:00:00-05:00",
+     "end": "2026-12-20T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-23T11:00:00-05:00",
+     "end": "2026-12-23T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-24T11:00:00-05:00",
+     "end": "2026-12-24T12:00:00-05:00"
+    }
+   ],
+   "schedule": "Select days Dec 6 to Dec 24, 11am (about 1 hour)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Under 2 free by phone. See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets online for each date. For a free ticket for a child under 2, call 617-266-1200 when buying adult tickets. Phone hours are weekdays 10am to 4pm and Saturdays 12:30pm to 4:30pm."
+   },
+   "url": "https://www.bso.org/events/kids-matinee-2026",
+   "description": "A shorter Holiday Pops concert with no intermission, made for younger listeners. Families can meet Santa and enjoy treats after the show.",
+   "tags": [
+    "holiday",
+    "music",
+    "toddlers",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Seven 11:00 AM dates (Dec 6, 12, 13, 19, 20, 23, 24), Symphony Hall, approx. one-hour run time with no intermission, free under-2 tickets by calling 617-266-1200, phone hours and meet-Santa note confirmed on bso.org/events/kids-matinee-2026. Prices and a formal age range are not stated. Dec 6 shows a Buy Tickets link. Other dates show a 'Tickets will be available on' line with the date left blank, so their on-sale date is unknown.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-brookline-library-babytime",
+   "city": "boston",
+   "title": "Babytime",
+   "organizer": "Public Library of Brookline",
+   "type": "Story time",
+   "venue": "Hunneman Hall, Brookline Village Library",
+   "address": "361 Washington Street, Brookline, MA 02445",
+   "neighborhood": "Brookline Village",
+   "borough": "Brookline",
+   "lat": 42.3329,
+   "lng": -71.119,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Babies who are not walking yet",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:30:00-05:00",
+     "end": "2026-11-09T11:15:00-05:00"
+    },
+    {
+     "start": "2026-11-16T10:30:00-05:00",
+     "end": "2026-11-16T11:15:00-05:00"
+    },
+    {
+     "start": "2026-11-30T10:30:00-05:00",
+     "end": "2026-11-30T11:15:00-05:00"
+    },
+    {
+     "start": "2026-12-07T10:30:00-05:00",
+     "end": "2026-12-07T11:15:00-05:00"
+    },
+    {
+     "start": "2026-12-14T10:30:00-05:00",
+     "end": "2026-12-14T11:15:00-05:00"
+    }
+   ],
+   "schedule": "Mondays 10:30am to 11:15am (no session Nov 23)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No registration or ticket needed. Head to Hunneman Hall at the Brookline Village Library."
+   },
+   "url": "https://brooklinelibrary.libcal.com/event/17268733",
+   "description": "A baby lapsit with songs and play. Grown-ups sit on the floor with babies on their laps. The second half is open play and time to meet other families.",
+   "tags": [
+    "free",
+    "babies",
+    "library",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Monday 10:30-11:15 AM sessions (Nov 9, 16, 30, Dec 7, 14), location, 'no registration required', format and the not-yet-walking rule confirmed on the Brookline Library LibCal Babytime page (Nov 2 session) and its listed series dates. No Nov 23 date is listed. The library gives no age in months, so ageMaxMonths 12 approximates babies not yet walking.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-cambridge-library-baby-lapsit-main",
+   "city": "boston",
+   "title": "Baby Lapsit",
+   "organizer": "Cambridge Public Library",
+   "type": "Story time",
+   "venue": "Main Library, Rey Room",
+   "address": "449 Broadway, Cambridge, MA 02138",
+   "neighborhood": "Mid-Cambridge",
+   "borough": "Cambridge",
+   "lat": 42.3736,
+   "lng": -71.1111,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 18,
+   "ageLabel": "Babies 0 to 18 months with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-25T10:00:00-05:00",
+     "end": "2026-11-25T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Wednesday mornings, 10am to 10:30am, next on Nov 25",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free tickets go out first come, first served on the day. The whole party must be there to get one. Room for 15 babies. The program starts on time."
+   },
+   "url": "https://www.cambridgema.gov/departments/cambridgepubliclibrary/calendar/2026/11/25/babylapsitmain",
+   "description": "Bounces and rhymes for babies and their grown-ups. Each session helps little ones build language and motor skills.",
+   "tags": [
+    "free",
+    "babies",
+    "library",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 25, 2026 10:00-10:30 AM session, Rey Room location, ages 0-18 months, same-day first-come tickets and 15-baby cap confirmed on the cambridgema.gov event page. A Nov 4 session (also Wednesday) and earlier Wednesday pages (Aug 5, Aug 12, Sep 2, Sep 16) show the Wednesday pattern, but the city calendar is script-driven and Nov 11 and Nov 18 pages could not be loaded, so only Nov 25 is listed as a session.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-mfa-story-hour",
+   "city": "boston",
+   "title": "Story Hour",
+   "organizer": "Museum of Fine Arts, Boston",
+   "type": "Museum",
+   "venue": "Museum of Fine Arts, Boston",
+   "address": "465 Huntington Avenue, Boston, MA 02115",
+   "neighborhood": "Fenway",
+   "borough": "Boston",
+   "lat": 42.3394,
+   "lng": -71.094,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Kids and families",
+   "sessions": [
+    {
+     "start": "2026-11-08T11:00:00-05:00",
+     "end": "2026-11-08T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-08T13:00:00-05:00",
+     "end": "2026-11-08T14:00:00-05:00"
+    },
+    {
+     "start": "2026-12-13T11:00:00-05:00",
+     "end": "2026-12-13T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-13T13:00:00-05:00",
+     "end": "2026-12-13T14:00:00-05:00"
+    },
+    {
+     "start": "2027-01-10T11:00:00-05:00",
+     "end": "2027-01-10T12:00:00-05:00"
+    },
+    {
+     "start": "2027-01-10T13:00:00-05:00",
+     "end": "2027-01-10T14:00:00-05:00"
+    }
+   ],
+   "schedule": "Sun Nov 8, Dec 13 and Jan 10, 11am and 1pm (1 hour)",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Each date has a late-morning and an early-afternoon session. See the event page for where to meet and how entry works."
+   },
+   "url": "https://mfa.org/programs/kids-and-family-programs",
+   "description": "Stories shared in the museum galleries on one Sunday a month, with two sessions each day.",
+   "tags": [
+    "museum",
+    "stories",
+    "weekend",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Story Hour dates and times (Nov 8, Dec 13, Jan 10 at 11 AM-12 PM and 1-2 PM) from the mfa.org Kids and Family Programs listing, where it sits under Gallery Activities and Tours. The listing gives no age range, price, gallery or registration rule, and the individual event pages could not be fetched. Age 0-216 and Walk-in are placeholders because no range or sign-up is stated. No Feb or Mar 2027 dates are listed.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-mfa-hanukkah-2026",
+   "city": "boston",
+   "title": "Hanukkah",
+   "organizer": "Museum of Fine Arts, Boston",
+   "type": "Holiday",
+   "venue": "Museum of Fine Arts, Boston",
+   "address": "465 Huntington Avenue, Boston, MA 02115",
+   "neighborhood": "Fenway",
+   "borough": "Boston",
+   "lat": 42.3394,
+   "lng": -71.094,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, free for 18 and under",
+   "sessions": [
+    {
+     "start": "2026-12-06T10:00:00-05:00",
+     "end": "2026-12-06T17:00:00-05:00"
+    }
+   ],
+   "schedule": "Sun Dec 6, 10am to 5pm",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": null,
+   "priceLabel": "Free for ages 18 and under. See the official page for prices",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Admission is free for visitors 18 and under on this day."
+   },
+   "url": "https://mfa.org/programs/kids-and-family-programs",
+   "description": "A daylong Hanukkah celebration at the museum. Kids and teens 18 and under get in free.",
+   "tags": [
+    "holiday",
+    "museum",
+    "indoor",
+    "free-for-kids"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Special event 'Hanukkah', Sun Dec 6, 2026, 10 AM-5 PM, 'Free admission for youths 18 and under', from the mfa.org Kids and Family Programs listing (special events). Program details, adult pricing and registration rules are not on the listing, and the event page could not be fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-mfa-lunar-new-year-2027",
+   "city": "boston",
+   "title": "Lunar New Year",
+   "organizer": "Museum of Fine Arts, Boston",
+   "type": "Holiday",
+   "venue": "Museum of Fine Arts, Boston",
+   "address": "465 Huntington Avenue, Boston, MA 02115",
+   "neighborhood": "Fenway",
+   "borough": "Boston",
+   "lat": 42.3394,
+   "lng": -71.094,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, free for 18 and under",
+   "sessions": [
+    {
+     "start": "2027-02-07T10:00:00-05:00",
+     "end": "2027-02-07T17:00:00-05:00"
+    }
+   ],
+   "schedule": "Sun Feb 7, 10am to 5pm",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": null,
+   "priceLabel": "Free for ages 18 and under. See the official page for prices",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Admission is free for visitors 18 and under on this day."
+   },
+   "url": "https://mfa.org/programs/kids-and-family-programs",
+   "description": "A daylong Lunar New Year celebration at the museum. Kids and teens 18 and under get in free.",
+   "tags": [
+    "holiday",
+    "museum",
+    "indoor",
+    "free-for-kids"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Special event 'Lunar New Year', Sun Feb 7, 2027, 10 AM-5 PM, 'Free admission for youths 18 and under', from the mfa.org Kids and Family Programs listing (special events). Program details, adult pricing and registration rules are not on the listing, and the event page could not be fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-wheelock-finding-nemo",
+   "city": "boston",
+   "title": "Finding Nemo",
+   "organizer": "Wheelock Family Theatre at Boston University",
+   "type": "Theater",
+   "venue": "Wheelock Family Theatre, BU Fenway Campus",
+   "address": "200 The Riverway, Boston, MA 02215",
+   "neighborhood": "Fenway",
+   "borough": "Boston",
+   "lat": 42.342,
+   "lng": -71.106,
+   "ageMinMonths": 48,
+   "ageMaxMonths": 216,
+   "ageLabel": "Ages 4 and up",
+   "sessions": [
+    {
+     "start": "2026-12-06T14:00:00-05:00",
+     "end": "2026-12-06T15:15:00-05:00"
+    },
+    {
+     "start": "2026-12-11T19:30:00-05:00",
+     "end": "2026-12-11T20:45:00-05:00"
+    }
+   ],
+   "schedule": "Runs Nov 14 to Dec 13 (75 min with intermission)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy through the Tickets & Show Times link or BosTix. The Dec 6 2pm and Dec 11 7:30pm shows are access performances. Every show has open captions."
+   },
+   "url": "https://www.wheelockfamilytheatre.org/performances/current-season/finding-nemo-2026/",
+   "description": "A bright stage version of the Pixar film. Marlin, a cautious clownfish dad, leaves the reef to find his son Nemo.",
+   "tags": [
+    "preschool",
+    "theater",
+    "captioned",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Run Nov 14-Dec 13, 2026, about 75 min with intermission, ages 4 and up, venue, ticket channels (OvationTix, BosTix), open captions at every show and access performances (Dec 6 2 PM, Dec 11 7:30 PM, plus a Dec 9 10:30 AM student matinee left out here) confirmed on wheelockfamilytheatre.org. The full show-time list and prices sit on OvationTix, which was not reachable, so only the two confirmed public times are listed as sessions. The page does not say which access service (ASL, audio description, sensory-friendly) each date has.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "boston-childrens-museum-play",
+   "city": "boston",
+   "title": "Play at Boston Children's Museum",
+   "organizer": "Boston Children's Museum",
+   "type": "Play",
+   "venue": "Boston Children's Museum",
+   "address": "308 Congress Street, Boston, MA 02210",
+   "neighborhood": "Fort Point",
+   "borough": "Boston",
+   "lat": 42.3519,
+   "lng": -71.0498,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Babies to big kids, under 12 months free",
+   "sessions": [
+    {
+     "start": "2026-11-05T09:00:00-05:00",
+     "end": "2026-11-05T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-06T09:00:00-05:00",
+     "end": "2026-11-06T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-07T10:00:00-05:00",
+     "end": "2026-11-07T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-08T09:00:00-05:00",
+     "end": "2026-11-08T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-09T09:00:00-05:00",
+     "end": "2026-11-09T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-11T09:00:00-05:00",
+     "end": "2026-11-11T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T09:00:00-05:00",
+     "end": "2026-11-12T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-13T09:00:00-05:00",
+     "end": "2026-11-13T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-14T09:00:00-05:00",
+     "end": "2026-11-14T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-15T09:00:00-05:00",
+     "end": "2026-11-15T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-16T09:00:00-05:00",
+     "end": "2026-11-16T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-18T09:00:00-05:00",
+     "end": "2026-11-18T16:00:00-05:00"
+    }
+   ],
+   "schedule": "Wed to Mon 9am to 4pm, closed Tue, opens 10am first Saturdays",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 24,
+   "priceLabel": "$24 adults and kids 1 to 15, under 12 months free",
+   "registration": {
+    "required": false,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Advance online tickets are highly recommended. Members get in free. Library passes offer half-price entry."
+   },
+   "url": "https://bostonchildrensmuseum.org/calendar/",
+   "description": "A hands-on children's museum on the Fort Point Channel. Babies under 12 months get in free.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "museum",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Hours (Wed-Mon 9 AM-4 PM, closed Tue, 10 AM opening on the first Saturday of each month), admission ($24 adults and children 1-15, under 12 months free, members free) and the advance-ticket recommendation confirmed on bostonchildrensmuseum.org calendar and event pages. Half-price library membership is from the museum's site index (llms.txt). Sessions are the next open days by the posted hours. Holiday closures were not listed. The events calendar is script-driven and showed no individual programs.",
+   "addedBy": "claude"
+  }
+ ]
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Little Outings</title>
+<meta name="description" content="Concerts, story times, classes and shows for babies and toddlers in your city, with an alert the moment sign-ups open.">
+<link rel="icon" href="/favicon.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="stylesheet" href="/site.css">
+</head>
+<body>
+<header><div class="wrap">
+  <a class="brand" href="/"><img src="/icon.png" alt="">Little Outings</a>
+  <nav><a href="/" aria-current="page">Home</a><a href="/app/">Web app</a><a href="/support/">Support</a><a href="/privacy/">Privacy</a></nav>
+</div></header>
+<main><div class="wrap">
+  <h1>Never miss the sign-up again.</h1>
+  <p class="lede">Little Outings finds concerts, story times, classes and shows for babies and toddlers. It tells you the moment free tickets and class spots open.</p>
+  <p class="cities" id="cities">Now in New York City.</p>
+  <div class="stores">
+    <a class="store primary" href="/app/"><small>Use it now in your</small><strong>Web browser</strong></a>
+    <span class="store" aria-disabled="true"><small>Coming soon on the</small><strong>App Store</strong></span>
+    <span class="store" aria-disabled="true"><small>Coming soon on</small><strong>Google Play</strong></span>
+  </div>
+  <div class="features">
+    <div class="feature"><h3>Right for their age</h3><p>Enter your child's birth month once. You only see events that fit their age on the day of the event.</p></div>
+    <div class="feature"><h3>Alerts at release time</h3><p>Your phone alerts you the day before, 15 minutes before, and the minute registration opens.</p></div>
+    <div class="feature"><h3>Seasonal sights</h3><p>Holiday trees, windows, markets and carousels, with tips on when to go and how to skip the crowds.</p></div>
+    <div class="feature"><h3>Checked every week</h3><p>Dates, prices, ages and sign-up rules come from each organizer's own website and are rechecked weekly.</p></div>
+    <div class="feature"><h3>Private by design</h3><p>No account and no tracking. Everything about your family stays on your phone.</p></div>
+  </div>
+  <div class="callout">Don't see your city, or know a great program that's missing? Email <span class="email">support@little-outings.com</span>. New cities are added based on requests.</div>
+</div></main>
+<footer><div class="wrap"><span>© 2026 Little Outings</span><span>Not affiliated with any venue listed in the app.</span></div></footer>
+<script>
+fetch("/cities.json").then(r => r.json()).then(j => {
+  const n = (j.cities || []).map(c => c.name);
+  if (!n.length) return;
+  const list = n.length > 1 ? n.slice(0, -1).join(", ") + " and " + n[n.length - 1] : n[0];
+  document.getElementById("cities").textContent = "Now in " + list + ".";
+}).catch(() => {});
+</script>
+</body>
+</html>

@@ -1,0 +1,915 @@
+{
+ "version": 1,
+ "city": "seattle",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "seattle-woodland-park-zoo-wildlanterns",
+   "title": "WildLanterns at Woodland Park Zoo",
+   "organizer": "Woodland Park Zoo",
+   "type": "Holiday",
+   "venue": "Woodland Park Zoo (West or South Entrance)",
+   "address": "5500 Phinney Ave N, Seattle, WA 98103",
+   "neighborhood": "Phinney Ridge",
+   "borough": "Seattle",
+   "lat": 47.6685,
+   "lng": -122.353,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, except 21+ Night Owls evenings",
+   "sessions": [
+    {
+     "start": "2026-11-13T16:00:00-08:00",
+     "end": "2026-11-13T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-14T16:00:00-08:00",
+     "end": "2026-11-14T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-15T16:00:00-08:00",
+     "end": "2026-11-15T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-19T16:00:00-08:00",
+     "end": "2026-11-19T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-21T16:00:00-08:00",
+     "end": "2026-11-21T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-22T16:00:00-08:00",
+     "end": "2026-11-22T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-24T16:00:00-08:00",
+     "end": "2026-11-24T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-25T16:00:00-08:00",
+     "end": "2026-11-25T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-27T16:00:00-08:00",
+     "end": "2026-11-27T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-28T16:00:00-08:00",
+     "end": "2026-11-28T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-29T16:00:00-08:00",
+     "end": "2026-11-29T21:00:00-08:00"
+    },
+    {
+     "start": "2026-12-01T16:00:00-08:00",
+     "end": "2026-12-01T21:00:00-08:00"
+    }
+   ],
+   "schedule": "Nov 13 to Jan 17, 4 to 9pm (last entry 8:30pm), closed some nights",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices. Members save 20%",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale now and sold online only. Members log in at checkout for 20% off. Flex and season passes are also offered. The event runs rain or shine with no refunds."
+   },
+   "url": "https://zoo.org/wildlanterns/",
+   "description": "Giant glowing lanterns light up the zoo paths after dark. Low-sensory nights fall on Nov 15, Dec 1 and Jan 10. Zoomazium also offers a cozy low-sensory room.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "animals",
+    "sensory-friendly-option"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 13 2026 to Jan 17 2027 run, 4-9pm hours with last entry 8:30pm, closed evenings (Nov 16-18, 23, 26, 30; Dec 7, 14, 24-25; Jan 4-6, 11-13), low-sensory nights, Night Owls 21+ dates (Nov 20, Dec 18, Jan 2), 20% member discount, flex and season passes and Zoomazium Nightlights (4:30-8:30pm) confirmed on zoo.org/wildlanterns/. On sale since Aug 24 2026, online-only ticketing, rain-or-shine/no refunds and entrance addresses (West 5500 Phinney Ave N, South 750 N 50th St) from the zoo's Aug 24 2026 press release at zoo.org/?p=42753. Ticket prices and infant policy live on the WildLanterns FAQ, which could not be fetched. Sessions list 12 all-ages nights and skip the Nov 20 21+ night. ZIP code and coordinates added from general knowledge.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-bellevue-botanical-garden-garden-dlights",
+   "title": "Garden d'Lights",
+   "organizer": "Bellevue Botanical Garden",
+   "type": "Holiday",
+   "venue": "Bellevue Botanical Garden",
+   "address": "12001 Main St, Bellevue, WA 98005",
+   "neighborhood": "Wilburton",
+   "borough": "Bellevue",
+   "lat": 47.608,
+   "lng": -122.1782,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 10 and under free",
+   "sessions": [
+    {
+     "start": "2026-11-28T16:30:00-08:00",
+     "end": "2026-11-28T21:30:00-08:00"
+    },
+    {
+     "start": "2026-11-29T16:30:00-08:00",
+     "end": "2026-11-29T21:30:00-08:00"
+    },
+    {
+     "start": "2026-11-30T16:30:00-08:00",
+     "end": "2026-11-30T20:30:00-08:00"
+    },
+    {
+     "start": "2026-12-01T16:30:00-08:00",
+     "end": "2026-12-01T20:30:00-08:00"
+    },
+    {
+     "start": "2026-12-02T16:30:00-08:00",
+     "end": "2026-12-02T20:30:00-08:00"
+    },
+    {
+     "start": "2026-12-03T16:30:00-08:00",
+     "end": "2026-12-03T20:30:00-08:00"
+    },
+    {
+     "start": "2026-12-04T16:30:00-08:00",
+     "end": "2026-12-04T21:30:00-08:00"
+    },
+    {
+     "start": "2026-12-05T16:30:00-08:00",
+     "end": "2026-12-05T21:30:00-08:00"
+    },
+    {
+     "start": "2026-12-06T16:30:00-08:00",
+     "end": "2026-12-06T21:30:00-08:00"
+    },
+    {
+     "start": "2026-12-07T16:30:00-08:00",
+     "end": "2026-12-07T20:30:00-08:00"
+    },
+    {
+     "start": "2026-12-08T16:30:00-08:00",
+     "end": "2026-12-08T20:30:00-08:00"
+    },
+    {
+     "start": "2026-12-09T16:30:00-08:00",
+     "end": "2026-12-09T20:30:00-08:00"
+    }
+   ],
+   "schedule": "Nov 28 to Jan 3, from 4:30pm nightly, closed Dec 25",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 10,
+   "priceLabel": "Kids 10 and under free. Ages 11+ $10, or $5 on value nights",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets online ahead of time. Each ticket is for a set date and a 30-minute entry window. Value nights are Mon to Thu, Nov 30 to Dec 3 and Dec 7 to 10. The Dec 8 sensory-friendly night also needs tickets."
+   },
+   "url": "https://bellevuebotanical.org/garden-dlights/",
+   "description": "A winter evening stroll through the botanical garden, lit with holiday light displays. On the Dec 8 sensory-friendly night the lights stay on, the live music is off and crowds are capped.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "timed-entry",
+    "sensory-friendly-option"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 28 2026 to Jan 3 2027 dates, Dec 25 closure, general nights (first entry 4:30pm, last entry 9pm, lights out 9:30pm), $5 nights Mon-Thu Nov 30-Dec 3 and Dec 7-10 (last entry 8pm, lights out 8:30pm), $10 for ages 11+, 'Kids 10 and under are always free', date- and time-specific online tickets with 30-minute entry windows, and Tuesday Dec 8 sensory-friendly night (all lights, no live music, 200 guests per half-hour, tickets required) confirmed on bellevuebotanical.org/garden-dlights/. No on-sale date is printed. Status open is inferred from the page's 'BUY TICKETS NOW' button. Sensory night start time is not given, so Dec 8 uses the $5-night hours. The page does not say whether free kids need a ticket.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-center-winterfest-train-and-village",
+   "title": "Winterfest Winter Train & Village",
+   "organizer": "Seattle Center",
+   "type": "Holiday",
+   "venue": "Armory Food & Event Hall, Seattle Center",
+   "address": "305 Harrison St, Seattle, WA 98109",
+   "neighborhood": "Lower Queen Anne",
+   "borough": "Seattle",
+   "lat": 47.6215,
+   "lng": -122.3509,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-27T10:00:00-08:00",
+     "end": "2026-11-27T20:00:00-08:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00-08:00",
+     "end": "2026-11-28T18:00:00-08:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00-08:00",
+     "end": "2026-11-29T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00-08:00",
+     "end": "2026-12-05T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00-08:00",
+     "end": "2026-12-06T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00-08:00",
+     "end": "2026-12-12T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00-08:00",
+     "end": "2026-12-13T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00-08:00",
+     "end": "2026-12-19T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-20T10:00:00-08:00",
+     "end": "2026-12-20T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-24T10:00:00-08:00",
+     "end": "2026-12-24T16:00:00-08:00"
+    },
+    {
+     "start": "2026-12-26T10:00:00-08:00",
+     "end": "2026-12-26T18:00:00-08:00"
+    },
+    {
+     "start": "2026-12-31T10:00:00-08:00",
+     "end": "2026-12-31T18:00:00-08:00"
+    }
+   ],
+   "schedule": "Daily Nov 27 to Dec 31, 10am to 6pm, closed Dec 25",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free. $2 suggested donation to run the train",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No tickets needed. Just drop in. Kids can take a turn at the train controls from 10:30am to 5:30pm for a suggested $2 donation."
+   },
+   "url": "https://www.seattlecenter.com/events/event-calendar/winterfest-train-and-village",
+   "description": "A model train winds through a tiny 19th-century village inside the Armory. The display has been a holiday tradition for nearly 50 years. Grab a scavenger hunt sheet at the train station.",
+   "tags": [
+    "free",
+    "holiday",
+    "indoor",
+    "trains",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 27-Dec 31 2026 run, 10am-6pm daily, Nov 27 open until 8pm, Dec 24 closes 4pm, Dec 25 closed, Armory South Court / Armory Food & Event Hall location, 'Free Event', $2 suggested donation for public turns at the controls, train operation 10:30am-5:30pm, scavenger hunt and nearly-50-year tradition confirmed on the seattlecenter.com event page and the Winterfest featured-events page. Street address is the Seattle Center Armory address shown on seattlechildrensmuseum.org (same building). Sessions are 12 sample days from the daily run, including both shortened days.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-childrens-theatre-chicka-chicka-boom-boom",
+   "title": "Chicka Chicka Boom Boom: The Holiday Show",
+   "organizer": "Seattle Children's Theatre",
+   "type": "Theater",
+   "venue": "Charlotte Martin Theatre, Seattle Children's Theatre",
+   "address": "201 Thomas St, Seattle, WA 98109",
+   "neighborhood": "Lower Queen Anne",
+   "borough": "Seattle",
+   "lat": 47.6206,
+   "lng": -122.3525,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages welcome. Best for ages 3 and up",
+   "sessions": [
+    {
+     "start": "2026-11-21T14:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-22T11:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-22T15:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-25T17:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-27T14:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-28T10:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-28T14:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-29T11:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-05T10:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-05T14:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-12T14:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-27T11:00:00-08:00",
+     "end": null
+    }
+   ],
+   "schedule": "Nov 19 to Jan 3, weekends plus some weekdays (about 65 min)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Book each performance on the show page or call the box office at 206-441-3322. The Dec 12 2pm show is sensory-friendly. Dec 27 at 11am is an access show with sensory support, ASL and audio description."
+   },
+   "url": "https://www.sct.org/onstage/productions/chicka-chicka-boom-boom-holiday-2026/",
+   "description": "A holiday musical based on the beloved alphabet picture book. The show runs about 65 minutes with a 10-minute intermission.",
+   "tags": [
+    "theater",
+    "holiday",
+    "indoor",
+    "preschool",
+    "sensory-friendly-option"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 19 2026 to Jan 3 2027 run, Charlotte Martin Theatre at 201 Thomas St, 'All ages welcome. Content aimed at children ages 3+', approx. 65 min with 10-min intermission, performance calendar through Dec 5 (Nov 19 preview, Nov 20 opening, then the listed times), ASL Dec 5 2pm, sensory-friendly Dec 12 2pm and the Dec 27 11am access performance (sensory accommodations, ASL, audio description) confirmed on the sct.org production page, which shows Buy Tickets links per performance. The calendar after Dec 5 was not shown, so later sessions are only the stated access performances. Prices and lap-seat policy are not listed. End times left null. ageMinMonths 36 reflects the 3+ content guidance even though all ages are welcome.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-aquarium-toddler-time",
+   "title": "Toddler Time at the Seattle Aquarium",
+   "organizer": "Seattle Aquarium",
+   "type": "Museum",
+   "venue": "Seattle Aquarium",
+   "address": "1483 Alaskan Way, Pier 59, Seattle, WA 98101",
+   "neighborhood": "Downtown Waterfront",
+   "borough": "Seattle",
+   "lat": 47.6075,
+   "lng": -122.3428,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 36,
+   "ageLabel": "Toddlers with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-08T09:30:00-08:00",
+     "end": "2026-11-08T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-09T09:30:00-08:00",
+     "end": "2026-11-09T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-15T09:30:00-08:00",
+     "end": "2026-11-15T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-16T09:30:00-08:00",
+     "end": "2026-11-16T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-22T09:30:00-08:00",
+     "end": "2026-11-22T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-23T09:30:00-08:00",
+     "end": "2026-11-23T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-29T09:30:00-08:00",
+     "end": "2026-11-29T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-30T09:30:00-08:00",
+     "end": "2026-11-30T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-06T09:30:00-08:00",
+     "end": "2026-12-06T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-07T09:30:00-08:00",
+     "end": "2026-12-07T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-13T09:30:00-08:00",
+     "end": "2026-12-13T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-14T09:30:00-08:00",
+     "end": "2026-12-14T12:00:00-08:00"
+    }
+   ],
+   "schedule": "Select Sundays and Mondays, 9:30am to noon, through Dec 14",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": null,
+   "priceLabel": "Free with admission. Kids 3 and under get in free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No reservation is needed. Drop in any time during the program with aquarium admission. Kids 3 and under get in free."
+   },
+   "url": "https://www.seattleaquarium.org/explore-the-aquarium/programs/toddler-time/",
+   "description": "Themed play mornings for toddlers and their grown-ups. Topics include salmon, shells, Salish Sea whales and winter critters. Stay as long as you like.",
+   "tags": [
+    "toddlers",
+    "indoor",
+    "drop-in",
+    "animals",
+    "under-3-free"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Select Sundays and Mondays 9:30am-12pm, themed dates Nov 8-9 (Diwali), Nov 15-16 (Salmon Tales), Nov 22-23 (Shells), Nov 29-30 (Whales of the Salish Sea), Dec 6-7 (Winter Critters), Dec 13-14 (Winter Solstice, last of 2026), 'free with Aquarium admission', 'No reservations needed', adult must accompany children, confirmed on the Toddler Time program page ('Dates are subject to change'). 'Kids 3 and under are always free' from the Plan Your Visit page. The aquarium gives no age range, so 12-36 months approximates 'toddlers'.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-childrens-museum-baby-blossoms",
+   "title": "Baby Blossoms: Wintry Wiggles",
+   "organizer": "Seattle Children's Museum",
+   "type": "Class",
+   "venue": "Seattle Children's Museum (Seattle Center Armory)",
+   "address": "305 Harrison St, Seattle, WA 98109",
+   "neighborhood": "Lower Queen Anne",
+   "borough": "Seattle",
+   "lat": 47.6216,
+   "lng": -122.351,
+   "ageMinMonths": 6,
+   "ageMaxMonths": 24,
+   "ageLabel": "6 months to 2 years, with a caregiver 18+",
+   "sessions": [
+    {
+     "start": "2026-11-10T10:00:00-08:00",
+     "end": "2026-11-10T10:45:00-08:00"
+    },
+    {
+     "start": "2026-11-17T10:00:00-08:00",
+     "end": "2026-11-17T10:45:00-08:00"
+    },
+    {
+     "start": "2026-12-01T10:00:00-08:00",
+     "end": "2026-12-01T10:45:00-08:00"
+    },
+    {
+     "start": "2026-12-08T10:00:00-08:00",
+     "end": "2026-12-08T10:45:00-08:00"
+    }
+   ],
+   "schedule": "Tuesdays Nov 10 to Dec 8, 10 to 10:45am, no class Thanksgiving week",
+   "recurring": true,
+   "priceMin": 100,
+   "priceMax": 125,
+   "priceLabel": "$125 per session, $100 members. Museums for All 50% off",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Register online for the whole session. All sales are final and there are no make-up classes. A caregiver must stay for each class."
+   },
+   "url": "https://seattlechildrensmuseum.org/classes/",
+   "description": "A hands-on class with sorting, baby sign language and social play. Sensory activities use taste-safe, non-toxic materials.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "class",
+    "indoor",
+    "caregiver-required"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Class block for ages 6 mos-2 yrs (named Baby Blossoms in its registration link), Session 3 theme 'Wintry Wiggles', 'Tuesdays, Nov. 10 - Dec. 8', 10-10:45am, 'No class scheduled for Thanksgiving Week', caregiver present (18+), $125 non-members / $100 members, Museums for All 50% off, 100% non-refundable, no make-ups, Register Here button and 305 Harrison Street address confirmed on seattlechildrensmuseum.org/classes/. The four session dates are derived from that range minus Thanksgiving week. Status open is inferred from the Register button. No winter 2027 classes or registration dates are posted yet. Two other fall classes run for ages 2-4 (Wed and Sat).",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-kcls-kirkland-baby-story-time",
+   "title": "Baby Story Time at Kirkland Library",
+   "organizer": "King County Library System",
+   "type": "Story time",
+   "venue": "Kirkland Library",
+   "address": "308 Kirkland Ave, Kirkland, WA 98033",
+   "neighborhood": "Downtown Kirkland",
+   "borough": "Kirkland",
+   "lat": 47.6766,
+   "lng": -122.2047,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Newborn to 12 months, with an adult",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:30:00-08:00",
+     "end": "2026-11-05T11:00:00-08:00"
+    }
+   ],
+   "schedule": "Thu Nov 5, 10:30 to 11am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No registration needed. Seats are first come, first served and space is limited."
+   },
+   "url": "https://kcls.bibliocommons.com/v2/events/6ac810b5901b02002cc110ad",
+   "description": "Stories, songs, rhymes and movement for the littlest listeners. A short play time follows.",
+   "tags": [
+    "free",
+    "babies",
+    "library",
+    "indoor",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Thursday Nov 5 2026, 10:30-11am, Kirkland Library at 308 Kirkland Ave, newborn to 12 months with an adult, 'first come, first seated', space limited, early literacy focus and short play time confirmed on the KCLS BiblioCommons event page. The kcls.org Kirkland location page lists only this one Baby Story Time date, so no further weekly dates are included.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-kcls-bothell-toddler-story-time",
+   "title": "Toddler Story Time at Bothell Library",
+   "organizer": "King County Library System",
+   "type": "Story time",
+   "venue": "Bothell Library",
+   "address": "18215 98th Ave NE, Bothell, WA 98011",
+   "neighborhood": "Downtown Bothell",
+   "borough": "Bothell",
+   "lat": 47.7592,
+   "lng": -122.2058,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 36,
+   "ageLabel": "18 months to 3 years, with an adult",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:00:00-08:00",
+     "end": "2026-11-09T10:30:00-08:00"
+    },
+    {
+     "start": "2026-11-16T10:00:00-08:00",
+     "end": "2026-11-16T10:30:00-08:00"
+    },
+    {
+     "start": "2026-11-23T10:00:00-08:00",
+     "end": "2026-11-23T10:30:00-08:00"
+    },
+    {
+     "start": "2026-11-30T10:00:00-08:00",
+     "end": "2026-11-30T10:30:00-08:00"
+    },
+    {
+     "start": "2026-12-07T10:00:00-08:00",
+     "end": "2026-12-07T10:30:00-08:00"
+    },
+    {
+     "start": "2026-12-14T10:00:00-08:00",
+     "end": "2026-12-14T10:30:00-08:00"
+    }
+   ],
+   "schedule": "Mondays 10 to 10:30am, Nov 9 to Dec 14",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No registration needed. Space is limited and doors close once the room is full, so arrive on time."
+   },
+   "url": "https://kcls.bibliocommons.com/v2/events/6a80c21d3b6c71003e5919e4",
+   "description": "Stories, music, movement and rhymes sized just right for busy toddlers.",
+   "tags": [
+    "free",
+    "toddlers",
+    "library",
+    "indoor",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Mondays Nov 9, 16, 23, 30 and Dec 7, 14 2026, 10-10:30am, 'For 18 months to age 3 with adult', 'Registration not required. Space is limited', door-closing rule confirmed on the KCLS BiblioCommons events list filtered to Bothell (toddler and preschool audiences, early learning and story time types). No toddler sessions were listed after Dec 14. Address from kcls.org/locations/bothell/. Individual event pages could not be fetched.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-kcls-bothell-family-story-time",
+   "title": "Family Story Time at Bothell Library",
+   "organizer": "King County Library System",
+   "type": "Story time",
+   "venue": "Bothell Library",
+   "address": "18215 98th Ave NE, Bothell, WA 98011",
+   "neighborhood": "Downtown Bothell",
+   "borough": "Bothell",
+   "lat": 47.7592,
+   "lng": -122.2058,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 71,
+   "ageLabel": "All ages with an adult, geared to kids under 6",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:00:00-08:00",
+     "end": "2026-11-05T10:30:00-08:00"
+    },
+    {
+     "start": "2026-11-05T10:45:00-08:00",
+     "end": "2026-11-05T11:15:00-08:00"
+    },
+    {
+     "start": "2026-11-12T10:00:00-08:00",
+     "end": "2026-11-12T10:30:00-08:00"
+    },
+    {
+     "start": "2026-11-12T10:45:00-08:00",
+     "end": "2026-11-12T11:15:00-08:00"
+    },
+    {
+     "start": "2026-11-19T10:00:00-08:00",
+     "end": "2026-11-19T10:30:00-08:00"
+    },
+    {
+     "start": "2026-11-19T10:45:00-08:00",
+     "end": "2026-11-19T11:15:00-08:00"
+    },
+    {
+     "start": "2026-12-03T10:00:00-08:00",
+     "end": "2026-12-03T10:30:00-08:00"
+    },
+    {
+     "start": "2026-12-03T10:45:00-08:00",
+     "end": "2026-12-03T11:15:00-08:00"
+    },
+    {
+     "start": "2026-12-10T10:00:00-08:00",
+     "end": "2026-12-10T10:30:00-08:00"
+    },
+    {
+     "start": "2026-12-10T10:45:00-08:00",
+     "end": "2026-12-10T11:15:00-08:00"
+    },
+    {
+     "start": "2026-12-17T10:00:00-08:00",
+     "end": "2026-12-17T10:30:00-08:00"
+    },
+    {
+     "start": "2026-12-17T10:45:00-08:00",
+     "end": "2026-12-17T11:15:00-08:00"
+    }
+   ],
+   "schedule": "Thursdays at 10am and 10:45am, Nov 5 to Dec 17 (not Nov 26)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No registration needed. Two sessions run each Thursday. Space is limited and doors close once the room is full."
+   },
+   "url": "https://kcls.bibliocommons.com/v2/events/6a80df8ad4b10d003006ba6a",
+   "description": "Stories, music, movement and rhymes that help build early literacy skills. Babies, toddlers and preschoolers are all welcome.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "library",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Thursdays Nov 5, 12, 19 and Dec 3, 10, 17 2026 at 10-10:30am and 10:45-11:15am, 'All ages welcome with adult', tagged Babies (0-1), Toddlers and Preschool (3-5), 'Registration not required. Space is limited. Doors will close once the room reaches capacity' confirmed on the KCLS BiblioCommons events list filtered to Bothell. No Nov 26 session is listed. kcls.org/locations/bothell/ also shows the Nov 5 pair and gives the address. ageMaxMonths 71 reflects the audience tags rather than a stated cap.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-kcls-bothell-little-builders",
+   "title": "Little Builders at Bothell Library",
+   "organizer": "King County Library System",
+   "type": "Play",
+   "venue": "Bothell Library",
+   "address": "18215 98th Ave NE, Bothell, WA 98011",
+   "neighborhood": "Downtown Bothell",
+   "borough": "Bothell",
+   "lat": 47.7592,
+   "lng": -122.2058,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 71,
+   "ageLabel": "Ages 2 to 5, with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-12-29T10:15:00-08:00",
+     "end": "2026-12-29T11:15:00-08:00"
+    }
+   ],
+   "schedule": "Tue Dec 29, 10:15 to 11:15am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": "2026-12-27T11:00:00-08:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "timeKnown": true,
+    "note": "Free registration opens Sunday, Dec 27 at 11am on the library's event page. Set a reminder to sign up."
+   },
+   "url": "https://kcls.bibliocommons.com/v2/events/6ade7dd2de685359098b85b9",
+   "description": "An interactive story leads into building play. Little builders test gravity, stack towers, fix toy cars and play with trains.",
+   "tags": [
+    "free",
+    "toddlers",
+    "preschool",
+    "library",
+    "registration-required"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Title, Tuesday Dec 29 2026 10:15-11:15am, Bothell location, audience tags Toddlers (Age 2) and Preschool (Ages 3 to 5), description, and 'Registration opens in 52 days (December 27 at 11:00am)' quoted from the KCLS BiblioCommons Bothell events list. The relative '52 days' is one off from the Nov 4 to Dec 27 gap, so the absolute date and time were used. The individual event page could not be fetched. Address from kcls.org/locations/bothell/.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-kcls-issaquah-rise-and-shine-story-time",
+   "title": "Rise & Shine Story Time at Issaquah Library",
+   "organizer": "King County Library System",
+   "type": "Story time",
+   "venue": "Issaquah Library",
+   "address": "10 W Sunset Way, Issaquah, WA 98027",
+   "neighborhood": "Olde Town",
+   "borough": "Issaquah",
+   "lat": 47.53,
+   "lng": -122.0359,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 71,
+   "ageLabel": "Newborn to 5 years, with an adult",
+   "sessions": [
+    {
+     "start": "2026-11-12T10:30:00-08:00",
+     "end": "2026-11-12T11:00:00-08:00"
+    }
+   ],
+   "schedule": "Thu Nov 12, 10:30 to 11am, then play time",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No registration needed. Space is limited, so arrive a little early."
+   },
+   "url": "https://kcls.bibliocommons.com/v2/events/6a710898c7e02e3d006da0f3",
+   "description": "Stories, music, movement and rhymes that build early literacy. Up to 30 minutes of play time follows.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "library",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Thursday Nov 12 2026, 10:30-11am, Issaquah Library at 10 W Sunset Way, newborns through 5 years with an adult, no registration, 'Space is limited', up to 30 minutes of play time confirmed on the KCLS BiblioCommons event page. Only this one date was confirmed.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-kcls-boulevard-park-family-story-time",
+   "title": "Family Story Time at Boulevard Park Library",
+   "organizer": "King County Library System",
+   "type": "Story time",
+   "venue": "Boulevard Park Library",
+   "address": "12015 Roseberg Ave S, Seattle, WA 98168",
+   "neighborhood": "Boulevard Park",
+   "borough": "Seattle",
+   "lat": 47.4985,
+   "lng": -122.3148,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 95,
+   "ageLabel": "Infants to age 7, with an adult",
+   "sessions": [
+    {
+     "start": "2026-11-07T11:15:00-08:00",
+     "end": "2026-11-07T12:00:00-08:00"
+    }
+   ],
+   "schedule": "Sat Nov 7, 11:15am to noon",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Just come by with your child. To request an accommodation, email access@kcls.org at least seven days ahead."
+   },
+   "url": "https://kcls.bibliocommons.com/v2/events/6a0fa4e6490f176f7dd5ff22",
+   "description": "Stories, music, movement, rhymes and bubbles, followed by play time. A Saturday morning option for the whole family.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "library",
+    "weekend"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Saturday Nov 7 2026, 11:15am-12pm, Boulevard Park Library at 12015 Roseberg Ave S, infants through age seven with an adult, stories/music/movement/rhymes/bubbles plus play time, and the access@kcls.org seven-day accommodation request confirmed on the KCLS BiblioCommons event page. The page shows no registration requirement (only Interested and Add to calendar buttons), so Walk-in is inferred.",
+   "addedBy": "claude",
+   "city": "seattle"
+  },
+  {
+   "id": "seattle-town-hall-saturday-family-concert-rhapsody-house-band",
+   "title": "Saturday Family Concert: The Rhapsody House Band",
+   "organizer": "Town Hall Seattle",
+   "type": "Music",
+   "venue": "The Wyncote NW Forum, Town Hall Seattle (enter on Seneca St)",
+   "address": "1119 8th Ave, Seattle, WA 98101",
+   "neighborhood": "First Hill",
+   "borough": "Seattle",
+   "lat": 47.6097,
+   "lng": -122.326,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Free for ages 22 and under",
+   "sessions": [
+    {
+     "start": "2026-11-21T11:00:00-08:00",
+     "end": "2026-11-21T12:00:00-08:00"
+    }
+   ],
+   "schedule": "Sat Nov 21, 11am (doors 10:30am), about 60 min",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 35,
+   "priceLabel": "Free for ages 22 and under. Adults $10 to $35 sliding scale",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Get tickets on the Town Hall event page. Adults pick a price on a sliding scale. Anyone 22 and under gets in free."
+   },
+   "url": "https://townhallseattle.org/event/saturday-family-concert-the-rhapsody-house-band/",
+   "description": "An upbeat family concert of blues, soul, folk and other heritage styles. The band is made up of board members, staff and students from The Rhapsody Project.",
+   "tags": [
+    "music",
+    "indoor",
+    "weekend",
+    "all-ages",
+    "free-for-kids"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Saturday Nov 21 2026, 11am PST, doors 10:30am, approx. 60 min, The Wyncote NW Forum at 1119 8th Ave (entrance off Seneca St), $10-$35 sliding scale for adults, 'always free for ages 22 & Under', family-friendly billing, performer description and Get Tickets link confirmed on the townhallseattle.org event page and the Saturday Family Concerts series page. Whether free youth tickets need a reservation is not stated. The series page lists no later family concerts through March 2027. End time derived from the stated 60-minute length.",
+   "addedBy": "claude",
+   "city": "seattle"
+  }
+ ]
+}

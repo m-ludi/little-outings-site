@@ -1,0 +1,855 @@
+{
+ "version": 1,
+ "city": "sf-bay",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "sf-bay-oakland-zoo-glowfari-2026",
+   "city": "sf-bay",
+   "title": "Glowfari",
+   "organizer": "Oakland Zoo",
+   "type": "Holiday",
+   "venue": "Oakland Zoo",
+   "address": "9777 Golf Links Road, Oakland, CA 94605",
+   "neighborhood": "Knowland Park",
+   "borough": "Oakland",
+   "lat": 37.7509,
+   "lng": -122.1474,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-06T16:30:00-08:00",
+     "end": "2026-11-06T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-07T16:30:00-08:00",
+     "end": "2026-11-07T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-08T16:30:00-08:00",
+     "end": "2026-11-08T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-11T16:30:00-08:00",
+     "end": "2026-11-11T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-12T16:30:00-08:00",
+     "end": "2026-11-12T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-13T16:30:00-08:00",
+     "end": "2026-11-13T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-14T16:30:00-08:00",
+     "end": "2026-11-14T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-15T16:30:00-08:00",
+     "end": "2026-11-15T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-18T16:30:00-08:00",
+     "end": "2026-11-18T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-19T16:30:00-08:00",
+     "end": "2026-11-19T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-20T16:30:00-08:00",
+     "end": "2026-11-20T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-21T16:30:00-08:00",
+     "end": "2026-11-21T21:00:00-08:00"
+    }
+   ],
+   "schedule": "Most nights Nov 6 to Jan 31, entry 4:30 to 6:30pm",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices. Members save 10%",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Everyone needs a timed ticket, members included. Tickets for each night go on sale at 9am, 28 days before that date. Tickets are non-refundable."
+   },
+   "url": "https://www.oaklandzoo.org/glowfari",
+   "description": "The zoo glows after dark with light displays along the paths, and rides run from 5 to 9pm. Some areas have bright, flashing light.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Run Nov 6 to Jan 31, closed Nov 9, 10, 16, 17, 26, Dec 24, 25 and Jan 4, 5, 11, 12, 18, 19, 25, 26, entry 4:30-6:30pm, exit by 9pm, Rides Area 5-9pm, timed tickets for all guests, 10% member discount, non-refundable, photosensitivity note, and 'Tickets go on each day exactly 28 days before each visit date at 9:00AM' from oaklandzoo.org/glowfari. The page's own example (Nov 28 tickets on sale Nov 1) is off by a day from that rule. Season year inferred from the closure calendar (Nov 26 = Thanksgiving 2026, Jan 4 2027 = Monday). Prices not on the page. General zoo admission is free under 2 per the Hours and Pricing page, but this is not stated for Glowfari. Sessions are the first 12 open nights.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-sf-zoo-zoolights-2026",
+   "city": "sf-bay",
+   "title": "ZooLights",
+   "organizer": "San Francisco Zoo & Gardens",
+   "type": "Holiday",
+   "venue": "San Francisco Zoo & Gardens",
+   "address": "Sloat Boulevard at the Great Highway, San Francisco, CA 94132",
+   "neighborhood": "Outer Sunset",
+   "borough": "San Francisco",
+   "lat": 37.733,
+   "lng": -122.503,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Child tickets cover ages 2 to 11",
+   "sessions": [
+    {
+     "start": "2026-11-06T17:30:00-08:00",
+     "end": "2026-11-06T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-07T17:30:00-08:00",
+     "end": "2026-11-07T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-08T17:30:00-08:00",
+     "end": "2026-11-08T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-11T17:30:00-08:00",
+     "end": "2026-11-11T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-12T17:30:00-08:00",
+     "end": "2026-11-12T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-13T17:30:00-08:00",
+     "end": "2026-11-13T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-14T17:30:00-08:00",
+     "end": "2026-11-14T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-15T17:30:00-08:00",
+     "end": "2026-11-15T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-18T17:30:00-08:00",
+     "end": "2026-11-18T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-19T17:30:00-08:00",
+     "end": "2026-11-19T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-20T17:30:00-08:00",
+     "end": "2026-11-20T21:00:00-08:00"
+    },
+    {
+     "start": "2026-11-21T17:30:00-08:00",
+     "end": "2026-11-21T21:00:00-08:00"
+    }
+   ],
+   "schedule": "Wed to Sun from Nov 6, nightly Dec 16 to Jan 3, 5:30 to 9pm",
+   "recurring": false,
+   "priceMin": 21,
+   "priceMax": 30,
+   "priceLabel": "Adults $30, kids 2 to 11 $21, members save $3",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets online, in the zoo app or in person. ZooLights needs its own ticket, separate from daytime zoo entry."
+   },
+   "url": "https://www.sfzoo.org/sf-zoo-announces-spectacular-all-new-zoolights-winter-holiday-program/",
+   "description": "An all-new winter light program fills the zoo after dark. It runs every night from Dec 16 through Jan 3.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 6 to Jan 3, 2027, closed Mondays and Tuesdays until Dec 16 then daily, 5:30-9pm, adults (12+) $30, children 2-11 $21, members $3 off, separate ticket from daytime admission, sold online, in person and in the app, all from the SF Zoo announcement dated Oct 2, 2026. Under-2 policy not stated. Thanksgiving and Christmas closures not stated. Sessions are the first 12 open nights.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-sf-zoo-little-learners-spring-2027",
+   "city": "sf-bay",
+   "title": "Little Learners",
+   "organizer": "San Francisco Zoo & Gardens",
+   "type": "Class",
+   "venue": "Little Learners Cabin, Exploration Zone, San Francisco Zoo & Gardens",
+   "address": "Sloat Boulevard at the Great Highway, San Francisco, CA 94132",
+   "neighborhood": "Outer Sunset",
+   "borough": "San Francisco",
+   "lat": 37.733,
+   "lng": -122.503,
+   "ageMinMonths": 30,
+   "ageMaxMonths": 71,
+   "ageLabel": "Ages 2.5 to 5",
+   "sessions": [
+    {
+     "start": "2027-01-19T09:30:00-08:00",
+     "end": "2027-01-19T11:00:00-08:00"
+    },
+    {
+     "start": "2027-01-21T09:30:00-08:00",
+     "end": "2027-01-21T11:00:00-08:00"
+    },
+    {
+     "start": "2027-01-23T09:30:00-08:00",
+     "end": "2027-01-23T11:00:00-08:00"
+    },
+    {
+     "start": "2027-02-23T09:30:00-08:00",
+     "end": "2027-02-23T11:00:00-08:00"
+    },
+    {
+     "start": "2027-02-25T09:30:00-08:00",
+     "end": "2027-02-25T11:00:00-08:00"
+    },
+    {
+     "start": "2027-02-27T09:30:00-08:00",
+     "end": "2027-02-27T11:00:00-08:00"
+    }
+   ],
+   "schedule": "Tue, Thu or Sat, 9:30 to 11am, 5-week sessions from Jan 19",
+   "recurring": true,
+   "priceMin": 150,
+   "priceMax": 175,
+   "priceLabel": "$175 per 5-week session, $150 for members",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Pick one weekly day and register online through the zoo. Spots fill quickly. Spring Session 1 runs Jan 19 to Feb 20, and Session 2 runs Feb 23 to Apr 3."
+   },
+   "url": "https://www.sfzoo.org/little-learners/",
+   "description": "Young kids explore a new group of animals each session in 90-minute hands-on lessons at the zoo. Spring sessions cover animals from K to Z.",
+   "tags": [
+    "preschool",
+    "toddlers",
+    "animals",
+    "class"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Ages 2.5-5, Tue/Thu/Sat 9:30-11am, 90-minute lessons, spring session dates (S1 Jan 19-Feb 20, S2 Feb 23-Apr 3 with no classes Mar 23-27, S3 Apr 5-May 5, 2027), $175 per 5-week session or $150 members, and 'Spots go fill up quickly, register today' from the SF Zoo Little Learners page. Sessions list the first class of each weekday option for Spring S1 and S2. The page does not state when spring registration opens. Status 'open' reflects the page's current register-now link.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-fairyland-fairy-winterland-2026",
+   "city": "sf-bay",
+   "title": "Fairy Winterland",
+   "organizer": "Children's Fairyland",
+   "type": "Holiday",
+   "venue": "Children's Fairyland",
+   "address": "699 Bellevue Avenue, Oakland, CA 94610",
+   "neighborhood": "Lake Merritt",
+   "borough": "Oakland",
+   "lat": 37.809,
+   "lng": -122.2603,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Families with kids of all ages",
+   "sessions": [
+    {
+     "start": "2026-12-12T12:00:00-08:00",
+     "end": "2026-12-12T19:00:00-08:00"
+    },
+    {
+     "start": "2026-12-13T12:00:00-08:00",
+     "end": "2026-12-13T19:00:00-08:00"
+    },
+    {
+     "start": "2026-12-19T12:00:00-08:00",
+     "end": "2026-12-19T19:00:00-08:00"
+    },
+    {
+     "start": "2026-12-20T12:00:00-08:00",
+     "end": "2026-12-20T19:00:00-08:00"
+    },
+    {
+     "start": "2026-12-26T12:00:00-08:00",
+     "end": "2026-12-26T19:00:00-08:00"
+    },
+    {
+     "start": "2026-12-27T12:00:00-08:00",
+     "end": "2026-12-27T19:00:00-08:00"
+    }
+   ],
+   "schedule": "Weekends Dec 12 to 27, noon to 7pm",
+   "recurring": false,
+   "priceMin": 21,
+   "priceMax": 23,
+   "priceLabel": "Adults $23, kids $21, members half price, Fairyland for All $5",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": "2026-11-01T00:00:00-07:00",
+    "closesAt": null,
+    "status": "open",
+    "timeKnown": false,
+    "note": "Tickets went on sale Nov 1 on the Fairyland website. Members get in free on Sat Dec 19."
+   },
+   "url": "https://fairyland.org/winter-fun/",
+   "description": "A 20-year Oakland holiday tradition with winter tales, crafts, puppet shows, music and free cocoa and cider. Black Santa visits too.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "toddlers",
+    "preschool"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Weekends Dec 12-13, 19-20, 26-27, 2026, 12-7pm, $23 adult / $21 child, members $11.50 / $10.50, Fairyland for All $5 per person, member free day Sat Dec 19, activities, and 'Tickets go on sale November 1, 2026' (no time given) from the Fairyland Winter Events page. opensAt uses -07:00 because midnight Nov 1 falls before the 2am switch to standard time. No age range stated.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-fairyland-noon-years-eve-2026",
+   "city": "sf-bay",
+   "title": "Countdown in Wonderland: Noon Year's Eve",
+   "organizer": "Children's Fairyland",
+   "type": "Holiday",
+   "venue": "Children's Fairyland",
+   "address": "699 Bellevue Avenue, Oakland, CA 94610",
+   "neighborhood": "Lake Merritt",
+   "borough": "Oakland",
+   "lat": 37.809,
+   "lng": -122.2603,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Families with kids of all ages",
+   "sessions": [
+    {
+     "start": "2026-12-31T12:00:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-31T15:00:00-08:00",
+     "end": null
+    }
+   ],
+   "schedule": "Thu Dec 31, ball drops at noon and 3pm",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Included with Fairyland general admission",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Included with general admission. Get tickets on the Fairyland website."
+   },
+   "url": "https://fairyland.org/winter-fun/",
+   "description": "A Wonderland-themed daytime countdown with crafts, a dance party, puppet shows and bubbles. Kids ring in 2027 well before bedtime.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "toddlers",
+    "preschool"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Thursday Dec 31, 2026, ball drops at 12pm and 3pm, activities, White Rabbit cameo, 'Included with General Admission' and a Get Tickets link from the Fairyland Winter Events page. General admission price, event hours and whether advance tickets are required not stated. Session times are the two ball-drop times.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-jccsf-playdate-open-gym-2027",
+   "city": "sf-bay",
+   "title": "Playdate: Open Gym Time",
+   "organizer": "Jewish Community Center of San Francisco (JCCSF)",
+   "type": "Play",
+   "venue": "JCCSF",
+   "address": "3200 California Street, San Francisco, CA 94118",
+   "neighborhood": "Laurel Heights",
+   "borough": "San Francisco",
+   "lat": 37.7866,
+   "lng": -122.4469,
+   "ageMinMonths": 6,
+   "ageMaxMonths": 42,
+   "ageLabel": "6 to 42 months with a caregiver",
+   "sessions": [
+    {
+     "start": "2027-01-14T10:00:00-08:00",
+     "end": "2027-01-14T11:30:00-08:00"
+    },
+    {
+     "start": "2027-01-21T10:00:00-08:00",
+     "end": "2027-01-21T11:30:00-08:00"
+    },
+    {
+     "start": "2027-01-28T10:00:00-08:00",
+     "end": "2027-01-28T11:30:00-08:00"
+    },
+    {
+     "start": "2027-02-04T10:00:00-08:00",
+     "end": "2027-02-04T11:30:00-08:00"
+    },
+    {
+     "start": "2027-02-11T10:00:00-08:00",
+     "end": "2027-02-11T11:30:00-08:00"
+    },
+    {
+     "start": "2027-02-18T10:00:00-08:00",
+     "end": "2027-02-18T11:30:00-08:00"
+    },
+    {
+     "start": "2027-02-25T10:00:00-08:00",
+     "end": "2027-02-25T11:30:00-08:00"
+    },
+    {
+     "start": "2027-03-04T10:00:00-08:00",
+     "end": "2027-03-04T11:30:00-08:00"
+    },
+    {
+     "start": "2027-03-11T10:00:00-08:00",
+     "end": "2027-03-11T11:30:00-08:00"
+    },
+    {
+     "start": "2027-03-18T10:00:00-07:00",
+     "end": "2027-03-18T11:30:00-07:00"
+    },
+    {
+     "start": "2027-03-25T10:00:00-07:00",
+     "end": "2027-03-25T11:30:00-07:00"
+    }
+   ],
+   "schedule": "Thursdays, 10 to 11:30am, Jan 14 to May 13",
+   "recurring": true,
+   "priceMin": 22,
+   "priceMax": 374,
+   "priceLabel": "$22 drop-in or $374 for the 17-week semester pass",
+   "registration": {
+    "required": false,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Register your child ahead to hold a spot. Drop-ins join when space allows. A caregiver stays for the whole session."
+   },
+   "url": "https://www.jccsf.org/program/playdate/",
+   "description": "Babies and toddlers burn off energy in an open gym with their grown-ups. The winter and spring semester runs 17 weeks with no class on Apr 22.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "indoor",
+    "play"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Open Gym Thursdays 10-11:30am, ages 6-42 months, Winter/Spring Jan 14 to May 13, 2027 (no class Apr 22), $22 public drop-in, $374 17-week pass, register ahead advice, drop-ins by capacity, caregiver must stay, from the JCCSF Playdate page. Sessions are the Thursdays in that range through March 31. Registration open date not stated. Status 'open' reflects the page's register-ahead guidance.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-jccsf-baby-and-me-yoga-2027",
+   "city": "sf-bay",
+   "title": "Baby & Me Yoga",
+   "organizer": "Jewish Community Center of San Francisco (JCCSF)",
+   "type": "Class",
+   "venue": "JCCSF",
+   "address": "3200 California Street, San Francisco, CA 94118",
+   "neighborhood": "Laurel Heights",
+   "borough": "San Francisco",
+   "lat": 37.7866,
+   "lng": -122.4469,
+   "ageMinMonths": 1,
+   "ageMaxMonths": 8,
+   "ageLabel": "6 weeks old to pre-crawling, with a grown-up",
+   "sessions": [
+    {
+     "start": "2027-01-13T10:00:00-08:00",
+     "end": "2027-01-13T11:20:00-08:00"
+    },
+    {
+     "start": "2027-01-20T10:00:00-08:00",
+     "end": "2027-01-20T11:20:00-08:00"
+    },
+    {
+     "start": "2027-01-27T10:00:00-08:00",
+     "end": "2027-01-27T11:20:00-08:00"
+    },
+    {
+     "start": "2027-02-03T10:00:00-08:00",
+     "end": "2027-02-03T11:20:00-08:00"
+    },
+    {
+     "start": "2027-02-10T10:00:00-08:00",
+     "end": "2027-02-10T11:20:00-08:00"
+    },
+    {
+     "start": "2027-02-17T10:00:00-08:00",
+     "end": "2027-02-17T11:20:00-08:00"
+    },
+    {
+     "start": "2027-03-03T10:00:00-08:00",
+     "end": "2027-03-03T11:20:00-08:00"
+    },
+    {
+     "start": "2027-03-10T10:00:00-08:00",
+     "end": "2027-03-10T11:20:00-08:00"
+    },
+    {
+     "start": "2027-03-17T10:00:00-07:00",
+     "end": "2027-03-17T11:20:00-07:00"
+    },
+    {
+     "start": "2027-03-24T10:00:00-07:00",
+     "end": "2027-03-24T11:20:00-07:00"
+    },
+    {
+     "start": "2027-03-31T10:00:00-07:00",
+     "end": "2027-03-31T11:20:00-07:00"
+    }
+   ],
+   "schedule": "Wednesdays, 10 to 11:20am, 6-week blocks from Jan 13",
+   "recurring": true,
+   "priceMin": 35,
+   "priceMax": 180,
+   "priceLabel": "$180 per 6-week block or $35 drop-in",
+   "registration": {
+    "required": false,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Register the adult for a 6-week block, or drop in when space allows. Blocks run Jan 13 to Feb 17, Mar 3 to Apr 7 and Apr 21 to May 26."
+   },
+   "url": "https://www.jccsf.org/program/playdate/",
+   "description": "Gentle yoga for caregivers with their pre-crawling babies right alongside. Each class runs 80 minutes.",
+   "tags": [
+    "babies",
+    "indoor",
+    "class",
+    "movement"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Wednesdays 10-11:20am, 'Ages 6 weeks to pre-crawling', blocks 1/13-2/17, 3/3-4/7, 4/21-5/26, $180 per block or $35 drop-in, register the adult, from the JCCSF Playdate page. The page header reads 'January 13 - May 26, 2026', which looks like a typo for 2027 given the winter/spring 2027 semester context. Sessions are block 1 and block 2 Wednesdays through March 31. ageMaxMonths 8 approximates 'pre-crawling'. Registration open date not stated.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-opl-main-toddler-storytime",
+   "city": "sf-bay",
+   "title": "Toddler Storytime",
+   "organizer": "Oakland Public Library",
+   "type": "Story time",
+   "venue": "Main Library Children's Room",
+   "address": "125 14th Street, Oakland, CA 94612",
+   "neighborhood": "Downtown Oakland",
+   "borough": "Oakland",
+   "lat": 37.8019,
+   "lng": -122.2654,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 36,
+   "ageLabel": "Toddlers 18 months to 3 years",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:30:00-08:00",
+     "end": "2026-11-09T11:00:00-08:00"
+    },
+    {
+     "start": "2026-11-16T10:30:00-08:00",
+     "end": "2026-11-16T11:00:00-08:00"
+    }
+   ],
+   "schedule": "Mondays, 10:30 to 11am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Head to the Children's Room at the Main Library."
+   },
+   "url": "https://oaklandlibrary.org/locations/xxj/",
+   "description": "A short storytime made for toddlers and their grown-ups in the Main Library's Children's Room.",
+   "tags": [
+    "free",
+    "toddlers",
+    "indoor",
+    "story-time"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 9 and Nov 16, 10:30-11am Toddler Storytime listings and address from the OPL Main Library Children's Room page (no years on entries, but the page's holiday list names Wednesday Nov 11, 2026). Age range 18 months to 3 years from OPL's Play at the Library page. Registration requirement not stated, treated as drop-in. A Baby Bounce was listed for Wed Nov 4 only.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-opl-montclair-toddler-storytime-baby-bounce",
+   "city": "sf-bay",
+   "title": "Toddler Storytime and Baby Bounce",
+   "organizer": "Oakland Public Library",
+   "type": "Story time",
+   "venue": "Montclair Branch Library",
+   "address": "1687 Mountain Boulevard, Oakland, CA 94611",
+   "neighborhood": "Montclair",
+   "borough": "Oakland",
+   "lat": 37.8269,
+   "lng": -122.2092,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 36,
+   "ageLabel": "Babies and toddlers up to 3 years",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:15:00-08:00",
+     "end": "2026-11-05T11:15:00-08:00"
+    },
+    {
+     "start": "2026-11-10T11:45:00-08:00",
+     "end": "2026-11-10T12:15:00-08:00"
+    },
+    {
+     "start": "2026-11-12T10:15:00-08:00",
+     "end": "2026-11-12T11:15:00-08:00"
+    }
+   ],
+   "schedule": "Toddlers Thu 10:15am, Baby Bounce Tue Nov 10 at 11:45am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Come to the Montclair branch a few minutes before start time."
+   },
+   "url": "https://oaklandlibrary.org/locations/moa/",
+   "description": "Toddler Storytime meets Thursday mornings for kids 18 months to 3. Baby Bounce is designed for the littlest library visitors.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "indoor",
+    "story-time"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Toddler Storytime Nov 5 and Nov 12 at 10:15-11:15am and Baby Bounce Nov 10 at 11:45am-12:15pm plus branch address from the OPL Montclair Branch page (upcoming events list shows only the first six events). Age guidance from OPL's Play at the Library page ('kids 18 months to 3 years-old' for Toddler Storytime, Baby Bounce 'designed for the littlest of library visitors'). Registration requirement not stated, treated as drop-in.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-sfpl-west-portal-storytime-babies",
+   "city": "sf-bay",
+   "title": "Storytime: For Babies",
+   "organizer": "San Francisco Public Library",
+   "type": "Story time",
+   "venue": "West Portal Branch Library, Children's Area",
+   "address": "190 Lenox Way, San Francisco, CA 94127",
+   "neighborhood": "West Portal",
+   "borough": "San Francisco",
+   "lat": 37.7404,
+   "lng": -122.4662,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 15,
+   "ageLabel": "Infants and their caregivers",
+   "sessions": [
+    {
+     "start": "2026-11-18T10:30:00-08:00",
+     "end": "2026-11-18T11:00:00-08:00"
+    },
+    {
+     "start": "2026-11-18T11:30:00-08:00",
+     "end": "2026-11-18T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-25T10:30:00-08:00",
+     "end": "2026-11-25T11:00:00-08:00"
+    },
+    {
+     "start": "2026-11-25T11:30:00-08:00",
+     "end": "2026-11-25T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-02T10:30:00-08:00",
+     "end": "2026-12-02T11:00:00-08:00"
+    },
+    {
+     "start": "2026-12-02T11:30:00-08:00",
+     "end": "2026-12-02T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-09T10:30:00-08:00",
+     "end": "2026-12-09T11:00:00-08:00"
+    },
+    {
+     "start": "2026-12-09T11:30:00-08:00",
+     "end": "2026-12-09T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-16T10:30:00-08:00",
+     "end": "2026-12-16T11:00:00-08:00"
+    },
+    {
+     "start": "2026-12-16T11:30:00-08:00",
+     "end": "2026-12-16T12:00:00-08:00"
+    }
+   ],
+   "schedule": "Wednesdays, 10:30 and 11:30am (30 min)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free and drop-in, with no registration needed. Pick either the 10:30 or 11:30 session."
+   },
+   "url": "https://sfpl.org/locations/west-portal/rooms/west-portal-childrens-area",
+   "description": "Songs, rhymes and books for infants and their grown-ups. Two back-to-back sessions give families a choice of times.",
+   "tags": [
+    "free",
+    "babies",
+    "indoor",
+    "story-time"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Wednesday 10:30-11:00 and 11:30-12:00 'Storytime: For Babies' sessions on 11/4/2026, address, and audience from the SFPL West Portal Children's Area page. SFPL's storytime page says every location has weekly storytimes and describes the baby program, and SFPL event pages say programs are drop-in unless noted. Only 11/4 dates were listed, so sessions from Nov 18 are derived from the weekly pattern and skip Nov 11 (Veterans Day). Confirm on the SFPL calendar. ageMaxMonths 15 approximates babies below SFPL's 16-month toddler storytime cutoff.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-cal-academy-sensory-storytime",
+   "city": "sf-bay",
+   "title": "Sensory Storytime",
+   "organizer": "California Academy of Sciences",
+   "type": "Museum",
+   "venue": "California Academy of Sciences, Science Today Station",
+   "address": "55 Music Concourse Drive, San Francisco, CA 94118",
+   "neighborhood": "Golden Gate Park",
+   "borough": "San Francisco",
+   "lat": 37.7699,
+   "lng": -122.4661,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Open to all museum visitors",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-06T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-07T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-09T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-10T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-11T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-12T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-13T10:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-14T10:15:00-08:00",
+     "end": null
+    }
+   ],
+   "schedule": "Daily at 10:15am",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Included with museum admission",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Included with museum admission. Buy entry tickets on the Academy's website."
+   },
+   "url": "https://www.calacademy.org/daily-calendar",
+   "description": "An interactive storytime about how animals use their senses, and how kids use theirs. A kid-friendly puppet show follows daily at 11am in the East Garden.",
+   "tags": [
+    "indoor",
+    "toddlers",
+    "preschool",
+    "animals",
+    "sensory"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Sensory Storytime 'Daily, 10:15 a.m.' at Science Today Station and Children's Puppet Theater: Arthropod Opera 'Daily, 11 a.m.' in the East Garden, both included with admission, from the Cal Academy daily calendar for Nov 4, 2026. Sessions are derived from the daily schedule and skip Sundays, since a 2024 Academy release gave an 11am Sunday opening. Ages and admission prices not shown. Holiday programming may replace these from late November.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "sf-bay-berkeley-tots-winter-carnival-2026",
+   "city": "sf-bay",
+   "title": "Tots Winter Carnival",
+   "organizer": "City of Berkeley Parks, Recreation & Waterfront",
+   "type": "Play",
+   "venue": "Live Oak Community Center",
+   "address": "1301 Shattuck Avenue, Berkeley, CA 94709",
+   "neighborhood": "North Berkeley",
+   "borough": "Berkeley",
+   "lat": 37.8807,
+   "lng": -122.2689,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 71,
+   "ageLabel": "Ages 5 and under with an adult",
+   "sessions": [
+    {
+     "start": "2026-12-05T10:00:00-08:00",
+     "end": "2026-12-05T13:00:00-08:00"
+    }
+   ],
+   "schedule": "Sat Dec 5, 10am to 1pm",
+   "recurring": false,
+   "priceMin": 10,
+   "priceMax": 12,
+   "priceLabel": "$10 per child for Berkeley residents, $12 for non-residents",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Registration is required. Sign up each child through the City of Berkeley online recreation catalog. Every child must come with an adult."
+   },
+   "url": "https://berkeleyca.gov/community-recreation/events/tots-winter-carnival-2",
+   "description": "A winter carnival made for little kids, with a craft station, games like Snowflake Match and a prize booth with take-home prizes.",
+   "tags": [
+    "toddlers",
+    "babies",
+    "preschool",
+    "holiday",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Saturday Dec 5, 2026, 10am-1pm, Live Oak Community Center address, 'Ages: 5 years and under', $10 resident / $12 non-resident per child, registration required via the city's online recreation catalog link, adult supervision rule and activities from the City of Berkeley event page. The page does not give a registration open date. Status 'open' reflects its live register link.",
+   "addedBy": "claude"
+  }
+ ]
+}

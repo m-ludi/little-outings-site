@@ -1,0 +1,219 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<meta name="format-detection" content="telephone=no">
+<title>Little Outings</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="appbar">
+  <div class="wrap">
+    <div class="brand" id="brand">
+      <svg viewBox="0 0 32 32" width="26" height="26" aria-hidden="true"><path style="fill:var(--accent)" d="M4 9a2 2 0 0 1 2-2h20a2 2 0 0 1 2 2v3.2a2.8 2.8 0 0 0 0 5.6V21a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-3.2a2.8 2.8 0 0 0 0-5.6z"/><path style="stroke:var(--card)" d="M21 8.5v15" stroke-width="1.8" stroke-dasharray="2 2.2"/></svg>
+      <span>Little Outings</span>
+      <label class="citychip"><span id="cityText">City</span><svg viewBox="0 0 24 24" width="12" height="12" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></svg><select id="city" aria-label="City"></select></label>
+    </div>
+    <button class="btn small" id="addBtn" type="button">
+      <svg viewBox="0 0 24 24" width="15" height="15" aria-hidden="true"><path d="M12 5v14M5 12h14" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg>
+      Add event
+    </button>
+  </div>
+</header>
+
+<main>
+  <!-- Discover -->
+  <section id="view-discover" aria-label="Discover">
+    <div class="wrap hero">
+      <h1 class="ask">Things to do with <span id="article">a</span>
+        <label class="sel"><span id="ageText">baby</span><select id="age" aria-label="Your child's age"></select></label>
+        <span id="nearPart">near <span class="nowrap"><label class="sel"><span id="areaText">Midtown</span><select id="area" aria-label="Your neighborhood"></select></label>,</span> <label class="sel"><span id="radiusText">anywhere in the city</span><select id="radius" aria-label="Distance">
+          <option value="1">within 1 mile</option>
+          <option value="2">within 2 miles</option>
+          <option value="5">within 5 miles</option>
+          <option value="any">anywhere in the city</option>
+        </select></label></span><span id="elsePart" hidden>near you</span>
+      </h1>
+      <div class="searchrow">
+        <label class="search">
+          <svg viewBox="0 0 24 24" width="17" height="17" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+          <input id="q" type="search" placeholder="Search programs, venues" aria-label="Search events" autocomplete="off" enterkeyhint="search">
+        </label>
+        <button class="btn filters-toggle" id="filtersToggle" type="button" aria-expanded="false" aria-controls="rail">Filters</button>
+      </div>
+    </div>
+    <div class="wrap layout">
+      <aside class="rail" id="rail" aria-label="Filters">
+        <div class="fgroup">
+          <span class="flabel">Type of activity</span>
+          <div class="chips" id="typeChips"></div>
+        </div>
+        <div class="fgroup">
+          <span class="flabel">Price</span>
+          <div class="chips" data-filter="price">
+            <button class="chip" data-value="any" type="button">Any</button>
+            <button class="chip" data-value="free" type="button">Free</button>
+            <button class="chip" data-value="20" type="button">Under $20</button>
+            <button class="chip" data-value="50" type="button">Under $50</button>
+          </div>
+        </div>
+        <div class="fgroup">
+          <span class="flabel">When</span>
+          <div class="chips" data-filter="when">
+            <button class="chip" data-value="any" type="button">Any time</button>
+            <button class="chip" data-value="week" type="button">Next 7 days</button>
+            <button class="chip" data-value="month" type="button">Next 30 days</button>
+            <button class="chip" data-value="quarter" type="button">Next 3 months</button>
+          </div>
+        </div>
+        <div class="fgroup">
+          <span class="flabel">Days</span>
+          <div class="chips" data-filter="days">
+            <button class="chip" data-value="any" type="button">Any day</button>
+            <button class="chip" data-value="weekend" type="button">Weekends</button>
+            <button class="chip" data-value="weekday" type="button">Weekdays</button>
+          </div>
+        </div>
+        <div class="fgroup">
+          <span class="flabel">Registration</span>
+          <div class="chips" data-filter="reg">
+            <button class="chip" data-value="any" type="button">Any</button>
+            <button class="chip" data-value="soon" type="button">Opens soon</button>
+            <button class="chip" data-value="open" type="button">Open now</button>
+            <button class="chip" data-value="dropin" type="button">No sign-up</button>
+          </div>
+        </div>
+        <label class="check"><input type="checkbox" id="fits" checked> Only events that fit my child's age on the day</label>
+        <div class="railfoot"><button class="linkbtn" id="resetFilters" type="button">Clear filters</button><button class="btn small filters-toggle" id="filtersDone" type="button">Done</button></div>
+      </aside>
+      <div class="content">
+        <section class="watch" id="watch" hidden></section>
+        <div class="reshead">
+          <div><h2 id="resTitle">Events</h2><div class="note" id="resNote"></div></div>
+          <label class="sortsel">Sort
+            <select id="sort">
+              <option value="soonest">Soonest date</option>
+              <option value="opens">Registration opens first</option>
+              <option value="nearest">Nearest</option>
+              <option value="price">Lowest price</option>
+            </select>
+          </label>
+        </div>
+        <div class="list" id="results"><div class="skel"></div><div class="skel"></div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Saved -->
+  <section id="view-saved" aria-label="Saved" hidden>
+    <div class="wrap pagehead"><h1 class="sect-title">Saved</h1><p class="sect-sub">Events you hearted, soonest first. Saved events stay on this phone.</p></div>
+    <div class="wrap" style="padding-block:16px 32px"><div class="list" id="savedList"></div></div>
+  </section>
+
+  <!-- Reminders -->
+  <section id="view-reminders" aria-label="Alerts" hidden>
+    <div class="wrap pagehead"><h1 class="sect-title">Registration alerts</h1><p class="sect-sub">Your phone alerts you the day before, 15 minutes before, and the moment registration opens. Tap an alert to go straight to the sign-up page.</p></div>
+    <div class="wrap" style="padding-block:16px 32px"><div class="list" id="remList"></div></div>
+  </section>
+
+  <!-- Settings -->
+  <section id="view-settings" aria-label="Settings" hidden>
+    <div class="wrap pagehead"><h1 class="sect-title">Settings</h1></div>
+    <div class="wrap"><div class="settings" id="settingsBody"></div></div>
+  </section>
+</main>
+
+<nav class="tabbar" aria-label="Sections">
+  <div class="in">
+    <button class="tab" data-view="discover" type="button"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="6.5" fill="none" stroke="currentColor" stroke-width="1.9"/><path d="M16 16l4.5 4.5" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg></span>Discover</button>
+    <button class="tab" data-view="saved" type="button"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.3s-7.4-4.5-9.1-9.2C1.8 7.9 3.7 4.6 7.1 4.6c2 0 3.4 1.1 4.9 2.9 1.5-1.8 2.9-2.9 4.9-2.9 3.4 0 5.3 3.3 4.2 6.5-1.7 4.7-9.1 9.2-9.1 9.2z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/></svg></span>Saved<span class="badge num" id="savedCount" hidden>0</span></button>
+    <button class="tab" data-view="reminders" type="button"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 16v-5a6 6 0 1 1 12 0v5l1.5 2h-15L6 16z" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linejoin="round"/><path d="M10 20.5a2 2 0 0 0 4 0" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg></span>Alerts<span class="badge num" id="remCount" hidden>0</span></button>
+    <button class="tab" data-view="settings" type="button"><span class="ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.9"/><path d="M12 2.8v2.4M12 18.8v2.4M21.2 12h-2.4M5.2 12H2.8M18.5 5.5l-1.7 1.7M7.2 16.8l-1.7 1.7M18.5 18.5l-1.7-1.7M7.2 7.2L5.5 5.5" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></svg></span>Settings</button>
+  </div>
+</nav>
+
+<dialog class="sheet" id="detail" aria-labelledby="detailTitle"><div class="sheet-in" id="detailIn"></div></dialog>
+
+<dialog class="sheet" id="addDlg" aria-labelledby="addTitle">
+  <div class="sheet-in">
+    <div class="sheet-head">
+      <div><div class="eyebrow">Your own find</div><h2 id="addTitle">Add an event</h2></div>
+      <button class="btn iconbtn ghost" type="button" data-close="addDlg" aria-label="Close">
+        <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      </button>
+    </div>
+    <p class="lede">Found something on a venue's site? Add it to get the same countdown and phone alert for its release time. It stays on this phone.</p>
+    <form class="form" id="addForm" novalidate>
+      <div class="field"><label for="f-title">Event name</label><input id="f-title" required placeholder="e.g. Family Concert: Animal Tales"></div>
+      <div class="grid2">
+        <div class="field"><label for="f-org">Organizer</label><input id="f-org" placeholder="e.g. Carnegie Hall"></div>
+        <div class="field"><label for="f-type">Type</label><select id="f-type"></select></div>
+      </div>
+      <div class="grid2">
+        <div class="field"><label for="f-venue">Venue</label><input id="f-venue" placeholder="e.g. Zankel Hall"></div>
+        <div class="field" id="f-area-wrap"><label for="f-area">Neighborhood</label><select id="f-area"></select></div>
+      </div>
+      <div class="field"><label for="f-address">Address</label><input id="f-address" placeholder="Street address"></div>
+      <div class="grid2">
+        <div class="field"><label for="f-start">Event date and time</label><input id="f-start" type="datetime-local"></div>
+        <div class="field"><label for="f-until">Repeats weekly until (optional)</label><input id="f-until" type="date"></div>
+      </div>
+      <div class="grid2">
+        <div class="field"><label for="f-amin">Youngest age</label><select id="f-amin"></select></div>
+        <div class="field"><label for="f-amax">Oldest age</label><select id="f-amax"></select></div>
+      </div>
+      <div class="grid2">
+        <div class="field"><label for="f-pmin">Lowest price ($)</label><input id="f-pmin" type="number" min="0" step="1" inputmode="decimal" placeholder="0 for free"></div>
+        <div class="field"><label for="f-pmax">Highest price ($)</label><input id="f-pmax" type="number" min="0" step="1" inputmode="decimal"></div>
+      </div>
+      <div class="grid2">
+        <div class="field"><label for="f-opens">Registration or tickets open</label><input id="f-opens" type="datetime-local"></div>
+        <div class="field"><label for="f-method">How you sign up</label>
+          <select id="f-method"><option>Tickets</option><option>Free RSVP</option><option>Lottery</option><option>Enrollment</option><option>Walk-in</option></select>
+        </div>
+      </div>
+      <div class="field"><label for="f-url">Link to the event page</label><input id="f-url" type="url" inputmode="url" placeholder="https://"></div>
+      <div class="field"><label for="f-notes">Notes</label><textarea id="f-notes" rows="3" placeholder="e.g. Members get access a day early. Max 2 tickets per household."></textarea></div>
+      <div class="err" id="formErr" aria-live="polite"></div>
+      <div style="display:flex;gap:10px;flex-wrap:wrap">
+        <button class="btn primary" type="submit" id="saveEvent">Save event</button>
+        <button class="btn" type="button" data-close="addDlg">Cancel</button>
+      </div>
+    </form>
+  </div>
+</dialog>
+
+<dialog class="full" id="onboard" aria-labelledby="onbTitle">
+  <form class="onb" id="onbForm">
+    <div class="mark"><svg viewBox="0 0 32 32" width="40" height="40" aria-hidden="true"><path style="fill:var(--accent)" d="M4 9a2 2 0 0 1 2-2h20a2 2 0 0 1 2 2v3.2a2.8 2.8 0 0 0 0 5.6V21a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-3.2a2.8 2.8 0 0 0 0-5.6z"/></svg></div>
+    <h1 id="onbTitle">Never miss the sign-up again.</h1>
+    <p>Little Outings finds concerts, story times, classes and shows for babies and toddlers in your city. It alerts you the moment free tickets and class spots open.</p>
+    <div class="field">
+      <label for="onbMonth">When was your child born?</label>
+      <div class="pair"><select id="onbMonth" aria-label="Birth month"></select><select id="onbYear" aria-label="Birth year"></select></div>
+    </div>
+    <div class="field">
+      <label for="onbCity">Where do you live?</label>
+      <select id="onbCity"></select>
+    </div>
+    <div class="field" id="onbAreaWrap">
+      <label for="onbArea">Your neighborhood</label>
+      <select id="onbArea"></select>
+    </div>
+    <p class="onb-note" id="onbElse" hidden>We don't have checked listings for your city yet. We cover <span id="onbElseText"></span>. You can still add events you find and get alerts for them.</p>
+    <div class="promise">
+      <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true" style="flex:none;margin-top:1px"><rect x="5" y="10" width="14" height="10" rx="2" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M8 10V7.5a4 4 0 0 1 8 0V10" fill="none" stroke="currentColor" stroke-width="1.8"/></svg>
+      <span>This stays on your phone. There's no account, and nothing about your family leaves the device.</span>
+    </div>
+    <button class="btn primary block" type="submit" style="min-height:50px;font-size:16px">Show me outings</button>
+  </form>
+</dialog>
+
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>

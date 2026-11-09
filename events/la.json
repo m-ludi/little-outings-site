@@ -1,0 +1,752 @@
+{
+ "version": 1,
+ "city": "la",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "la-zoo-lights-2026",
+   "city": "la",
+   "title": "L.A. Zoo Lights",
+   "organizer": "Los Angeles Zoo and Botanical Gardens",
+   "type": "Holiday",
+   "venue": "Los Angeles Zoo",
+   "address": "5333 Zoo Drive, Los Angeles, CA 90027",
+   "neighborhood": "Griffith Park",
+   "borough": "Los Angeles",
+   "lat": 34.1484,
+   "lng": -118.2843,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Children under 2 are free",
+   "sessions": [
+    {
+     "start": "2026-11-20T18:00:00-08:00",
+     "end": "2026-11-20T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-21T18:00:00-08:00",
+     "end": "2026-11-21T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-22T18:00:00-08:00",
+     "end": "2026-11-22T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-23T18:00:00-08:00",
+     "end": "2026-11-23T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-24T18:00:00-08:00",
+     "end": "2026-11-24T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-25T18:00:00-08:00",
+     "end": "2026-11-25T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-27T18:00:00-08:00",
+     "end": "2026-11-27T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-28T18:00:00-08:00",
+     "end": "2026-11-28T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-29T18:00:00-08:00",
+     "end": "2026-11-29T22:00:00-08:00"
+    },
+    {
+     "start": "2026-12-02T18:00:00-08:00",
+     "end": "2026-12-02T22:00:00-08:00"
+    },
+    {
+     "start": "2026-12-03T18:00:00-08:00",
+     "end": "2026-12-03T22:00:00-08:00"
+    },
+    {
+     "start": "2026-12-04T18:00:00-08:00",
+     "end": "2026-12-04T22:00:00-08:00"
+    }
+   ],
+   "schedule": "Select nights Nov 20 to Jan 10, 6 to 10pm",
+   "recurring": false,
+   "priceMin": 19,
+   "priceMax": 35,
+   "priceLabel": "Adults $29 to $35, kids 2 to 12 $19 to $25, under 2 free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale now on the zoo's website, with two entry times each night. Booking ahead online is recommended. The box office also sells tickets on event nights while they last."
+   },
+   "url": "https://lazoo.org/plan-your-visit/special-experiences/zoolights/",
+   "description": "Glowing paths and light displays fill the zoo after dark, plus a new outdoor skating rink. A sensory-inclusive night with no flash photography runs Dec 8.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages",
+    "sensory-friendly"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Run dates Nov 20 to Jan 10, 6-10pm hours, closed dates (Nov 26, 30, Dec 1, 7, 14-16, 24, 25, 31, Jan 4-7), Dec 8 Sensory-Inclusive night and Dec 17 Pride Night confirmed on lazoo.org Zoo Lights 2026 page and Events page. Tiered prices (Value Weekday $29/$19, Value Weekend $32/$22, Holiday Peak $35/$25 non-member adult/child 2-12, members $5 less), under-2 free, two timed entry times, re-entry only Dec 8, and stroller rules from the Zoo Lights FAQ. Sessions are the first 12 open nights taken from the FAQ's price-tier date lists. Skating rink needs a separate ticket. Original on-sale date not stated.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-descanso-enchanted-forest-of-light-2026",
+   "city": "la",
+   "title": "Enchanted Forest of Light",
+   "organizer": "Descanso Gardens",
+   "type": "Holiday",
+   "venue": "Descanso Gardens",
+   "address": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+   "neighborhood": "La Cañada Flintridge",
+   "borough": "La Cañada Flintridge",
+   "lat": 34.2016,
+   "lng": -118.2105,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Children 2 and under are free",
+   "sessions": [
+    {
+     "start": "2026-11-22T17:30:00-08:00",
+     "end": "2026-11-22T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-23T17:30:00-08:00",
+     "end": "2026-11-23T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-24T17:30:00-08:00",
+     "end": "2026-11-24T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-25T17:30:00-08:00",
+     "end": "2026-11-25T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-27T17:30:00-08:00",
+     "end": "2026-11-27T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-28T17:30:00-08:00",
+     "end": "2026-11-28T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-29T17:30:00-08:00",
+     "end": "2026-11-29T22:00:00-08:00"
+    },
+    {
+     "start": "2026-11-30T17:30:00-08:00",
+     "end": "2026-11-30T22:00:00-08:00"
+    },
+    {
+     "start": "2026-12-01T17:30:00-08:00",
+     "end": "2026-12-01T22:00:00-08:00"
+    },
+    {
+     "start": "2026-12-02T17:30:00-08:00",
+     "end": "2026-12-02T22:00:00-08:00"
+    },
+    {
+     "start": "2026-12-03T17:30:00-08:00",
+     "end": "2026-12-03T22:00:00-08:00"
+    },
+    {
+     "start": "2026-12-04T17:30:00-08:00",
+     "end": "2026-12-04T22:00:00-08:00"
+    }
+   ],
+   "schedule": "Nightly Nov 22 to Jan 9, 5:30 to 10pm (closed Nov 26 and Dec 25)",
+   "recurring": false,
+   "priceMin": 19,
+   "priceMax": 52,
+   "priceLabel": "Adults $29 to $52, kids $19 to $37, ages 2 and under free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets online or call 818-949-4200. Prices change by date and entry time. Popular nights sell out, so book ahead."
+   },
+   "url": "https://www.descansogardens.org/event/enchanted-forest-of-light-2026/2026-11-25/",
+   "description": "A glowing walk-through light show winds through the gardens after dark. The route is stroller friendly.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Run Nov 22, 2026 to Jan 9, 2027, 5:30-10pm, closed Nov 26 and Dec 25, prices (non-member adult $29-52, child $19-37; member adult $22-45, child $12-30; Anytime Tickets $65/$85), 'Children ages 2 and under are free', sell-out warning and stroller access from the Enchanted FAQ page. Run dates and $12-$52 range also on the Nov 25 event page. Nov 22-28 nightly listings (no Nov 26) seen on the Kids & Families events list. Sessions are the first 12 open nights. Child age band not stated. Member presale was in July; general on-sale date not stated.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-descanso-little-explorers-nov-2026",
+   "city": "la",
+   "title": "Little Explorers",
+   "organizer": "Descanso Gardens",
+   "type": "Outdoors",
+   "venue": "Descanso Gardens",
+   "address": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+   "neighborhood": "La Cañada Flintridge",
+   "borough": "La Cañada Flintridge",
+   "lat": 34.2016,
+   "lng": -118.2105,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 71,
+   "ageLabel": "Ages 2 to 5 with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-13T09:30:00-08:00",
+     "end": "2026-11-13T11:30:00-08:00"
+    },
+    {
+     "start": "2026-11-14T09:30:00-08:00",
+     "end": "2026-11-14T11:30:00-08:00"
+    }
+   ],
+   "schedule": "Fri Nov 13 and Sat Nov 14, 9:30 to 11:30am",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Included with garden admission. Free for members",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Included with a garden visit. Non-members need a general admission ticket, and members get in free."
+   },
+   "url": "https://www.descansogardens.org/event/little-explorers-august2026/2026-11-13/",
+   "description": "Arts, crafts and nature exploration for little kids out in the gardens. A new session comes around each month.",
+   "tags": [
+    "toddlers",
+    "preschool",
+    "outdoor",
+    "crafts",
+    "nature"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Dates, 9:30-11:30am times, 'Families with young children (aged 2-5 years old)... each month', and 'Included with admission or membership' from the Descanso Kids & Families events list. Registration requirement not stated on the listing, so treated as drop-in. Admission price not given on the pages fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-descanso-little-bookworms-nov-2026",
+   "city": "la",
+   "title": "Little Bookworms",
+   "organizer": "Descanso Gardens",
+   "type": "Story time",
+   "venue": "Descanso Gardens, Magnolia Court",
+   "address": "1418 Descanso Drive, La Cañada Flintridge, CA 91011",
+   "neighborhood": "La Cañada Flintridge",
+   "borough": "La Cañada Flintridge",
+   "lat": 34.2016,
+   "lng": -118.2105,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 95,
+   "ageLabel": "Ages 2 to 7 with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-24T10:00:00-08:00",
+     "end": "2026-11-24T10:30:00-08:00"
+    }
+   ],
+   "schedule": "Tue Nov 24, 10 to 10:30am",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Included with garden admission. Free for members",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No registration needed. Meet at Magnolia Court. Non-members need a garden admission ticket."
+   },
+   "url": "https://www.descansogardens.org/event/little-bookworms-october2026/2026-11-24/",
+   "description": "A short outdoor story time in the gardens for little listeners and their grown-ups.",
+   "tags": [
+    "story-time",
+    "toddlers",
+    "preschool",
+    "outdoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Date, 10-10:30am, ages 2-7 with caregiver, Magnolia Court meeting spot, included with admission or membership, and no registration required, all from the Descanso Kids & Families events list.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-lapl-venice-baby-toddler-storytime",
+   "city": "la",
+   "title": "Baby/Toddler Storytime",
+   "organizer": "Los Angeles Public Library",
+   "type": "Story time",
+   "venue": "Venice Branch Library, Community Room",
+   "address": "501 S. Venice Boulevard, Venice, CA 90291",
+   "neighborhood": "Venice",
+   "borough": "Los Angeles",
+   "lat": 33.9884,
+   "lng": -118.4637,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 18,
+   "ageLabel": "Made for ages 0 to 18 months. All are welcome",
+   "sessions": [
+    {
+     "start": "2026-11-18T10:30:00-08:00",
+     "end": "2026-11-18T11:00:00-08:00"
+    },
+    {
+     "start": "2026-12-02T10:30:00-08:00",
+     "end": "2026-12-02T11:00:00-08:00"
+    },
+    {
+     "start": "2026-12-09T10:30:00-08:00",
+     "end": "2026-12-09T11:00:00-08:00"
+    },
+    {
+     "start": "2026-12-16T10:30:00-08:00",
+     "end": "2026-12-16T11:00:00-08:00"
+    },
+    {
+     "start": "2026-12-23T10:30:00-08:00",
+     "end": "2026-12-23T11:00:00-08:00"
+    },
+    {
+     "start": "2027-01-06T10:30:00-08:00",
+     "end": "2027-01-06T11:00:00-08:00"
+    },
+    {
+     "start": "2027-01-13T10:30:00-08:00",
+     "end": "2027-01-13T11:00:00-08:00"
+    },
+    {
+     "start": "2027-01-20T10:30:00-08:00",
+     "end": "2027-01-20T11:00:00-08:00"
+    },
+    {
+     "start": "2027-01-27T10:30:00-08:00",
+     "end": "2027-01-27T11:00:00-08:00"
+    },
+    {
+     "start": "2027-02-03T10:30:00-08:00",
+     "end": "2027-02-03T11:00:00-08:00"
+    },
+    {
+     "start": "2027-02-10T10:30:00-08:00",
+     "end": "2027-02-10T11:00:00-08:00"
+    },
+    {
+     "start": "2027-02-17T10:30:00-08:00",
+     "end": "2027-02-17T11:00:00-08:00"
+    }
+   ],
+   "schedule": "Most Wednesdays, 10:30 to 11am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Head to the branch Community Room a few minutes before 10:30."
+   },
+   "url": "https://www.lapl.org/events/venice-storytime",
+   "description": "Singing, talking and play build early language skills. Each week brings new books, puppets, bubbles and familiar tunes babies can follow.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "indoor",
+    "story-time"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "All 12 dates, 10:30-11am times, Community Room, address and 'designed especially for children ages 0 to 18 months, but all are welcome' from the LAPL event page, which lists dates 11/4/2026 to 2/24/2027 and skips 11/11 (Veterans Day closure), 11/25 and 12/30. The 11/4 session was left out as same-day. Registration requirement not stated on the page, treated as drop-in.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-lapl-atwater-village-baby-toddler-storytime",
+   "city": "la",
+   "title": "Baby and Toddler Storytime",
+   "organizer": "Los Angeles Public Library",
+   "type": "Story time",
+   "venue": "Atwater Village Branch Library",
+   "address": "3379 Glendale Boulevard, Los Angeles, CA 90039",
+   "neighborhood": "Atwater Village",
+   "borough": "Los Angeles",
+   "lat": 34.1168,
+   "lng": -118.261,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 35,
+   "ageLabel": "Babies and toddlers with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:30:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-16T10:30:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-23T10:30:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-30T10:30:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-07T10:30:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-14T10:30:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-21T10:30:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-28T10:30:00-08:00",
+     "end": null
+    }
+   ],
+   "schedule": "Mondays at 10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Come to the branch on Monday morning in time for the 10:30 start."
+   },
+   "url": "https://www.lapl.org/events/baby-and-toddler-storytime",
+   "description": "Stories, songs and fingerplays to start the week. An easy first library outing for babies and toddlers.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "indoor",
+    "story-time"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Weekly Monday 10:30am dates 11/9/2026 to 12/28/2026, branch address and 'stories, songs, and fingerplays' description from the LAPL event page. Audience tag is 'Babies and Toddlers' with no stated range, so ageMaxMonths 35 is an approximation. End time and registration requirement not stated, treated as drop-in.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-lapl-west-la-toddler-storytime-songs",
+   "city": "la",
+   "title": "Toddler Storytime and Songs",
+   "organizer": "Los Angeles Public Library",
+   "type": "Story time",
+   "venue": "West Los Angeles Regional Branch Library",
+   "address": "11360 Santa Monica Boulevard, Los Angeles, CA 90025",
+   "neighborhood": "West Los Angeles",
+   "borough": "Los Angeles",
+   "lat": 34.0447,
+   "lng": -118.4462,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 36,
+   "ageLabel": "Toddlers 18 months to 3 years",
+   "sessions": [
+    {
+     "start": "2026-11-18T10:00:00-08:00",
+     "end": "2026-11-18T10:45:00-08:00"
+    },
+    {
+     "start": "2026-11-25T10:00:00-08:00",
+     "end": "2026-11-25T10:45:00-08:00"
+    },
+    {
+     "start": "2026-12-02T10:00:00-08:00",
+     "end": "2026-12-02T10:45:00-08:00"
+    },
+    {
+     "start": "2026-12-09T10:00:00-08:00",
+     "end": "2026-12-09T10:45:00-08:00"
+    },
+    {
+     "start": "2026-12-16T10:00:00-08:00",
+     "end": "2026-12-16T10:45:00-08:00"
+    },
+    {
+     "start": "2026-12-23T10:00:00-08:00",
+     "end": "2026-12-23T10:45:00-08:00"
+    },
+    {
+     "start": "2026-12-30T10:00:00-08:00",
+     "end": "2026-12-30T10:45:00-08:00"
+    },
+    {
+     "start": "2027-01-06T10:00:00-08:00",
+     "end": "2027-01-06T10:45:00-08:00"
+    },
+    {
+     "start": "2027-01-13T10:00:00-08:00",
+     "end": "2027-01-13T10:45:00-08:00"
+    }
+   ],
+   "schedule": "Wednesdays, 10 to 10:45am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Arrive a little before 10am to settle in."
+   },
+   "url": "https://www.lapl.org/events/toddler-storytime-and-songs",
+   "description": "Stories, songs and movement for busy toddlers. Each session builds early reading skills through play.",
+   "tags": [
+    "free",
+    "toddlers",
+    "indoor",
+    "story-time",
+    "music"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Weekly Wednesday 10-10:45am dates through 1/13/2027 (no 11/11 session), ages 18 months to 3 years, branch address from the LAPL event page. The 11/4 session was left out as same-day. Registration requirement not stated on the page, treated as drop-in. Page lists the branch as 'West Los Angeles'.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-lapl-palisades-baby-toddler-lapsit-storytime",
+   "city": "la",
+   "title": "Baby & Toddler Storytime",
+   "organizer": "Los Angeles Public Library",
+   "type": "Story time",
+   "venue": "Palisades Branch Library, Green Bungalow",
+   "address": "861 Alma Real Drive, Pacific Palisades, CA 90272",
+   "neighborhood": "Pacific Palisades",
+   "borough": "Los Angeles",
+   "lat": 34.0455,
+   "lng": -118.5263,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 36,
+   "ageLabel": "Up to 36 months, one lap per child",
+   "sessions": [
+    {
+     "start": "2026-12-02T10:30:00-08:00",
+     "end": null
+    }
+   ],
+   "schedule": "First Wednesday of the month, 10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Bring one grown-up lap for each child and meet in the Green Bungalow."
+   },
+   "url": "https://www.lapl.org/events/baby-toddler-storytime-35",
+   "description": "A cozy lap-sit story time where babies, toddlers and their grown-ups share books together.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "indoor",
+    "story-time"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Monthly first-Wednesday 10:30am series, Green Bungalow location, 'babies and toddlers up to 36 months' and 'each child needs their own lap' from the LAPL event page, which lists 11/4/2026 and 12/2/2026 only. Only 12/2 included. End time and registration requirement not stated, treated as drop-in.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-kidspace-toddler-tuesday",
+   "city": "la",
+   "title": "Toddler Tuesday",
+   "organizer": "Kidspace Children's Museum",
+   "type": "Museum",
+   "venue": "Kidspace Children's Museum",
+   "address": "480 N. Arroyo Boulevard, Pasadena, CA 91103",
+   "neighborhood": "Arroyo Seco",
+   "borough": "Pasadena",
+   "lat": 34.1468,
+   "lng": -118.165,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 47,
+   "ageLabel": "Geared to toddlers. The museum is open to all ages",
+   "sessions": [
+    {
+     "start": "2026-11-10T10:00:00-08:00",
+     "end": "2026-11-10T12:00:00-08:00"
+    },
+    {
+     "start": "2026-11-17T10:00:00-08:00",
+     "end": "2026-11-17T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-01T10:00:00-08:00",
+     "end": "2026-12-01T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-08T10:00:00-08:00",
+     "end": "2026-12-08T12:00:00-08:00"
+    },
+    {
+     "start": "2026-12-15T10:00:00-08:00",
+     "end": "2026-12-15T12:00:00-08:00"
+    }
+   ],
+   "schedule": "Select Tuesdays, 10am to noon",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Included with museum admission. Free for members",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Toddler Tuesday comes with general admission, and members get in free. Museum tickets are sold on the Kidspace website."
+   },
+   "url": "https://kidspacemuseum.org/calendar/category/toddler/",
+   "description": "Play spaces are adapted for little ones on these school-day mornings. Winter Frolic adds sock skating and a winter trike ride through Jan 10.",
+   "tags": [
+    "toddlers",
+    "babies",
+    "play",
+    "indoor",
+    "holiday"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Dates Nov 10, 17, Dec 1, 8, 15 at 10am-12pm from the Kidspace toddler calendar and events list. 'Included with Admission' and 'free for members', play spaces adapted for 'littles', no Tuesdays during school breaks, from a Toddler Tuesday event page. Winter Frolic Nov 6, 2026 to Jan 10, 2027 from the events list, activities from the Winter Frolic page (sock skating is a separate $6 ticket). Admission price and age range not stated, so ageMaxMonths 47 is an approximation.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-skirball-toddler-sing-along",
+   "city": "la",
+   "title": "Toddler Sing-Along",
+   "organizer": "Skirball Cultural Center",
+   "type": "Music",
+   "venue": "Noah's Ark at the Skirball",
+   "address": "2701 N. Sepulveda Boulevard, Los Angeles, CA 90049",
+   "neighborhood": "Brentwood",
+   "borough": "Los Angeles",
+   "lat": 34.1186,
+   "lng": -118.4757,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 47,
+   "ageLabel": "Babies, toddlers and young children with caregivers",
+   "sessions": [
+    {
+     "start": "2026-11-11T15:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-18T15:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-25T15:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-02T15:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-09T15:15:00-08:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-16T15:15:00-08:00",
+     "end": null
+    }
+   ],
+   "schedule": "Wednesdays at 3:15pm",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Included with Noah's Ark admission",
+   "registration": {
+    "required": false,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Comes with general admission to Noah's Ark at the Skirball. Reserving a 90-minute Noah's Ark time slot ahead is recommended."
+   },
+   "url": "https://www.skirball.org/programs/toddler-sing-along",
+   "description": "Skirball educators lead circle time aboard Noah's Ark. Families learn songs and lap games as they sing, move and play together.",
+   "tags": [
+    "music",
+    "babies",
+    "toddlers",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Weekly 'Wednesdays, 3:15 pm', 'Caregivers, babies, and young children', included with Noah's Ark admission, 'Reservations recommended' and 90-minute time slots from the Skirball program page. The page gives no specific dates, so sessions are the next six Wednesdays derived from the weekly schedule. Holiday closures, program length and admission price not stated. ageMaxMonths 47 is an approximation. Site banner says the main phone line is out of service.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "la-aquarium-big-fish-little-fish-penguins",
+   "city": "la",
+   "title": "Big Fish Little Fish: Penguins",
+   "organizer": "Aquarium of the Pacific",
+   "type": "Class",
+   "venue": "Aquarium of the Pacific",
+   "address": "100 Aquarium Way, Long Beach, CA 90802",
+   "neighborhood": "Downtown Long Beach",
+   "borough": "Long Beach",
+   "lat": 33.762,
+   "lng": -118.1965,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 83,
+   "ageLabel": "Ages 3 to 6 with an adult",
+   "sessions": [
+    {
+     "start": "2026-11-14T09:00:00-08:00",
+     "end": "2026-11-14T10:30:00-08:00"
+    }
+   ],
+   "schedule": "Sat Nov 14, 9 to 10:30am",
+   "recurring": false,
+   "priceMin": 30,
+   "priceMax": 110.9,
+   "priceLabel": "$110.90 per adult and child pair, $30 for members",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Book and pay ahead on the event page. Cancel at least 72 hours before for a full refund. A shark-themed class follows in January."
+   },
+   "url": "https://www.aquariumofpacific.org/events/info/big_fish_little_fish/",
+   "description": "Kids and grown-ups touch animals in a private classroom, tour the California Terrace and play hands-on games. Aquarium admission is included.",
+   "tags": [
+    "preschool",
+    "animals",
+    "indoor",
+    "class"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nov 14, 2026 9-10:30am Penguins session with California Terrace tour, ages 3-6 with an adult, $110.90 per pair ($30 member pair, member guests $50.95 adult / $38.95 child), admission included, pre-registration and pre-payment required, 72-hour refund rule, and January Sharks theme (no date given) from the aquarium's Big Fish Little Fish page.",
+   "addedBy": "claude"
+  }
+ ]
+}

@@ -1,0 +1,599 @@
+{
+ "version": 1,
+ "city": "atlanta",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "atlanta-decatur-library-books-and-babies",
+   "title": "Books and Babies Storytime",
+   "organizer": "DeKalb County Public Library",
+   "type": "Story time",
+   "venue": "Decatur Library",
+   "address": "215 Sycamore St, Decatur, GA 30030",
+   "neighborhood": "Downtown Decatur",
+   "borough": "Decatur",
+   "lat": 33.7739,
+   "lng": -84.2946,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Ages 0 to 12 months with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-18T10:00:00-05:00",
+     "end": "2026-11-18T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-25T10:00:00-05:00",
+     "end": "2026-11-25T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Wednesdays, 10-10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": "2026-11-11T10:00:00-05:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Sign up online. Spots open one week ahead at 10am. The Nov 18 session opens Nov 11 at 10am, and the Nov 25 session opens Nov 18 at 10am."
+   },
+   "url": "https://events.dekalblibrary.org/event/16381403",
+   "description": "Stories, rhymes and bubbles for infants and crawlers. A gentle first library outing for babies and their grown-ups.",
+   "tags": [
+    "free",
+    "babies",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DeKalb County Public Library event pages 16381403 and 12204834 (events.dekalblibrary.org): Books and Babies Storytime, Decatur Library, ages 0-12 months, description, Wed 10-10:30am. Sidebar shows Nov 4 (registration closed), Nov 18 (registration opens Wed Nov 11, 2026 at 10:00am) and Nov 25 (opens Wed Nov 18, 2026 at 10:00am). No Nov 11 session listed. The url is an earlier session page in the same series.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-decatur-library-toddler-tuesday",
+   "title": "Toddler Tuesday",
+   "organizer": "DeKalb County Public Library",
+   "type": "Story time",
+   "venue": "Decatur Library",
+   "address": "215 Sycamore St, Decatur, GA 30030",
+   "neighborhood": "Downtown Decatur",
+   "borough": "Decatur",
+   "lat": 33.7739,
+   "lng": -84.2946,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 36,
+   "ageLabel": "Ages 2 to 3 with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-10T10:00:00-05:00",
+     "end": "2026-11-10T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-17T10:00:00-05:00",
+     "end": "2026-11-17T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-24T10:00:00-05:00",
+     "end": "2026-11-24T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Tuesdays, 10-10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": "2026-11-10T10:00:00-05:00",
+    "closesAt": null,
+    "status": "open",
+    "note": "Sign up online. Each week opens one week ahead at 10am. Nov 10 is open now. Nov 17 opens Nov 10 at 10am, and Nov 24 opens Nov 17 at 10am."
+   },
+   "url": "https://events.dekalblibrary.org/event/12204834",
+   "description": "A weekly library story time made for two- and three-year-olds and their grown-ups.",
+   "tags": [
+    "free",
+    "toddlers",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Sidebar on DeKalb event page 12204834 lists 'Toddler Tuesday (Ages 2 to 3 years)' at Decatur Library, Tue 10-10:30am: Nov 10 with a live Register link, Nov 17 'Registration opens Tuesday, November 10 2026 at 10:00am', Nov 24 'Registration opens Tuesday, November 17 2026 at 10:00am'. Program description not fetched. opensAt is the next release (Nov 17 session).",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-decatur-library-toddler-storytime",
+   "title": "Toddler Storytime",
+   "organizer": "DeKalb County Public Library",
+   "type": "Story time",
+   "venue": "Decatur Library, Children's Department",
+   "address": "215 Sycamore St, Decatur, GA 30030",
+   "neighborhood": "Downtown Decatur",
+   "borough": "Decatur",
+   "lat": 33.7739,
+   "lng": -84.2946,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 24,
+   "ageLabel": "Ages 1 to 2 with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:00:00-05:00",
+     "end": "2026-11-09T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-16T10:00:00-05:00",
+     "end": "2026-11-16T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-23T10:00:00-05:00",
+     "end": "2026-11-23T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-30T10:00:00-05:00",
+     "end": "2026-11-30T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Mondays, 10-10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Sign up in person in the Children's Department on the morning of each story time. It is open to the first 25 children and their grown-ups. Groups of 5 or more should call ahead."
+   },
+   "url": "https://events.dekalblibrary.org/event/17093825",
+   "description": "Rhymes, stories and songs for one-year-olds and their grown-ups. Supported by the Friends of the Decatur Library.",
+   "tags": [
+    "free",
+    "toddlers",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DeKalb event pages 16324720, 16324725 and 16324726: Toddler Storytime, Decatur Library, ages 1 to 2, morning-of registration in the Children's Department, first 25 participants, groups of 5+ call ahead. Sidebar lists Mon Nov 9 (event 17093825), Nov 16, Nov 23 and Nov 30, 10-10:30am. No December dates were listed yet.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-history-center-toddler-storytime",
+   "title": "Toddler Storytime",
+   "organizer": "Atlanta History Center",
+   "type": "Story time",
+   "venue": "Atlanta History Center",
+   "address": "130 West Paces Ferry Rd NW, Atlanta, GA 30305",
+   "neighborhood": "Buckhead",
+   "borough": "Atlanta",
+   "lat": 33.842,
+   "lng": -84.386,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 60,
+   "ageLabel": "Ages 1 to 5",
+   "sessions": [
+    {
+     "start": "2026-12-02T10:00:00-05:00",
+     "end": "2026-12-02T11:40:00-05:00"
+    },
+    {
+     "start": "2027-01-06T10:00:00-05:00",
+     "end": "2027-01-06T11:40:00-05:00"
+    },
+    {
+     "start": "2027-02-03T10:00:00-05:00"
+    }
+   ],
+   "schedule": "First Wednesday monthly, from 10am. Dec 2, Jan 6, Feb 3",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Included with museum admission",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Add general admission tickets to your cart, then register for a storytime reading. In January the readings start at 10am and 11am, and each reading needs its own ticket."
+   },
+   "url": "https://www.atlantahistorycenter.com/learning-research/toddler-storytime/",
+   "description": "Stories, songs, movement games and a craft around a new theme each month. December is Zoo Pals, January is Winter Wonders and February is People in My Neighborhood.",
+   "tags": [
+    "toddlers",
+    "indoor",
+    "museum",
+    "crafts"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "atlantahistorycenter.com Toddler Storytime page: ages 1-5, first Wednesday of each month, upcoming Dec 2 (Zoo Pals), Jan 6 (Winter Wonders), Feb 3 (People in My Neighborhood, start 10am only), events listed 10-11:40am, included with admission. Jan 6 event iCal: readings at 10am and 11am, each needs its own ticket, register after adding general admission to cart, address. Admission price not fetched.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-high-museum-toddler-thursdays",
+   "title": "Toddler Thursdays",
+   "organizer": "High Museum of Art",
+   "type": "Museum",
+   "venue": "High Museum of Art, Greene Family Education Center",
+   "address": "1280 Peachtree St NE, Atlanta, GA 30309",
+   "neighborhood": "Midtown",
+   "borough": "Atlanta",
+   "lat": 33.7901,
+   "lng": -84.3856,
+   "ageMinMonths": 15,
+   "ageMaxMonths": 36,
+   "ageLabel": "15 months to 3 years with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:00:00-05:00",
+     "end": "2026-11-05T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-05T13:00:00-05:00",
+     "end": "2026-11-05T15:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T10:00:00-05:00",
+     "end": "2026-11-12T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T13:00:00-05:00",
+     "end": "2026-11-12T15:00:00-05:00"
+    },
+    {
+     "start": "2026-11-19T10:00:00-05:00",
+     "end": "2026-11-19T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-19T13:00:00-05:00",
+     "end": "2026-11-19T15:00:00-05:00"
+    },
+    {
+     "start": "2026-12-03T10:00:00-05:00",
+     "end": "2026-12-03T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-03T13:00:00-05:00",
+     "end": "2026-12-03T15:00:00-05:00"
+    },
+    {
+     "start": "2026-12-10T10:00:00-05:00",
+     "end": "2026-12-10T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-10T13:00:00-05:00",
+     "end": "2026-12-10T15:00:00-05:00"
+    },
+    {
+     "start": "2026-12-17T10:00:00-05:00",
+     "end": "2026-12-17T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-17T13:00:00-05:00",
+     "end": "2026-12-17T15:00:00-05:00"
+    }
+   ],
+   "schedule": "Thursdays, drop-in slots 10am-12pm or 1-3pm",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 23.5,
+   "priceLabel": "$23.50 ticket. Members and kids 5 and under free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Register online, pick a time slot and buy tickets. Tickets include the galleries. Kids 5 and under are free, but add them to your head count."
+   },
+   "url": "https://www.high.org/event/toddler-thursdays",
+   "description": "Each month brings a new theme with related artworks, a hands-on art project and self-guided tours made for toddlers and their grown-ups.",
+   "tags": [
+    "toddlers",
+    "art",
+    "indoor",
+    "museum"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "high.org Toddler Thursdays page: every Thursday 10am-3pm in the Greene Family Education Center with slots 10am-12pm and 1-3pm, ages 15 months through 3 years, register online and buy tickets, $23.50 non-member ticket, members free, children 5 and under free with a head count, ticket includes galleries, no groups. Page says 'every Thursday' with no holiday closures listed. Sessions skip Thanksgiving, Dec 24 and Dec 31 to be safe. Address is the Woodruff Arts Center address from the ASO page footer.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-high-museum-toddler-saturday",
+   "title": "Toddler Saturday",
+   "organizer": "High Museum of Art",
+   "type": "Museum",
+   "venue": "High Museum of Art",
+   "address": "1280 Peachtree St NE, Atlanta, GA 30309",
+   "neighborhood": "Midtown",
+   "borough": "Atlanta",
+   "lat": 33.7901,
+   "lng": -84.3856,
+   "ageMinMonths": 15,
+   "ageMaxMonths": 36,
+   "ageLabel": "15 months to 3 years with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-07T10:00:00-05:00",
+     "end": "2026-11-07T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00-05:00",
+     "end": "2026-12-05T12:00:00-05:00"
+    }
+   ],
+   "schedule": "First Saturday monthly, 10am-12pm",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Free with museum admission",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Included with museum admission. Come any time during the two-hour window."
+   },
+   "url": "https://high.org/event/toddler-saturday-november-2026/",
+   "description": "A weekend take on the High's toddler program. Little ones explore a monthly theme through artworks, art-making and self-guided tours.",
+   "tags": [
+    "toddlers",
+    "art",
+    "indoor",
+    "museum",
+    "weekend"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "high.org Toddler Saturday (Oct 2026 page) gives first Saturday monthly, 10am-12pm, ages 15 months through 3 years, 'Free with museum admission'. The High young-children listing shows Nov 7 and Dec 5, 2026, 10am-12pm, with no Jan-Mar dates yet. Registration requirement not stated, so Walk-in is an assumption.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-botanical-garden-young-sprouts",
+   "title": "Young Sprouts",
+   "organizer": "Atlanta Botanical Garden",
+   "type": "Class",
+   "venue": "Atlanta Botanical Garden",
+   "address": "1345 Piedmont Ave NE, Atlanta, GA 30309",
+   "neighborhood": "Midtown",
+   "borough": "Atlanta",
+   "lat": 33.7899,
+   "lng": -84.3727,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 48,
+   "ageLabel": "Ages 2 to 4 with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-13T09:30:00-05:00",
+     "end": "2026-11-13T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-20T09:30:00-05:00",
+     "end": "2026-11-20T11:00:00-05:00"
+    },
+    {
+     "start": "2026-12-04T09:30:00-05:00",
+     "end": "2026-12-04T11:00:00-05:00"
+    },
+    {
+     "start": "2026-12-11T09:30:00-05:00",
+     "end": "2026-12-11T11:00:00-05:00"
+    }
+   ],
+   "schedule": "Fridays Nov 13 to Dec 11 (no class Nov 27), 9:30-11am",
+   "recurring": false,
+   "priceMin": 80,
+   "priceMax": 100,
+   "priceLabel": "$100 per child, $80 for members, for four sessions",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "sold_out",
+    "note": "This four-week series is full. Join the waitlist on the Garden's event page. Classes are capped at 10 children."
+   },
+   "url": "https://atlantabg.org/series/young-sprouts/",
+   "description": "Four play-based mornings of seasonal crafts, storybook time and Garden exploration. A caregiver stays with each child.",
+   "tags": [
+    "toddlers",
+    "nature",
+    "outdoor",
+    "class"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "atlantabg.org Young Sprouts series page and session pages (?p=10012026, ?p=10012027): Fridays Nov 13-Dec 11, 2026, skips Nov 27, 9:30-11am, ages 2-4, $100/child or $80 members, capacity 10, caregiver must attend, registration deadline Nov 2, all sessions marked SOLD OUT with a waitlist form. No winter 2027 session or registration date found.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-aso-family-concert-winter-wonderland",
+   "title": "Family Concert: Winter Wonderland",
+   "organizer": "Atlanta Symphony Orchestra",
+   "type": "Music",
+   "venue": "Atlanta Symphony Hall",
+   "address": "1280 Peachtree St NE, Atlanta, GA 30309",
+   "neighborhood": "Midtown",
+   "borough": "Atlanta",
+   "lat": 33.7897,
+   "lng": -84.3853,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 144,
+   "ageLabel": "Made for families with kids 12 and under",
+   "sessions": [
+    {
+     "start": "2026-12-06T13:30:00-05:00"
+    },
+    {
+     "start": "2026-12-06T15:00:00-05:00"
+    }
+   ],
+   "schedule": "Sun Dec 6, 1:30pm and 3pm",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale now through the ASO event page and Ticketmaster. Come early for the pre-concert activities."
+   },
+   "url": "https://www.aso.org/events/detail/family-concert-winter-wonderland",
+   "description": "A holiday concert by the full orchestra for families. Before the show, kids can try instruments, make art and pose in a photo booth.",
+   "tags": [
+    "holiday",
+    "music",
+    "indoor",
+    "concert"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "aso.org event page: Sun Dec 6, 2026 at 1:30pm and 3pm, 'On Sale Now', Ticketmaster links, 'Families with children under 12 will especially love this', pre-concert Instrument Exploration Station, art-making and photo booth (no times). ASO 2026-27 family concerts release: Atlanta Symphony Hall, aimed at children 12 and under, single tickets went on sale Aug 5 at noon. Prices, run time and lap policy not shown. ageMinMonths 0 because no minimum age is given.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-puppetry-arts-rudolph",
+   "title": "Rudolph the Red-Nosed Reindeer",
+   "organizer": "Center for Puppetry Arts",
+   "type": "Theater",
+   "venue": "Center for Puppetry Arts",
+   "address": "1404 Spring St NW, Atlanta, GA 30309",
+   "neighborhood": "Midtown",
+   "borough": "Atlanta",
+   "lat": 33.7929,
+   "lng": -84.3891,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Family show. Under 1 free on a lap",
+   "sessions": [
+    {
+     "start": "2026-11-11T10:00:00-05:00"
+    },
+    {
+     "start": "2026-11-11T11:45:00-05:00"
+    }
+   ],
+   "schedule": "Wed Nov 11, 10am and 11:45am. More holiday dates online",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Prices vary by performance. Under 1 free on a lap",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Book a showtime online or call Ticket Sales at 404-873-3391. Kids 1 and up need a ticket. Each ticket includes the show, the museum and a Create-A-Puppet Workshop."
+   },
+   "url": "https://puppet.org/",
+   "description": "The holiday tale of Rudolph comes to life with puppets on stage. A ticket also covers the puppetry museum and a make-your-own puppet workshop.",
+   "tags": [
+    "holiday",
+    "puppets",
+    "theater",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "puppet.org homepage lists Rudolph the Red-Nosed Reindeer on Nov 11, 2026 at 10:00am and 11:45am with booking links. FAQ: under 1 free on a guardian's lap, 1+ need a ticket, Family Series tickets include show, museum and Create-A-Puppet Workshop. Hours and Ticket Prices page: Rudolph is a Signature Performance with prices that vary. Per-show age range, full run dates and street address were not on the fetched pages (address from general knowledge).",
+   "addedBy": "claude",
+   "city": "atlanta"
+  },
+  {
+   "id": "atlanta-childrens-museum-toddler-time",
+   "title": "Toddler Time",
+   "organizer": "Children's Museum of Atlanta",
+   "type": "Play",
+   "venue": "Children's Museum of Atlanta, Art Studio",
+   "address": "275 Centennial Olympic Park Dr NW, Atlanta, GA 30313",
+   "neighborhood": "Downtown",
+   "borough": "Atlanta",
+   "lat": 33.7625,
+   "lng": -84.3924,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 60,
+   "ageLabel": "Babies, toddlers and pre-K kids",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:00:00-05:00",
+     "end": "2026-11-05T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-06T10:00:00-05:00",
+     "end": "2026-11-06T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-09T10:00:00-05:00",
+     "end": "2026-11-09T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-10T10:00:00-05:00",
+     "end": "2026-11-10T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T10:00:00-05:00",
+     "end": "2026-11-12T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-13T10:00:00-05:00",
+     "end": "2026-11-13T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-16T10:00:00-05:00",
+     "end": "2026-11-16T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-17T10:00:00-05:00",
+     "end": "2026-11-17T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-19T10:00:00-05:00",
+     "end": "2026-11-19T12:00:00-05:00"
+    },
+    {
+     "start": "2026-11-20T10:00:00-05:00",
+     "end": "2026-11-20T12:00:00-05:00"
+    }
+   ],
+   "schedule": "Weekdays, 10am-12pm in the Art Studio",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Join during a museum visit. Sign-up details are on the museum calendar."
+   },
+   "url": "https://childrensmuseumatlanta.org/stem-tuesdays-oobleck/",
+   "description": "Hands-on art time for little ones. November projects include tissue paper trees, marshmallow building, oobleck and homemade kazoos.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "art",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Children's Museum of Atlanta calendar page: 'Toddler Time is during weekdays from 10:00 am - 12:00 pm in the Art Studio. Great for babies, toddlers, and pre-kindergarteners. Sign-up is [cut off]'. November 2026 activities listed for Mon, Tue, Thu and Fri, so sessions use those weekdays only and stop before Thanksgiving week. Admission price, sign-up method and holiday closures not confirmed. Also on the calendar: Sensory Friendly Playtime Sun Dec 6, 9-11am, and Storytime & Puppet Show (The Snowy Day) Dec 3-30.",
+   "addedBy": "claude",
+   "city": "atlanta"
+  }
+ ]
+}

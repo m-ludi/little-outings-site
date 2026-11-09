@@ -1,0 +1,803 @@
+{
+ "version": 1,
+ "city": "austin",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "austin-trail-of-lights",
+   "title": "Austin Trail of Lights",
+   "organizer": "Austin Trail of Lights",
+   "type": "Holiday",
+   "venue": "Zilker Park (Grand Entrance on Barton Springs Rd)",
+   "address": "2100 Barton Springs Rd, Austin, TX 78704",
+   "neighborhood": "Zilker",
+   "borough": "Austin",
+   "lat": 30.2669,
+   "lng": -97.7729,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 11 and under free",
+   "sessions": [
+    {
+     "start": "2026-12-10T19:00:00-06:00",
+     "end": "2026-12-10T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-11T19:00:00-06:00",
+     "end": "2026-12-11T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-12T19:00:00-06:00",
+     "end": "2026-12-12T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-13T19:00:00-06:00",
+     "end": "2026-12-13T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-14T19:00:00-06:00",
+     "end": "2026-12-14T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-15T19:00:00-06:00",
+     "end": "2026-12-15T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-16T19:00:00-06:00",
+     "end": "2026-12-16T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-17T19:00:00-06:00",
+     "end": "2026-12-17T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-18T19:00:00-06:00",
+     "end": "2026-12-18T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-19T19:00:00-06:00",
+     "end": "2026-12-19T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-20T19:00:00-06:00",
+     "end": "2026-12-20T22:00:00-06:00"
+    },
+    {
+     "start": "2026-12-21T19:00:00-06:00",
+     "end": "2026-12-21T22:00:00-06:00"
+    }
+   ],
+   "schedule": "Dec 10 to 23, 7 to 10pm. Free nights Dec 10, 11 and 13 to 17",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 8,
+   "priceLabel": "Free on 7 nights. Other nights $8 ages 12+. Kids 11 and under free",
+   "registration": {
+    "required": false,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "No ticket is needed on free nights. Paid nights are Dec 12 and 18 to 23. Parking must be bought online in advance, even on free nights. ZIP passes add 6pm early entry and are limited."
+   },
+   "url": "https://austintrailoflights.org/calendar",
+   "description": "Holiday light displays fill Zilker Park for two weeks. Strollers and small wagons are welcome. Weeknights in the first week usually draw the smallest crowds.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "free",
+    "stroller-friendly"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "'The Trail of Lights runs December 10th - 23rd, 2026 from 7:00pm to 10:00 pm', $8 GA for ages 12+ on Dec 12 and 18-23, free GA Dec 10, 11 and 13-17 with 'No advance ticket is required for GA entry', ZIP/Platinum 6pm early entry with limited supply, prepaid online parking only ('No parking will be sold onsite'), strollers and small wagons allowed, accessibility early entry at 6pm via the Lou Neff Rd ADA entrance, Zilker Park address and the smallest-crowds tip (weekday in the week of 12/10) confirmed on austintrailoflights.org event FAQs, the free-night FAQ and the ticket types page. 'Children 11 and under are always free to enter with a ticketed adult' from the ticket types page. Passes went on sale 'the beginning of October' (no exact date). Sessions list Dec 10-21. Dec 22 and 23 also run.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-wildflower-center-luminations",
+   "title": "Luminations",
+   "organizer": "Lady Bird Johnson Wildflower Center",
+   "type": "Holiday",
+   "venue": "Lady Bird Johnson Wildflower Center",
+   "address": "4801 La Crosse Ave, Austin, TX 78739",
+   "neighborhood": "Circle C",
+   "borough": "Austin",
+   "lat": 30.1857,
+   "lng": -97.8731,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 2 and under free",
+   "sessions": [
+    {
+     "start": "2026-11-20T17:45:00-06:00",
+     "end": "2026-11-20T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-21T17:45:00-06:00",
+     "end": "2026-11-21T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-22T17:45:00-06:00",
+     "end": "2026-11-22T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-27T17:45:00-06:00",
+     "end": "2026-11-27T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-28T17:45:00-06:00",
+     "end": "2026-11-28T21:00:00-06:00"
+    },
+    {
+     "start": "2026-11-29T17:45:00-06:00",
+     "end": "2026-11-29T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-03T17:45:00-06:00",
+     "end": "2026-12-03T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-04T17:45:00-06:00",
+     "end": "2026-12-04T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-05T17:45:00-06:00",
+     "end": "2026-12-05T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-06T17:45:00-06:00",
+     "end": "2026-12-06T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-10T17:45:00-06:00",
+     "end": "2026-12-10T21:00:00-06:00"
+    },
+    {
+     "start": "2026-12-11T17:45:00-06:00",
+     "end": "2026-12-11T21:00:00-06:00"
+    }
+   ],
+   "schedule": "Select nights Nov 20 to Dec 31, entry 5:45 to 7:45pm",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 30,
+   "priceLabel": "Adults $30, ages 3 to 12 $20, ages 2 and under free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy timed tickets online in advance. Arrive no more than 15 minutes before your slot. Members pay $23 for adults and $13 for kids. Free parking with a shuttle is at St. Augustine's University."
+   },
+   "url": "https://www.wildflower.org/luminations",
+   "description": "Glowing garden paths and nightly live music at the botanic garden. Strollers and wagons are welcome. The exhibit stays lit until 9pm and closes Dec 24 and 25.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "timed-entry",
+    "under-3-free"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "'Nov. 20 - Dec. 31, 2026' with listed nights Nov 20-22, 27-29, Dec 3-6, 10-13, 17-23, 26-31, entry 5:45-7:45pm, exhibit ends 9pm, closed Dec 24-25, prices ($30/$23 member adults, $20/$13 member youth 3-12, children 2 and under free), 'Tickets must be purchased in advance', 15-minute early-arrival rule, strollers and wagons allowed, nightly live music, free offsite parking at St. Augustine's University (5401 La Crosse Ave) with shuttle every 15 minutes, $25 onsite parking and address confirmed on wildflower.org/luminations. Per-date event pages exist on the family-events calendar. No on-sale date or sold-out notice is printed. Status open is inferred from the Tickets link. Dec 3 is billed as UT Night.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-central-library-books-and-babies",
+   "title": "Books and Babies at Central Library",
+   "organizer": "Austin Public Library",
+   "type": "Story time",
+   "venue": "Central Library, Children's Area (3rd floor south)",
+   "address": "710 W César Chávez St, Austin, TX 78701",
+   "neighborhood": "Downtown",
+   "borough": "Austin",
+   "lat": 30.2659,
+   "lng": -97.7518,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Non-walking babies 0 to 12 months, with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-05T14:00:00-06:00",
+     "end": "2026-11-05T14:30:00-06:00"
+    },
+    {
+     "start": "2026-11-09T14:00:00-06:00",
+     "end": "2026-11-09T14:30:00-06:00"
+    },
+    {
+     "start": "2026-11-12T14:00:00-06:00",
+     "end": "2026-11-12T14:30:00-06:00"
+    },
+    {
+     "start": "2026-11-16T14:00:00-06:00",
+     "end": "2026-11-16T14:30:00-06:00"
+    }
+   ],
+   "schedule": "Mondays and Thursdays, 2 to 2:30pm",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free and open to all. Just come to the children's area on the third floor."
+   },
+   "url": "https://library.austintexas.gov/events/books-and-babies",
+   "description": "A lapsit story time with short stories, songs, rhymes and fingerplays. A brief playtime follows.",
+   "tags": [
+    "free",
+    "babies",
+    "library",
+    "indoor",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Central Library sessions Thu Nov 5, Mon Nov 9, Thu Nov 12 and Mon Nov 16, 2-2:30pm, Children's Area (3rd Floor South), ages 0-1, 'A lapsit storytime program especially for non-walking babies 0-12 months and their caregivers', and the Nov 11 Veterans Day closure confirmed on library.austintexas.gov/events/books-and-babies. That page covered only Nov 4-16, so later dates were not confirmed. 'Free and open to the public' wording seen on APL storytime event pages.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-windsor-park-books-and-babies",
+   "title": "Books and Babies at Windsor Park Branch",
+   "organizer": "Austin Public Library",
+   "type": "Story time",
+   "venue": "Windsor Park Branch",
+   "address": "5833 Westminster Dr, Austin, TX 78723",
+   "neighborhood": "Windsor Park",
+   "borough": "Austin",
+   "lat": 30.3127,
+   "lng": -97.6918,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Non-walking babies 0 to 12 months, with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-06T12:30:00-06:00",
+     "end": "2026-11-06T13:30:00-06:00"
+    },
+    {
+     "start": "2026-11-13T12:30:00-06:00",
+     "end": "2026-11-13T13:30:00-06:00"
+    }
+   ],
+   "schedule": "Fridays, 12:30 to 1:30pm",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free and open to all. Just drop in with your baby."
+   },
+   "url": "https://library.austintexas.gov/events/books-and-babies",
+   "description": "A lapsit story time with short stories, songs, rhymes and fingerplays. A brief playtime follows.",
+   "tags": [
+    "free",
+    "babies",
+    "library",
+    "indoor",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Windsor Park Branch sessions Fri Nov 6 and Fri Nov 13, 12:30-1:30pm, ages 0-1, lapsit description and branch address confirmed on library.austintexas.gov/events/books-and-babies (page 1, Nov 4-16 only). Later dates were not confirmed.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-central-library-toddler-music-circle",
+   "title": "Toddler Music Circle at Central Library",
+   "organizer": "Austin Public Library",
+   "type": "Music",
+   "venue": "Central Library, Children's Area (3rd floor south)",
+   "address": "710 W César Chávez St, Austin, TX 78701",
+   "neighborhood": "Downtown",
+   "borough": "Austin",
+   "lat": 30.2659,
+   "lng": -97.7518,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 36,
+   "ageLabel": "Toddlers ages 1 to 3",
+   "sessions": [
+    {
+     "start": "2026-11-06T10:00:00-06:00",
+     "end": "2026-11-06T10:30:00-06:00"
+    },
+    {
+     "start": "2026-11-13T10:00:00-06:00",
+     "end": "2026-11-13T10:30:00-06:00"
+    },
+    {
+     "start": "2026-11-20T10:00:00-06:00",
+     "end": "2026-11-20T10:30:00-06:00"
+    }
+   ],
+   "schedule": "Fridays, 10 to 10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free and open to all. Just come to the children's area on the third floor."
+   },
+   "url": "https://library.austintexas.gov/event/music-movement/toddler-music-circle-7785881",
+   "description": "A music and movement circle for toddlers and their grown-ups. Sing, shake and move together in the downtown library's children's area.",
+   "tags": [
+    "free",
+    "toddlers",
+    "music",
+    "library",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Toddler Music Circle at Central Library Children's Area (3rd Floor South), Fridays Nov 6, 13 and 20, 10-10:30am, audience Toddlers (1-3), listed under APL's Music & Movement program, confirmed on library.austintexas.gov/events/music-movement (page 1, Nov 4-Dec 2). No Nov 27 session is listed. Registration is not mentioned. Free status follows APL's 'Free and open to the public' program wording.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-milwood-toddler-music-circle",
+   "title": "Toddler Music Circle at Milwood Branch",
+   "organizer": "Austin Public Library",
+   "type": "Music",
+   "venue": "Milwood Branch",
+   "address": "12500 Amherst Dr, Austin, TX 78727",
+   "neighborhood": "Milwood",
+   "borough": "Austin",
+   "lat": 30.422,
+   "lng": -97.7175,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 36,
+   "ageLabel": "Toddlers ages 1 to 3",
+   "sessions": [
+    {
+     "start": "2026-11-06T09:30:00-06:00",
+     "end": "2026-11-06T10:10:00-06:00"
+    },
+    {
+     "start": "2026-11-06T10:30:00-06:00",
+     "end": "2026-11-06T11:10:00-06:00"
+    },
+    {
+     "start": "2026-11-13T09:30:00-06:00",
+     "end": "2026-11-13T10:10:00-06:00"
+    },
+    {
+     "start": "2026-11-13T10:30:00-06:00",
+     "end": "2026-11-13T11:10:00-06:00"
+    }
+   ],
+   "schedule": "Fridays at 9:30am and 10:30am (40 min each)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free and open to all. Two sessions run back to back, so pick the one that fits nap time."
+   },
+   "url": "https://library.austintexas.gov/event/music-movement/toddler-music-circle-7786469",
+   "description": "A Friday morning music circle for toddlers and their grown-ups at the north Austin branch. Two sessions run each week.",
+   "tags": [
+    "free",
+    "toddlers",
+    "music",
+    "library",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Toddler Music Circle at Milwood Branch, Fridays Nov 6 and Nov 13 at 9:30-10:10am and 10:30-11:10am, audience Toddlers (1-3), confirmed on library.austintexas.gov/events/music-movement (page 1, Nov 4-Dec 2). No Milwood sessions are listed for Nov 20 or Nov 27 on that page. Registration is not mentioned.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-little-walnut-creek-spanish-english-music-movement",
+   "title": "Spanish-English Music & Movement",
+   "organizer": "Austin Public Library",
+   "type": "Music",
+   "venue": "Little Walnut Creek Branch",
+   "address": "835 W Rundberg Ln, Austin, TX 78758",
+   "neighborhood": "Rundberg",
+   "borough": "Austin",
+   "lat": 30.361,
+   "lng": -97.699,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 71,
+   "ageLabel": "Babies, toddlers and preschoolers, ages 0 to 5",
+   "sessions": [
+    {
+     "start": "2026-11-08T14:30:00-06:00",
+     "end": "2026-11-08T15:30:00-06:00"
+    },
+    {
+     "start": "2026-11-15T14:30:00-06:00",
+     "end": "2026-11-15T15:30:00-06:00"
+    },
+    {
+     "start": "2026-11-22T14:30:00-06:00",
+     "end": "2026-11-22T15:30:00-06:00"
+    }
+   ],
+   "schedule": "Sundays, 2:30 to 3:30pm",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free and open to all. Just drop in on Sunday afternoon."
+   },
+   "url": "https://library.austintexas.gov/event/music-movement/spanish-english-music-movement-7784832",
+   "description": "A bilingual music and movement hour in Spanish and English. Babies, toddlers and preschoolers are all welcome.",
+   "tags": [
+    "free",
+    "bilingual",
+    "music",
+    "library",
+    "weekend"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Spanish-English Music & Movement at Little Walnut Creek Branch (835 W. Rundberg Ln.), Sundays Nov 8, 15 and 22, 2:30-3:30pm, audiences Babies (0-1), Toddlers (1-3), Preschoolers (3-5), confirmed on library.austintexas.gov/events/music-movement (page 1, Nov 4-Dec 2). Registration is not mentioned.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-nature-science-center-science-storytime",
+   "title": "Science Storytime",
+   "organizer": "Austin Nature & Science Center (Austin Parks and Recreation)",
+   "type": "Story time",
+   "venue": "Austin Nature & Science Center",
+   "address": "2389 Stratford Dr, Austin, TX 78746",
+   "neighborhood": "Zilker",
+   "borough": "Austin",
+   "lat": 30.2733,
+   "lng": -97.7737,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 59,
+   "ageLabel": "Ages 4 and under",
+   "sessions": [
+    {
+     "start": "2026-11-09T09:30:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-14T09:30:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-01-11T09:30:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-08T09:30:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-03-08T09:30:00-06:00",
+     "end": null
+    }
+   ],
+   "schedule": "Monthly on Mondays at 9:30am, Nov 9 to Mar 8",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free drop-in program. No registration is required."
+   },
+   "url": "https://www.austintexas.gov/parks/austin-nature-science-center-camps-events-and-community-programs",
+   "description": "A free science story time for young children at the city's nature center near Zilker Park. One Monday morning each month.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "preschool",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "'Free drop-in story time designed for ages 4 and under; no registration required', Mondays 9:30am, dates Nov 9 and Dec 14 2026 and Jan 11, Feb 8 and Mar 8 2027 confirmed on the austintexas.gov ANSC camps, events and community programs page. End time not stated. Street address 2389 Stratford Dr is the ANSC parking address given on the city's Nature's Way Preschool page.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-nature-science-center-saturday-programs",
+   "title": "Free Saturday Science Programs",
+   "organizer": "Austin Nature & Science Center (Austin Parks and Recreation)",
+   "type": "Museum",
+   "venue": "Austin Nature & Science Center",
+   "address": "2389 Stratford Dr, Austin, TX 78746",
+   "neighborhood": "Zilker",
+   "borough": "Austin",
+   "lat": 30.2733,
+   "lng": -97.7737,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, family-friendly",
+   "sessions": [
+    {
+     "start": "2026-11-14T10:00:00-06:00",
+     "end": "2026-11-14T14:00:00-06:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-12T10:00:00-06:00",
+     "end": null
+    }
+   ],
+   "schedule": "Sat Nov 14 (Dinovember), Dec 5 (animals) and Dec 12 (space), from 10am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. For Dec 5 and Dec 12, pick up an activity pass in front of the Visitors Center starting at 9:30am. Passes are first come, first served. Dinovember on Nov 14 is drop-in from 10am to 2pm."
+   },
+   "url": "https://www.austintexas.gov/parks/austin-nature-science-center-camps-events-and-community-programs",
+   "description": "Hands-on science mornings at the city's nature center. Explore a fossil table for Dinovember, then come back for Meet the Animals and Space Saturday in December.",
+   "tags": [
+    "free",
+    "animals",
+    "weekend",
+    "hands-on",
+    "drop-in"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Saturday Programs described as 'free, family-friendly science programs'. Dinovember Nov 14 10am-2pm (fossil table any time). Meet the Animals Dec 5 and Space Saturday Dec 12 with program times 10:00, 10:30, 11:00, 11:30, 12:30, 1:00 and 1:30, limited-capacity activity passes handed out 'in front of the Visitors Center on a first come, first serve basis beginning at 9:30am'. All confirmed on the austintexas.gov ANSC programs page. No age range given. December end times left null since the last program starts at 1:30pm.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-thinkery-baby-bloomers",
+   "title": "Baby Bloomers at Thinkery",
+   "organizer": "Thinkery",
+   "type": "Play",
+   "venue": "Thinkery (second floor and backyard)",
+   "address": "1830 Simond Ave, Austin, TX 78723",
+   "neighborhood": "Mueller",
+   "borough": "Austin",
+   "lat": 30.2986,
+   "lng": -97.705,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 36,
+   "ageLabel": "Babies and toddlers 0 to 36 months",
+   "sessions": [
+    {
+     "start": "2026-11-06T08:00:00-06:00",
+     "end": "2026-11-06T10:00:00-06:00"
+    },
+    {
+     "start": "2026-11-07T08:00:00-06:00",
+     "end": "2026-11-07T10:00:00-06:00"
+    },
+    {
+     "start": "2026-11-13T08:00:00-06:00",
+     "end": "2026-11-13T10:00:00-06:00"
+    },
+    {
+     "start": "2026-11-14T08:00:00-06:00",
+     "end": "2026-11-14T10:00:00-06:00"
+    },
+    {
+     "start": "2026-11-20T08:00:00-06:00",
+     "end": "2026-11-20T10:00:00-06:00"
+    },
+    {
+     "start": "2026-11-21T08:00:00-06:00",
+     "end": "2026-11-21T10:00:00-06:00"
+    }
+   ],
+   "schedule": "Fridays and Saturdays, 8 to 10am",
+   "recurring": true,
+   "priceMin": 3,
+   "priceMax": 9,
+   "priceLabel": "$9 standard, $7 members, $3 Museums for All",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Reserve tickets in advance on Thinkery's site. Memberships do not cover this program, but members pay less."
+   },
+   "url": "https://thinkeryaustin.org/program/baby-bloomers/",
+   "description": "Early museum hours just for under-3s and their families. Story time runs at 8:30 and 9:30am, parachute play at 9am, with sensory stations across the museum.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "indoor",
+    "sensory",
+    "weekend"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "'For ages 0-36 months', 'On Friday and Saturday mornings from 8 - 10 AM', November & December activations (Story Time at 8:30 and 9:30 AM, Parachute Play at 9 AM, sensory stations), '$7 Member | $9 standard | $3 Museums for All tickets', not included in memberships, 'Reserve your tickets in advance', second floor and backyard location and address confirmed on thinkeryaustin.org/program/baby-bloomers/. The page gives the Fri/Sat schedule but no individual dates and no holiday exceptions. Sessions list the next three weekends from that stated schedule. The booking calendar (my.thinkeryaustin.org) could not be fetched.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-scottish-rite-theater-awesome-allie",
+   "title": "Awesome Allie: First Kid Astronaut",
+   "organizer": "Austin Scottish Rite Theater",
+   "type": "Theater",
+   "venue": "Austin Scottish Rite Theater",
+   "address": "207 W 18th St, Austin, TX 78701",
+   "neighborhood": "Downtown",
+   "borough": "Austin",
+   "lat": 30.2798,
+   "lng": -97.7409,
+   "ageMinMonths": 48,
+   "ageMaxMonths": 131,
+   "ageLabel": "All audiences. Best for pre-K to 5th grade",
+   "sessions": [
+    {
+     "start": "2027-02-20T11:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-20T13:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-21T11:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-21T13:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-27T11:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-27T13:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-28T11:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-02-28T13:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-03-06T11:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-03-06T13:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-03-07T11:00:00-06:00",
+     "end": null
+    },
+    {
+     "start": "2027-03-07T13:00:00-06:00",
+     "end": null
+    }
+   ],
+   "schedule": "Feb 20 to Mar 14, Sat and Sun at 11am and 1pm (about 60 min)",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 24,
+   "priceLabel": "Adults $24, kids $17, seniors $22, ages 2 and under free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets through the theater's online box office. Children 2 and under get in free."
+   },
+   "url": "https://scottishritetheater.org/",
+   "description": "Allie blasts off across the solar system with her talking dog and a dancing robot to save Earth. She still has to be home for dinner. A one-hour space adventure.",
+   "tags": [
+    "theater",
+    "indoor",
+    "weekend",
+    "preschool",
+    "under-3-free"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "'Feb 20, 2027 - Mar 14, 2027', 'Saturdays and Sundays at 11am and 1pm', 'Appropriate for all audiences. Recommended for Pre-K to 5th Grade', 'Approximately 60 minutes', prices (Adult $24, Child $17, Senior $22, 'Toddlers - 2 & under are free'), description and address confirmed on the scottishritetheater.org homepage. The ticket link (austinscottishritetheater.thundertix.com/events/268518) could not be fetched, so status open is inferred from that live link. Sessions are the first 12 of 16 performances derived from the stated weekend schedule. Mar 13-14 also run. ageMinMonths 48 approximates pre-K.",
+   "addedBy": "claude",
+   "city": "austin"
+  },
+  {
+   "id": "austin-natures-way-preschool-tours-enrollment",
+   "title": "Nature's Way Preschool Tours and 2027-28 Enrollment",
+   "organizer": "Austin Nature & Science Center (Austin Parks and Recreation)",
+   "type": "Class",
+   "venue": "Ashford-McGill Trailhouse, Austin Nature & Science Center",
+   "address": "2389 Stratford Dr, Austin, TX 78746",
+   "neighborhood": "Zilker",
+   "borough": "Austin",
+   "lat": 30.2733,
+   "lng": -97.7737,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 71,
+   "ageLabel": "Ages 3 to 5 by Oct 1, potty-trained",
+   "sessions": [
+    {
+     "start": "2026-11-13T14:00:00-06:00",
+     "end": "2026-11-13T14:30:00-06:00"
+    },
+    {
+     "start": "2026-11-30T14:00:00-06:00",
+     "end": "2026-11-30T14:30:00-06:00"
+    },
+    {
+     "start": "2026-12-14T14:00:00-06:00",
+     "end": "2026-12-14T14:30:00-06:00"
+    },
+    {
+     "start": "2027-01-08T14:00:00-06:00",
+     "end": "2027-01-08T14:30:00-06:00"
+    }
+   ],
+   "schedule": "Tours Nov 13, Nov 30, Dec 14 and Jan 8 at 2pm (30 min)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Public registration usually happens in late January. Families who tour get an email with the exact date and time. Book a tour on the program page. Each tour is capped at 10 families."
+   },
+   "url": "https://www.austintexas.gov/parks/natures-way-preschool",
+   "description": "A half-day nature preschool at the city's nature center. Classes for 3-year-olds and for 4- and 5-year-olds meet one to four days a week. Most run 9am to 1pm, with some afternoon options.",
+   "tags": [
+    "preschool",
+    "outdoor",
+    "enrollment",
+    "nature",
+    "class"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Tour dates Nov 13, Nov 30, Dec 14 2026 and Jan 8 2027 (October dates past), 2:00pm start, about 30 minutes plus discussion, 10 families per tour, Tour Registration link, 'Public registration typically takes place in late January for the following school year', tour attendees emailed the registration date and time, ages 3-5 by Oct 1, potty-trained, 2026-27 class sections and Trailhouse location (parking at 2389 Stratford Dr under the Mopac bridge) confirmed on austintexas.gov/parks/natures-way-preschool. Tuition tables are images that could not be read. No confirmed 2027-28 registration date, so opensAt is null.",
+   "addedBy": "claude",
+   "city": "austin"
+  }
+ ]
+}

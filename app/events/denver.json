@@ -1,0 +1,716 @@
+{
+ "version": 1,
+ "city": "denver",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "denver-zoo-lights",
+   "title": "Zoo Lights",
+   "organizer": "Denver Zoo Conservation Alliance",
+   "type": "Holiday",
+   "venue": "Denver Zoo",
+   "address": "2300 Steele St., Denver, CO 80205",
+   "neighborhood": "City Park",
+   "borough": "Denver",
+   "lat": 39.7499,
+   "lng": -104.9508,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 2 and under are free",
+   "sessions": [
+    {
+     "start": "2026-11-23T16:30:00-07:00",
+     "end": "2026-11-23T21:00:00-07:00"
+    }
+   ],
+   "schedule": "Select nights Nov 23 to Jan 3. Sun–Thu 4:30–9pm, Fri–Sat 4:30–10pm",
+   "recurring": false,
+   "priceMin": 18.95,
+   "priceMax": 29.95,
+   "priceLabel": "Adults $29.95, youth $22.95, less on value nights. Free 2 and under",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": "2026-11-05T09:00:00-07:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Public tickets go on sale Thu Nov 5 at 9am. Members got early access starting Nov 2 and save 10%. Closed Thanksgiving and Christmas."
+   },
+   "url": "https://denverzoo.org/events/zoo-lights/",
+   "description": "The zoo's 35th season of holiday lights, on select nights from late November through Jan 3.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "denverzoo.org Zoo Lights 35 page: 'November 23-January 3' select nights, Sun-Thu 4:30-9pm, Fri-Sat 4:30-10pm, closed Thanksgiving and Christmas. Adults and seniors $29.95, youth $22.95, youth 2 and under free. Value nights $25.95 adult and $18.95 youth. Members $26.95 adult and $20.65 youth (10% off). Member priority from Nov 2, tickets 'released to the public on Nov 5 at 9:00 a.m.' No year printed on the dates, but the page is the 35th season, copyright 2026, and Nov 2 (Mon) and Nov 5 (Thu) match 2026. Only the first date of the range is listed as a session because the specific select nights are on the ticket calendar.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-zoo-lights-sensory-friendly-night",
+   "title": "Zoo Lights Sensory-Friendly Night",
+   "organizer": "Denver Zoo Conservation Alliance",
+   "type": "Holiday",
+   "venue": "Denver Zoo",
+   "address": "2300 Steele St., Denver, CO 80205",
+   "neighborhood": "City Park",
+   "borough": "Denver",
+   "lat": 39.7499,
+   "lng": -104.9508,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 2 and under are free",
+   "sessions": [
+    {
+     "start": "2026-12-31T16:30:00-07:00",
+     "end": "2026-12-31T21:00:00-07:00"
+    }
+   ],
+   "schedule": "Thu Dec 31, 4:30–9pm",
+   "recurring": false,
+   "priceMin": 18.95,
+   "priceMax": 25.95,
+   "priceLabel": "Adults $25.95, youth $18.95. Free for kids 2 and under",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": "2026-11-05T09:00:00-07:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Tickets go on sale to the public Thu Nov 5 at 9am. Members can buy from Nov 2 and save 10%."
+   },
+   "url": "https://denverzoo.org/events/zoo-lights-sensory-friendly-night/",
+   "description": "A calmer Zoo Lights night with no strobing, more light around campus and low-volume music, including on the carousel and train. Crowds are smaller.",
+   "tags": [
+    "sensory-friendly",
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "denverzoo.org sensory-friendly night page: 'December 31', 4:30-9:00pm, adults and seniors $25.95, youth $18.95, kids two and under free, members 10% off ($23.35 and $17.05), on sale Nov 5 with member priority Nov 2 and a banner saying public release Nov 5 at 9:00am. No strobing, increased light, low-volume music including the Conservation Carousel and Denver Zoo Railroad, reduced crowds, aimed at guests with sensory processing disorders. The page shows no year, so 2026 is taken from the current Zoo Lights 35 on-sale dates.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-botanic-gardens-blossoms-of-light",
+   "title": "Blossoms of Light",
+   "organizer": "Denver Botanic Gardens",
+   "type": "Holiday",
+   "venue": "Denver Botanic Gardens, York Street",
+   "address": "1007 York St., Denver, CO 80206",
+   "neighborhood": "Cheesman Park",
+   "borough": "Denver",
+   "lat": 39.732,
+   "lng": -104.96,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 2 and under are free",
+   "sessions": [
+    {
+     "start": "2026-11-20T16:30:00-07:00",
+     "end": "2026-11-20T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-21T16:30:00-07:00",
+     "end": "2026-11-21T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-22T16:30:00-07:00",
+     "end": "2026-11-22T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-23T16:30:00-07:00",
+     "end": "2026-11-23T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-24T16:30:00-07:00",
+     "end": "2026-11-24T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-25T16:30:00-07:00",
+     "end": "2026-11-25T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-27T16:30:00-07:00",
+     "end": "2026-11-27T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-28T16:30:00-07:00",
+     "end": "2026-11-28T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-29T16:30:00-07:00",
+     "end": "2026-11-29T21:00:00-07:00"
+    },
+    {
+     "start": "2026-11-30T16:30:00-07:00",
+     "end": "2026-11-30T21:00:00-07:00"
+    }
+   ],
+   "schedule": "Nightly Nov 20 to Jan 10, 4:30–9pm. Closed Nov 26 and Dec 25",
+   "recurring": false,
+   "priceMin": 16,
+   "priceMax": 45,
+   "priceLabel": "$19–$45, members $16–$38. Free for kids 2 and under",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": "2026-11-09T10:00:00-07:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Public tickets go on sale Mon Nov 9 at 10am, and the online queue opens at 9:30am. Member presales run Nov 4 to 6 at 10am by level. Prices change by date and time."
+   },
+   "url": "https://www.botanicgardens.org/events/public-events/blossoms-light",
+   "description": "Holiday lights fill the York Street gardens every evening of the season. Arrive within 30 minutes of the time on the ticket.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "botanicgardens.org Blossoms of Light page and Winter/Holiday Events page: Nov 20-Jan 10, 4:30-9pm (grounds cleared 9:45pm), closed Nov 26 and Dec 25. Adult $19-$45, member $16-$38, free for children 2 and younger, plan-ahead pricing by date and time, membership does not guarantee a ticket. Presales at 10am: Wed Nov 4 (President's Circle through Gardens Plus), Thu Nov 5 (Friends & Family), Fri Nov 6 (Dual Plus, Individual Plus). Public Mon Nov 9 at 10am, queue opens 9:30am. Years not printed, but the weekdays match 2026 and the footer is 2026. Strollers can be checked out first come, first served. Sessions list the first 10 open nights.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-botanic-gardens-blossoms-sensory-friendly-night",
+   "title": "Blossoms of Light Sensory-Friendly Night",
+   "organizer": "Denver Botanic Gardens",
+   "type": "Holiday",
+   "venue": "Denver Botanic Gardens, York Street",
+   "address": "1007 York St., Denver, CO 80206",
+   "neighborhood": "Cheesman Park",
+   "borough": "Denver",
+   "lat": 39.732,
+   "lng": -104.96,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 2 and under are free",
+   "sessions": [
+    {
+     "start": "2026-12-01T17:00:00-07:00",
+     "end": "2026-12-01T20:00:00-07:00"
+    }
+   ],
+   "schedule": "Tue Dec 1, 5–8pm",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Everyone over age 2 needs a ticket. Buying ahead is the best way to get a preferred entry time. Members get discounted prices."
+   },
+   "url": "https://www.botanicgardens.org/events/special-events/blossoms-light-sensory-friendly-night",
+   "description": "A relaxed evening at Blossoms of Light. The brightest light and sound effects are toned down and fewer tickets are sold.",
+   "tags": [
+    "sensory-friendly",
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "botanicgardens.org sensory-friendly night page: Tuesday, Dec. 1, 5-8pm (grounds cleared 9pm per the Winter/Holiday Events page), 'Ticket prices TBA', tickets required for everyone over age 2, advance purchase recommended, light and sound adjusted to subdue the highest sensory features, reduced capacity, membership gives discounted prices but does not guarantee a ticket. On-sale date for this night not stated, so opensAt is null. Year not printed. Dec 1 is a Tuesday in 2026.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-botanic-gardens-chatfield-trail-of-lights",
+   "title": "Trail of Lights at Chatfield Farms",
+   "organizer": "Denver Botanic Gardens",
+   "type": "Holiday",
+   "venue": "Denver Botanic Gardens Chatfield Farms",
+   "address": "8500 W. Deer Creek Canyon Rd., Littleton, CO 80128",
+   "neighborhood": "Chatfield",
+   "borough": "Littleton",
+   "lat": 39.552,
+   "lng": -105.097,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Ages 3 and up need a ticket",
+   "sessions": [
+    {
+     "start": "2026-11-21T17:00:00-07:00",
+     "end": "2026-11-21T20:30:00-07:00"
+    },
+    {
+     "start": "2026-11-22T17:00:00-07:00",
+     "end": "2026-11-22T20:30:00-07:00"
+    },
+    {
+     "start": "2026-11-23T17:00:00-07:00",
+     "end": "2026-11-23T20:30:00-07:00"
+    },
+    {
+     "start": "2026-11-24T17:00:00-07:00",
+     "end": "2026-11-24T20:30:00-07:00"
+    },
+    {
+     "start": "2026-11-25T17:00:00-07:00",
+     "end": "2026-11-25T20:30:00-07:00"
+    },
+    {
+     "start": "2026-11-27T17:00:00-07:00",
+     "end": "2026-11-27T20:30:00-07:00"
+    },
+    {
+     "start": "2026-11-28T17:00:00-07:00",
+     "end": "2026-11-28T20:30:00-07:00"
+    },
+    {
+     "start": "2026-11-29T17:00:00-07:00",
+     "end": "2026-11-29T20:30:00-07:00"
+    },
+    {
+     "start": "2026-12-02T17:00:00-07:00",
+     "end": "2026-12-02T20:30:00-07:00"
+    },
+    {
+     "start": "2026-12-03T17:00:00-07:00",
+     "end": "2026-12-03T20:30:00-07:00"
+    },
+    {
+     "start": "2026-12-04T17:00:00-07:00",
+     "end": "2026-12-04T20:30:00-07:00"
+    },
+    {
+     "start": "2026-12-05T17:00:00-07:00",
+     "end": "2026-12-05T20:30:00-07:00"
+    }
+   ],
+   "schedule": "Select nights Nov 21 to Jan 3, 5–8:30pm",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": "2026-11-09T10:00:00-07:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Public tickets go on sale Mon Nov 9 at 10am, and the online queue opens at 9:30am. Members buy first, Nov 4 to 6. Everyone 3 and up needs a ticket."
+   },
+   "url": "https://www.botanicgardens.org/winter-holiday-events-information",
+   "description": "A walk-through holiday light trail at the Gardens' Chatfield Farms site in Littleton.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "all-ages"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "botanicgardens.org Winter/Holiday Events page: Trail of Lights at Chatfield Farms, 8500 West Deer Creek Canyon Road, Littleton, Nov 21-Jan 3, 5-8:30pm (grounds cleared 9:15pm), closed Nov 26, Nov 30, Dec 1, Dec 7, Dec 8 and Dec 25. On-sale schedule for holiday events at 10am: Nov 4, 5, 6 member tiers and Mon Nov 9 public, queue opens 9:30am. Everyone ages 3 and up, including members, needs a ticket for special events. Prices not listed. Sessions list the first 12 open nights.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-childrens-museum-baby-artists",
+   "title": "Baby Artists",
+   "organizer": "Children's Museum of Denver at Marsico Campus",
+   "type": "Museum",
+   "venue": "Children's Museum of Denver at Marsico Campus (The Art Studio)",
+   "address": "2121 Children's Museum Dr., Denver, CO 80211",
+   "neighborhood": "Jefferson Park",
+   "borough": "Denver",
+   "lat": 39.751,
+   "lng": -105.012,
+   "ageMinMonths": 6,
+   "ageMaxMonths": 36,
+   "ageLabel": "6 months to 3 years",
+   "sessions": [
+    {
+     "start": "2026-11-10T09:00:00-07:00",
+     "end": "2026-11-10T10:00:00-07:00"
+    },
+    {
+     "start": "2026-11-17T09:00:00-07:00",
+     "end": "2026-11-17T10:00:00-07:00"
+    },
+    {
+     "start": "2026-11-24T09:00:00-07:00",
+     "end": "2026-11-24T10:00:00-07:00"
+    },
+    {
+     "start": "2026-12-01T09:00:00-07:00",
+     "end": "2026-12-01T10:00:00-07:00"
+    },
+    {
+     "start": "2026-12-08T09:00:00-07:00",
+     "end": "2026-12-08T10:00:00-07:00"
+    },
+    {
+     "start": "2026-12-15T09:00:00-07:00",
+     "end": "2026-12-15T10:00:00-07:00"
+    },
+    {
+     "start": "2026-12-22T09:00:00-07:00",
+     "end": "2026-12-22T10:00:00-07:00"
+    },
+    {
+     "start": "2026-12-29T09:00:00-07:00",
+     "end": "2026-12-29T10:00:00-07:00"
+    },
+    {
+     "start": "2027-01-05T09:00:00-07:00",
+     "end": "2027-01-05T10:00:00-07:00"
+    },
+    {
+     "start": "2027-01-12T09:00:00-07:00",
+     "end": "2027-01-12T10:00:00-07:00"
+    },
+    {
+     "start": "2027-01-19T09:00:00-07:00",
+     "end": "2027-01-19T10:00:00-07:00"
+    },
+    {
+     "start": "2027-01-26T09:00:00-07:00",
+     "end": "2027-01-26T10:00:00-07:00"
+    }
+   ],
+   "schedule": "Tuesdays 9–10am in The Art Studio",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 19.75,
+   "priceLabel": "With admission. Under 1 free, age 1 $17.75, ages 2–59 $19.75",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Included with museum admission, sold at the door. Every child needs an adult and every adult needs a child. Members get in free."
+   },
+   "url": "https://www.mychildsmuseum.org/events/EventDetail/tuesdays-at-the-museum",
+   "description": "Little hands squish clay, pull polyfill and string, and play with paint in a sensory art hour made for babies and toddlers.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "art",
+    "sensory",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "mychildsmuseum.org 'Tuesdays at the Museum' event page: 9-10am Baby Artists in The Art Studio, sensory materials like clay, polyfill, string and paint, designed for ages 6 months-3 years. Weekly Tuesday listing runs Feb 17, 2026 through Feb 6, 2029. Daily programming is subject to change. Admission: under 1 free, age 1 $17.75, ages 2-59 $19.75, 60+ $17.75, members free, tickets not sold online. No adults without a child and no children without an adult. Museum open 9am-4pm daily per the What's Happening page. Address from the same page.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-childrens-museum-baby-chefs",
+   "title": "Baby Chefs",
+   "organizer": "Children's Museum of Denver at Marsico Campus",
+   "type": "Museum",
+   "venue": "Children's Museum of Denver at Marsico Campus (The Teaching Kitchen)",
+   "address": "2121 Children's Museum Dr., Denver, CO 80211",
+   "neighborhood": "Jefferson Park",
+   "borough": "Denver",
+   "lat": 39.751,
+   "lng": -105.012,
+   "ageMinMonths": 6,
+   "ageMaxMonths": 36,
+   "ageLabel": "6 months to 3 years",
+   "sessions": [
+    {
+     "start": "2026-11-09T09:15:00-07:00",
+     "end": "2026-11-09T11:15:00-07:00"
+    },
+    {
+     "start": "2026-11-16T09:15:00-07:00",
+     "end": "2026-11-16T11:15:00-07:00"
+    },
+    {
+     "start": "2026-11-23T09:15:00-07:00",
+     "end": "2026-11-23T11:15:00-07:00"
+    },
+    {
+     "start": "2026-11-30T09:15:00-07:00",
+     "end": "2026-11-30T11:15:00-07:00"
+    },
+    {
+     "start": "2026-12-07T09:15:00-07:00",
+     "end": "2026-12-07T11:15:00-07:00"
+    },
+    {
+     "start": "2026-12-14T09:15:00-07:00",
+     "end": "2026-12-14T11:15:00-07:00"
+    },
+    {
+     "start": "2026-12-21T09:15:00-07:00",
+     "end": "2026-12-21T11:15:00-07:00"
+    },
+    {
+     "start": "2026-12-28T09:15:00-07:00",
+     "end": "2026-12-28T11:15:00-07:00"
+    },
+    {
+     "start": "2027-01-04T09:15:00-07:00",
+     "end": "2027-01-04T11:15:00-07:00"
+    },
+    {
+     "start": "2027-01-11T09:15:00-07:00",
+     "end": "2027-01-11T11:15:00-07:00"
+    },
+    {
+     "start": "2027-01-18T09:15:00-07:00",
+     "end": "2027-01-18T11:15:00-07:00"
+    },
+    {
+     "start": "2027-01-25T09:15:00-07:00",
+     "end": "2027-01-25T11:15:00-07:00"
+    }
+   ],
+   "schedule": "Mondays 9:15–11:15am in The Teaching Kitchen",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 19.75,
+   "priceLabel": "With admission. Under 1 free, age 1 $17.75, ages 2–59 $19.75",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Included with museum admission, sold at the door. Every child needs an adult and every adult needs a child. Members get in free."
+   },
+   "url": "https://www.mychildsmuseum.org/events/EventDetail/mondays-at-the-museum",
+   "description": "Babies and toddlers mix, pour and sort in the museum's kitchen, with little tastings along the way.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "cooking",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "mychildsmuseum.org 'Mondays at the Museum' event page: 9:15-11:15am Baby Chefs in The Teaching Kitchen, mixing, pouring, sorting and tastings, designed for ages 6 months-3 years. Weekly Monday listing runs Mar 9, 2026 through Feb 26, 2029. Schedule is typical and subject to change, and Teaching Kitchen programs may be swapped for tastings or food StoryTimes. No registration is mentioned for Baby Chefs, so Walk-in is inferred. Admission details from the What's Happening page.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-childrens-museum-bloom-early-learners",
+   "title": "Early Learners' Programming in Bloom",
+   "organizer": "Children's Museum of Denver at Marsico Campus",
+   "type": "Play",
+   "venue": "Children's Museum of Denver at Marsico Campus (Bloom)",
+   "address": "2121 Children's Museum Dr., Denver, CO 80211",
+   "neighborhood": "Jefferson Park",
+   "borough": "Denver",
+   "lat": 39.751,
+   "lng": -105.012,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 36,
+   "ageLabel": "Newborn to 36 months with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:15:00-07:00"
+    },
+    {
+     "start": "2026-11-10T10:15:00-07:00"
+    },
+    {
+     "start": "2026-11-16T10:15:00-07:00"
+    },
+    {
+     "start": "2026-11-17T10:15:00-07:00"
+    },
+    {
+     "start": "2026-11-23T10:15:00-07:00"
+    },
+    {
+     "start": "2026-11-24T10:15:00-07:00"
+    },
+    {
+     "start": "2026-11-30T10:15:00-07:00"
+    },
+    {
+     "start": "2026-12-01T10:15:00-07:00"
+    },
+    {
+     "start": "2026-12-07T10:15:00-07:00"
+    },
+    {
+     "start": "2026-12-08T10:15:00-07:00"
+    },
+    {
+     "start": "2026-12-14T10:15:00-07:00"
+    },
+    {
+     "start": "2026-12-15T10:15:00-07:00"
+    }
+   ],
+   "schedule": "Mondays and Tuesdays at 10:15am, with a new activity each day",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 19.75,
+   "priceLabel": "With admission. Under 1 free, age 1 $17.75, ages 2–59 $19.75",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Drop in. Included with museum admission, sold at the door. Members get in free."
+   },
+   "url": "https://www.mychildsmuseum.org/events/EventDetail/tuesdays-at-the-museum",
+   "description": "Drop-in activities made just for newborns through 3-year-olds and their caregivers, in the museum's Bloom space.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "drop-in",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Both the 'Mondays at the Museum' and 'Tuesdays at the Museum' event pages on mychildsmuseum.org list Early Learners' Programming in Bloom at 10:15am, drop-in daily activities for children newborn-36 months and their caregivers, each day different. Session length not stated. Other weekdays were not checked, so only Monday and Tuesday sessions are listed. Schedule subject to change.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-arapahoe-southglenn-baby-storytime",
+   "title": "Baby Storytime at Southglenn Library",
+   "organizer": "Arapahoe Libraries",
+   "type": "Story time",
+   "venue": "Southglenn Library",
+   "address": "6972 S. Vine St., Centennial, CO 80122",
+   "neighborhood": "Southglenn",
+   "borough": "Centennial",
+   "lat": 39.596,
+   "lng": -104.96,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 24,
+   "ageLabel": "Babies 0 to 24 months",
+   "sessions": [
+    {
+     "start": "2026-11-06T09:30:00-07:00",
+     "end": "2026-11-06T10:00:00-07:00"
+    }
+   ],
+   "schedule": "Fri Nov 6, 9:30–10am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Check the library's event calendar for later dates."
+   },
+   "url": "https://arapahoelibraries.org/locations/sg/",
+   "description": "A 30-minute storytime for babies up to age 2 and their grown-ups. A family storytime for all ages follows at 10:30am.",
+   "tags": [
+    "free",
+    "babies",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "arapahoelibraries.org Southglenn location page events list: Baby Storytime (Ages 0-24 months) Friday Nov 6, 9:30-10:00am, and Family Storytime (All Ages) Friday Nov 6, 10:30-11:00am. No registration requirement shown, so Walk-in is inferred. Only this date is listed. Branch closures: Nov 11, Nov 26-27, Dec 24-25.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-arapahoe-southglenn-toddler-storytime",
+   "title": "Toddler Storytime at Southglenn Library",
+   "organizer": "Arapahoe Libraries",
+   "type": "Story time",
+   "venue": "Southglenn Library",
+   "address": "6972 S. Vine St., Centennial, CO 80122",
+   "neighborhood": "Southglenn",
+   "borough": "Centennial",
+   "lat": 39.596,
+   "lng": -104.96,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 47,
+   "ageLabel": "Ages 2 to 3",
+   "sessions": [
+    {
+     "start": "2026-11-05T09:30:00-07:00",
+     "end": "2026-11-05T10:00:00-07:00"
+    }
+   ],
+   "schedule": "Thu Nov 5, 9:30–10am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Check the library's event calendar for later dates."
+   },
+   "url": "https://arapahoelibraries.org/locations/sg/",
+   "description": "A 30-minute storytime for 2- and 3-year-olds. A family storytime for all ages follows at 10:30am.",
+   "tags": [
+    "free",
+    "toddlers",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "arapahoelibraries.org Southglenn location page events list: Toddler Storytime (Ages 2-3) Thursday Nov 5, 9:30-10:00am, and Family Storytime (All Ages) Thursday Nov 5, 10:30-11:00am. No registration requirement shown, so Walk-in is inferred. Only this date is listed.",
+   "addedBy": "claude",
+   "city": "denver"
+  },
+  {
+   "id": "denver-arapahoe-smoky-hill-baby-storytime",
+   "title": "Baby Storytime at Smoky Hill Library",
+   "organizer": "Arapahoe Libraries",
+   "type": "Story time",
+   "venue": "Smoky Hill Library",
+   "address": "5430 S. Biscay Cir., Centennial, CO 80015",
+   "neighborhood": "Smoky Hill",
+   "borough": "Centennial",
+   "lat": 39.617,
+   "lng": -104.766,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 24,
+   "ageLabel": "Babies 0 to 24 months",
+   "sessions": [
+    {
+     "start": "2026-11-05T09:30:00-07:00",
+     "end": "2026-11-05T10:00:00-07:00"
+    }
+   ],
+   "schedule": "Thu Nov 5, 9:30–10am",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Check the library's event calendar for later dates, or call (303) 542-7279."
+   },
+   "url": "https://arapahoelibraries.org/locations/SM/",
+   "description": "A 30-minute storytime for babies up to age 2 and their grown-ups.",
+   "tags": [
+    "free",
+    "babies",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "arapahoelibraries.org Smoky Hill location page events list: Baby Storytime (0-24 months) Nov 5, 9:30-10:00am. No registration requirement shown, so Walk-in is inferred. Phone from the same page. Only this date is listed. Branch closures: Nov 11, Nov 26-27, Dec 24-25, Jan 1.",
+   "addedBy": "claude",
+   "city": "denver"
+  }
+ ]
+}

@@ -1,0 +1,3152 @@
+{
+ "version": 1,
+ "city": "nyc",
+ "updatedAt": "2026-11-05T03:26:02+00:00",
+ "events": [
+  {
+   "id": "lincoln-center-rain-for-babies",
+   "title": "RAIN: for babies and their carers",
+   "organizer": "Lincoln Center Presents (Filament Theatre and Threshold)",
+   "type": "Theater",
+   "venue": "Clark Studio Theater, Samuel B. & David Rose Building (7th floor)",
+   "address": "165 West 65th Street, New York, NY 10023",
+   "neighborhood": "Lincoln Square",
+   "borough": "Manhattan",
+   "lat": 40.7738,
+   "lng": -73.9846,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Lap babies and crawlers, not walking toddlers",
+   "sessions": [
+    {
+     "start": "2026-11-20T11:00:00-05:00",
+     "end": "2026-11-20T11:45:00-05:00"
+    },
+    {
+     "start": "2026-11-20T14:00:00-05:00",
+     "end": "2026-11-20T14:45:00-05:00"
+    },
+    {
+     "start": "2026-11-21T11:00:00-05:00",
+     "end": "2026-11-21T11:45:00-05:00"
+    },
+    {
+     "start": "2026-11-21T14:00:00-05:00",
+     "end": "2026-11-21T14:45:00-05:00"
+    },
+    {
+     "start": "2026-11-22T11:00:00-05:00",
+     "end": "2026-11-22T11:45:00-05:00"
+    },
+    {
+     "start": "2026-11-22T14:00:00-05:00",
+     "end": "2026-11-22T14:45:00-05:00"
+    }
+   ],
+   "schedule": "Fri Nov 20 to Sun Nov 22, 11am and 2pm (45 min)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Choose what you pay",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale now. Book on the event page, call CenterCharge at 212-721-6500, or visit the Alice Tully Hall or David Geffen Hall box office."
+   },
+   "url": "https://www.lincolncenter.org/series/lincoln-center-presents/rain-for-babies-and-their-carers",
+   "description": "A gentle sensory show made for babies. A cellist, a singer and a mover guide families through an installation full of sound and touch.",
+   "tags": [
+    "babies",
+    "sensory",
+    "pay-what-you-wish",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, times, 45-min length, venue, pre-walker age rule, Choose-What-You-Pay and booking methods confirmed on the lincolncenter.org RAIN event page and the Lincoln Center Presents calendar. The organizer gives no age in months, so ageMaxMonths 12 is an approximation for pre-walking babies.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "lincoln-center-de-papel",
+   "title": "De Papel (Of Paper)",
+   "organizer": "Lincoln Center Presents (Silencio Blanco)",
+   "type": "Theater",
+   "venue": "Clark Studio Theater, Samuel B. & David Rose Building (7th floor)",
+   "address": "165 West 65th Street, New York, NY 10023",
+   "neighborhood": "Lincoln Square",
+   "borough": "Manhattan",
+   "lat": 40.7738,
+   "lng": -73.9846,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Family-friendly, no set age range",
+   "sessions": [
+    {
+     "start": "2026-11-06T11:00:00-05:00",
+     "end": "2026-11-06T11:30:00-05:00"
+    },
+    {
+     "start": "2026-11-06T14:00:00-05:00",
+     "end": "2026-11-06T14:30:00-05:00"
+    },
+    {
+     "start": "2026-11-07T11:00:00-05:00",
+     "end": "2026-11-07T11:30:00-05:00"
+    },
+    {
+     "start": "2026-11-07T14:00:00-05:00",
+     "end": "2026-11-07T14:30:00-05:00"
+    },
+    {
+     "start": "2026-11-08T11:00:00-05:00",
+     "end": "2026-11-08T11:30:00-05:00"
+    },
+    {
+     "start": "2026-11-08T14:00:00-05:00",
+     "end": "2026-11-08T14:30:00-05:00"
+    }
+   ],
+   "schedule": "Fri Nov 6 to Sun Nov 8, 11am and 2pm (30 min). Sunday shows are relaxed.",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Choose what you pay",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale now. Book on the event page, call CenterCharge at 212-721-6500, or visit the Alice Tully Hall or David Geffen Hall box office. If it sells out, a day-of line may form at the box office."
+   },
+   "url": "https://www.lincolncenter.org/series/lincoln-center-presents/de-papel-848",
+   "description": "A half-hour puppet show from Chile. A figure made of newspaper and chopsticks comes to life with help from the children watching.",
+   "tags": [
+    "puppets",
+    "pay-what-you-wish",
+    "relaxed-performance",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, times, 30-min length, venue, relaxed Sunday shows and Choose-What-You-Pay confirmed on the lincolncenter.org De Papel page and the Lincoln Center Presents family calendar. No age range is listed.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "carnegie-hall-huddle-early-childhood-concert",
+   "title": "huddle: An Early Childhood Concert",
+   "organizer": "Carnegie Hall (Weill Music Institute)",
+   "type": "Music",
+   "venue": "Resnick Education Wing, Carnegie Hall",
+   "address": "881 Seventh Avenue, New York, NY 10019",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7651,
+   "lng": -73.9799,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 35,
+   "ageLabel": "Babies and toddlers 0–2 (adults only with a child)",
+   "sessions": [],
+   "schedule": "Next dates not announced yet (last run Oct 20 to Oct 31)",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Sign-up dates aren't announced yet. Last time, free registration opened about three weeks before the first show, at 11am. Everyone must register, babies included. Each party can have up to 2 children and 2 adults."
+   },
+   "url": "https://www.carnegiehall.org/Events/Family-Events",
+   "description": "A free, hands-on concert for the littlest listeners. Three animal friends travel over land, sea and sky to find each other, and families sing and move along.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages, party cap and the Sept 28, 11 AM release confirmed on carnegiehall.org calendar pages for the Oct 22 and Oct 24, 2026 huddle shows. Free price and Oct 20–31 run from Carnegie's 2026–27 season release PDF. The Feb 23 release for the March 2026 run is from Carnegie's Jan 8, 2026 press release. No 2027 huddle dates appear on any page I could fetch, and several Carnegie pages (including Early Childhood Concerts) blocked automated access.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "carnegie-hall-musical-explorers-family-jan-2027",
+   "title": "Musical Explorers Family Concert",
+   "organizer": "Carnegie Hall (Weill Music Institute)",
+   "type": "Music",
+   "venue": "Zankel Hall, Carnegie Hall",
+   "address": "881 Seventh Avenue, New York, NY 10019",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7651,
+   "lng": -73.9799,
+   "ageMinMonths": null,
+   "ageMaxMonths": null,
+   "ageLabel": "Families, based on a school program for grades K–2",
+   "sessions": [
+    {
+     "start": "2027-01-16T12:00:00-05:00"
+    },
+    {
+     "start": "2027-01-16T15:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Jan 16, 12pm and 3pm (next one Sat May 8)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale at carnegiehall.org or by phone at 212-247-7800. Check the event page for prices and seats."
+   },
+   "url": "https://www.carnegiehall.org/Education/Programs/Musical-Explorers",
+   "description": "An interactive family concert drawn from Carnegie Hall's Musical Explorers school program. Guest artists share songs from their own cultural traditions.",
+   "tags": [
+    "kindergarten",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Jan 16, 2027 at 12pm and 3pm in Zankel Hall confirmed on carnegiehall.org Musical Explorers program page and the 2026–27 season release PDF (which also gives the Aug 10, 11 AM public on-sale). The event page (Calendar/2027/01/16) blocked automated access, so ages and price were not confirmed.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "ny-phil-very-young-peoples-concert-make-believe",
+   "title": "Very Young People's Concert: Make Believe",
+   "organizer": "New York Philharmonic",
+   "type": "Music",
+   "venue": "Merkin Hall, Kaufman Music Center",
+   "address": "129 West 67th Street, New York, NY 10023",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7754,
+   "lng": -73.9833,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 83,
+   "ageLabel": "Children ages 3–6 and their families",
+   "sessions": [
+    {
+     "start": "2026-12-05T12:00:00-05:00"
+    },
+    {
+     "start": "2026-12-05T15:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Dec 5, 12pm and 3pm (activities at 11am and 2pm)",
+   "recurring": false,
+   "priceMin": 35,
+   "priceMax": 40,
+   "priceLabel": "$35–$40",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale on the Kaufman Music Center event page. Arrive an hour early for hands-on activities with the musicians."
+   },
+   "url": "https://www.kaufmanmusiccenter.org/mch/event/very-young-peoples-concerts-make-believe",
+   "description": "A relaxed concert for preschoolers about music and pretend play, hosted by Philharmonic violist Rebecca Young. Hands-on activities with orchestra musicians run before and after.",
+   "tags": [
+    "preschool",
+    "relaxed-performance",
+    "hands-on",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages, $35–40 price and both showtimes confirmed on the two Kaufman Music Center event pages (12pm and 3pm). Relaxed format and 11am/2pm pre-concert activity times from the NY Phil 2026–27 chronological listing PDF.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "ny-phil-very-young-peoples-concert-games-and-toys",
+   "title": "Very Young People's Concert: Games and Toys",
+   "organizer": "New York Philharmonic",
+   "type": "Music",
+   "venue": "Merkin Hall, Kaufman Music Center",
+   "address": "129 West 67th Street, New York, NY 10023",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7754,
+   "lng": -73.9833,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 83,
+   "ageLabel": "Children ages 3–6 and their families",
+   "sessions": [
+    {
+     "start": "2027-02-06T12:00:00-05:00"
+    },
+    {
+     "start": "2027-02-06T15:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Feb 6, 12pm and 3pm (activities at 11am and 2pm)",
+   "recurring": false,
+   "priceMin": 35,
+   "priceMax": 40,
+   "priceLabel": "$35–$40",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets are on sale on the Kaufman Music Center event page. Arrive an hour early for hands-on activities with the musicians."
+   },
+   "url": "https://www.kaufmanmusiccenter.org/mch/event/very-young-peoples-concerts-games-and-toys",
+   "description": "Philharmonic players treat their instruments like playmates and act out games such as musical chairs, follow-the-leader and tag. Hands-on activities run before and after the show.",
+   "tags": [
+    "preschool",
+    "relaxed-performance",
+    "hands-on",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages, price, showtimes and description confirmed on both Kaufman Music Center 'Games and Toys' event pages. Relaxed format and pre-concert activity times from the NY Phil 2026–27 chronological listing PDF.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "jalc-webop-family-jazz-party-holiday-jam",
+   "title": "WeBop Family Jazz Party: A Holiday Jazz Jam",
+   "organizer": "Jazz at Lincoln Center",
+   "type": "Music",
+   "venue": "Ertegun Atrium, Frederick P. Rose Hall (5th floor)",
+   "address": "10 Columbus Circle (Broadway at 60th Street), New York, NY 10019",
+   "neighborhood": "Columbus Circle",
+   "borough": "Manhattan",
+   "lat": 40.7685,
+   "lng": -73.9827,
+   "ageMinMonths": 8,
+   "ageMaxMonths": 96,
+   "ageLabel": "Children 8 months to 8 years, with their grown-ups",
+   "sessions": [
+    {
+     "start": "2026-12-06T10:30:00-05:00",
+     "end": "2026-12-06T11:15:00-05:00"
+    },
+    {
+     "start": "2026-12-06T12:30:00-05:00",
+     "end": "2026-12-06T13:15:00-05:00"
+    },
+    {
+     "start": "2026-12-06T14:30:00-05:00",
+     "end": "2026-12-06T15:15:00-05:00"
+    }
+   ],
+   "schedule": "Sun Dec 6, 10:30am, 12:30pm and 2:30pm (45 min)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "Non-walking babies free. See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets for a specific showtime on the jazz.org event page. Seating is general admission. Everyone needs a ticket except babies who aren't walking yet."
+   },
+   "url": "https://jazz.org/concert/webop-family-jazz-party-a-holiday-jazz-jam",
+   "description": "An interactive 45-minute holiday jazz party. Little ones and their grown-ups sing, clap and dance to seasonal tunes.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "holiday",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Date (Sun Dec 6, 2026), three showtimes, 45-min length, ages and the free-for-non-walkers policy confirmed on jazz.org/wfjp and the WeBop Family Jazz Parties page. Venue and Buy Now links on the jazz.org event page. No price was shown on any page.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "cms-kids-musical-moods",
+   "title": "CMS Kids: Musical Moods",
+   "organizer": "Chamber Music Society of Lincoln Center",
+   "type": "Music",
+   "venue": "Daniel and Joanna S. Rose Studio at CMS, Rose Building",
+   "address": "165 West 65th Street, New York, NY 10023",
+   "neighborhood": "Lincoln Square",
+   "borough": "Manhattan",
+   "lat": 40.7738,
+   "lng": -73.9846,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 83,
+   "ageLabel": "Ages 3–6",
+   "sessions": [
+    {
+     "start": "2027-02-21T11:00:00-05:00",
+     "end": "2027-02-21T12:00:00-05:00"
+    },
+    {
+     "start": "2027-02-21T13:00:00-05:00",
+     "end": "2027-02-21T14:00:00-05:00"
+    },
+    {
+     "start": "2027-02-21T15:00:00-05:00",
+     "end": "2027-02-21T16:00:00-05:00"
+    }
+   ],
+   "schedule": "Sun Feb 21, 11am, 1pm and 3pm (1 hour)",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Tickets aren't on sale yet, and the on-sale date isn't announced. Every attendee needs a ticket, lap babies included."
+   },
+   "url": "https://www.chambermusicsociety.org/our-concerts/at-lincoln-center/family-programs/26-27/cms-kids-musical-moods",
+   "description": "A relaxed, sensory-friendly hour of chamber music for preschoolers. Kids move and play along, then meet the four musicians and try instruments at a petting zoo.",
+   "tags": [
+    "preschool",
+    "relaxed-performance",
+    "sensory-friendly",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Date, three showtimes, length, ages, venue, relaxed format and ticket-for-all policy confirmed on the chambermusicsociety.org event page and the CMS Family Programs page. Price and on-sale date not posted.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "kaufman-broadway-playhouse-2027",
+   "title": "Broadway Playhouse family concerts",
+   "organizer": "Kaufman Music Center",
+   "type": "Music",
+   "venue": "Merkin Hall, Kaufman Music Center",
+   "address": "129 West 67th Street, New York, NY 10023",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7754,
+   "lng": -73.9833,
+   "ageMinMonths": 48,
+   "ageMaxMonths": 143,
+   "ageLabel": "Ages 4–11",
+   "sessions": [
+    {
+     "start": "2027-01-31T11:00:00-05:00"
+    },
+    {
+     "start": "2027-02-28T11:00:00-05:00"
+    }
+   ],
+   "schedule": "Sun Jan 31 and Sun Feb 28, 11am (Bernstein follows Apr 4)",
+   "recurring": true,
+   "priceMin": 30,
+   "priceMax": 30,
+   "priceLabel": "$30 per concert, or $70 for all three",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Single tickets and the three-concert subscription are on sale now. Use the Buy Tickets links on the Kaufman Music Center page."
+   },
+   "url": "https://www.kaufmanmusiccenter.org/mch/event/rodgers-hammerstein",
+   "description": "Sunday-morning family concerts about how the Broadway musical grew up. January features Rodgers & Hammerstein songs from shows like The Sound of Music, and February turns to Sondheim.",
+   "tags": [
+    "preschool",
+    "musical-theater",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages 4–11, $30 single and $70 subscription prices, Jan 31 program and the Feb 28 and Apr 4 series dates confirmed on the Kaufman Music Center Rodgers & Hammerstein page. The Sondheim page's own age and price were not shown.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "little-orchestra-society-carnival-of-the-animals",
+   "title": "L.O.S. KIDS: Carnival of the Animals!",
+   "organizer": "The Little Orchestra Society",
+   "type": "Music",
+   "venue": "The Kaye Playhouse at Hunter College",
+   "address": "695 Park Avenue (68th St between Park and Lexington), New York, NY 10065",
+   "neighborhood": "Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.7686,
+   "lng": -73.9646,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 131,
+   "ageLabel": "Children ages 3–10 and their families",
+   "sessions": [
+    {
+     "start": "2026-12-19T11:30:00-05:00"
+    },
+    {
+     "start": "2026-12-19T13:00:00-05:00"
+    },
+    {
+     "start": "2026-12-20T11:30:00-05:00"
+    },
+    {
+     "start": "2026-12-20T13:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Dec 19 and Sun Dec 20, 11:30am and 1pm",
+   "recurring": false,
+   "priceMin": 20,
+   "priceMax": 60,
+   "priceLabel": "$20, $40 or $60, plus a $7 fee per ticket",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Single tickets and season subscriptions are on sale through the OvationTix links on littleorchestra.org. All sales are final. Children must come with an adult. Questions go to tickets@littleorchestra.org or 212-971-9500."
+   },
+   "url": "https://www.littleorchestra.org/loskids",
+   "description": "A live orchestra concert for families built around Saint-Saëns' Carnival of the Animals, including The Swan, the lions' march and The Elephant.",
+   "tags": [
+    "preschool",
+    "orchestra",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, times, ages 3–10, venue, price tiers and $7 fee confirmed on littleorchestra.org/loskids.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "little-orchestra-society-tchaikovsky-dance-party",
+   "title": "L.O.S. KIDS: Tchaikovsky's Dance Party!",
+   "organizer": "The Little Orchestra Society",
+   "type": "Music",
+   "venue": "The Kaye Playhouse at Hunter College",
+   "address": "695 Park Avenue (68th St between Park and Lexington), New York, NY 10065",
+   "neighborhood": "Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.7686,
+   "lng": -73.9646,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 131,
+   "ageLabel": "Children ages 3–10 and their families",
+   "sessions": [
+    {
+     "start": "2027-03-06T11:30:00-05:00"
+    },
+    {
+     "start": "2027-03-06T13:00:00-05:00"
+    },
+    {
+     "start": "2027-03-07T11:30:00-05:00"
+    },
+    {
+     "start": "2027-03-07T13:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Mar 6 and Sun Mar 7, 11:30am and 1pm",
+   "recurring": false,
+   "priceMin": 20,
+   "priceMax": 60,
+   "priceLabel": "$20, $40 or $60, plus a $7 fee per ticket",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Single tickets and subscriptions are on sale through the OvationTix links on littleorchestra.org. All sales are final. Children must come with an adult."
+   },
+   "url": "https://www.littleorchestra.org/loskids",
+   "description": "A family orchestra concert of Tchaikovsky favorites, with music from The Nutcracker and Sleeping Beauty and the 1812 Overture.",
+   "tags": [
+    "preschool",
+    "orchestra",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, times, ages 3–10, venue, price tiers and $7 fee confirmed on littleorchestra.org/loskids.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "92ny-the-music-room-winter-2027",
+   "title": "The Music Room (Winter 2027)",
+   "organizer": "92NY",
+   "type": "Class",
+   "venue": "92NY, Studio 92",
+   "address": "1395 Lexington Avenue (between 91st and 92nd Streets), New York, NY 10128",
+   "neighborhood": "Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.783,
+   "lng": -73.9529,
+   "ageMinMonths": 9,
+   "ageMaxMonths": 48,
+   "ageLabel": "Ages 9 months to 4 years",
+   "sessions": [
+    {
+     "start": "2027-01-25T09:30:00-05:00",
+     "end": "2027-01-25T10:15:00-05:00"
+    },
+    {
+     "start": "2027-01-25T10:30:00-05:00",
+     "end": "2027-01-25T11:15:00-05:00"
+    },
+    {
+     "start": "2027-01-27T09:30:00-05:00",
+     "end": "2027-01-27T10:15:00-05:00"
+    },
+    {
+     "start": "2027-01-27T10:30:00-05:00",
+     "end": "2027-01-27T11:15:00-05:00"
+    },
+    {
+     "start": "2027-01-29T09:30:00-05:00",
+     "end": "2027-01-29T10:15:00-05:00"
+    },
+    {
+     "start": "2027-01-29T10:30:00-05:00",
+     "end": "2027-01-29T11:15:00-05:00"
+    }
+   ],
+   "schedule": "Weekly on Mon, Wed or Fri, 9:30am or 10:30am, Jan 25 to Mar 24",
+   "recurring": true,
+   "priceMin": 405,
+   "priceMax": 450,
+   "priceLabel": "$405–$450 for the winter term",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": "2026-12-02T12:00:00-05:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Registration opens Wed Dec 2 at 12pm ET on the 92NY website. Spring sections starting Mar 29 open the same day. A Nov 16 to Jan 11 session is open now."
+   },
+   "url": "https://92ny.org/Class/The-Music-Room",
+   "description": "A weekly 45-minute music class for little ones from 9 months to 4 years, led by Paul Williams or Carey Cromelin.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "music",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages, Studio 92 location, every section's dates, times, instructors, prices and the Dec 2, 2026, 12 PM ET opening confirmed on 92ny.org/Class/The-Music-Room. The page has a 'Show More' button, so more sections may exist.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "lincoln-center-family-music-festival-jan-2027",
+   "title": "Mayers Consulting Family Music Festival",
+   "organizer": "Lincoln Center Presents",
+   "type": "Music",
+   "venue": "David Rubenstein Atrium at Lincoln Center",
+   "address": "61 West 62nd Street, New York, NY 10023",
+   "neighborhood": "Lincoln Square",
+   "borough": "Manhattan",
+   "lat": 40.7716,
+   "lng": -73.9819,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Family-friendly, no set age range",
+   "sessions": [
+    {
+     "start": "2027-01-16T14:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Jan 16, 2pm",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Atrium events are free general admission. Check the event page before you go in case an RSVP is needed."
+   },
+   "url": "https://www.lincolncenter.org/series/lincoln-center-presents/v/calendar?ser=Family",
+   "description": "A free afternoon of family music in the David Rubenstein Atrium, part of Lincoln Center's free public programs.",
+   "tags": [
+    "free",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Title, date, 2pm time, Atrium venue, family-friendly tag and free admission confirmed on the Lincoln Center Presents family and free calendar views. Performers and details not shown.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "flushing-town-hall-calpullis-navidad",
+   "title": "Calpulli's Navidad",
+   "organizer": "Flushing Town Hall (Calpulli Mexican Dance Company)",
+   "type": "Holiday",
+   "venue": "Flushing Town Hall",
+   "address": "137-35 Northern Boulevard, Flushing, NY 11354",
+   "neighborhood": "Flushing",
+   "borough": "Queens",
+   "lat": 40.7631,
+   "lng": -73.8301,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "For the whole family, no minimum age",
+   "sessions": [
+    {
+     "start": "2026-12-12T14:15:00-05:00"
+    }
+   ],
+   "schedule": "Sat Dec 12, 2:15pm",
+   "recurring": false,
+   "priceMin": 8,
+   "priceMax": 15,
+   "priceLabel": "$15 adults, $12 members, $8 kids 12 and under",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets through the OvationTix link on the Flushing Town Hall website. A Mexican headpiece-making workshop runs before the show the same day. Check the site for workshop details."
+   },
+   "url": "https://www.flushingtownhall.org/show-details/calpullis-navidad",
+   "description": "A holiday music-and-dance show about a Mexican American girl in New York, caught between her parents' traditions and American Christmas. It features live mariachi, folklórico and ballet.",
+   "tags": [
+    "holiday",
+    "dance",
+    "cultural",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Date, 2:15pm time, prices, story and address confirmed on the flushingtownhall.org show page. Ticket link and same-day workshop from the FTH Presents page.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "bamkids-film-festival-2027",
+   "title": "BAMkids Film Festival 2027",
+   "organizer": "BAM (Brooklyn Academy of Music)",
+   "type": "Theater",
+   "venue": "BAM Rose Cinemas, Peter Jay Sharp Building",
+   "address": "30 Lafayette Avenue, Brooklyn, NY 11217",
+   "neighborhood": "Fort Greene",
+   "borough": "Brooklyn",
+   "lat": 40.6863,
+   "lng": -73.9776,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 216,
+   "ageLabel": "Ages 3 and up (programs for 3–5, 6–8 and 9+)",
+   "sessions": [
+    {
+     "start": "2027-02-06T11:00:00-05:00",
+     "end": "2027-02-06T14:00:00-05:00"
+    },
+    {
+     "start": "2027-02-07T11:00:00-05:00",
+     "end": "2027-02-07T14:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Feb 6 and Sun Feb 7. Lobby activities 11am–2pm, film times TBA.",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Tickets and prices aren't announced yet, and BAM says to check back in 2027. Last year, public sale opened Dec 11 at 1pm. Tickets were $14 for adults and $10 for kids, plus a $2 fee."
+   },
+   "url": "https://www.bam.org/bkff",
+   "description": "BAM's 29th annual weekend of short films from around the world, with a program for ages 3–5. Free circus-skills sessions run in the lobby.",
+   "tags": [
+    "film",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "2027 dates, age groupings, venue, free lobby activities and 'not yet announced' pricing confirmed on bam.org/bkff. Last year's Dec 11, 1 PM release and prices from bam.org/bkff26. This is a film event, filed under Theater for lack of a film type.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "bronx-zoo-holiday-lights-2026",
+   "title": "Holiday Lights at the Bronx Zoo",
+   "organizer": "Bronx Zoo (Wildlife Conservation Society)",
+   "type": "Holiday",
+   "venue": "Bronx Zoo",
+   "address": "2300 Southern Boulevard, Bronx, NY 10460",
+   "neighborhood": "Bronx Park / West Farms",
+   "borough": "Bronx",
+   "lat": 40.8506,
+   "lng": -73.8769,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, kids 2 and under free",
+   "sessions": [
+    {
+     "start": "2026-11-21T13:00:00-05:00",
+     "end": "2026-11-21T21:00:00-05:00"
+    },
+    {
+     "start": "2026-11-22T13:00:00-05:00",
+     "end": "2026-11-22T21:00:00-05:00"
+    },
+    {
+     "start": "2026-11-27T13:00:00-05:00",
+     "end": "2026-11-27T21:00:00-05:00"
+    },
+    {
+     "start": "2026-11-28T13:00:00-05:00",
+     "end": "2026-11-28T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-03T13:00:00-05:00",
+     "end": "2026-12-03T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-06T13:00:00-05:00",
+     "end": "2026-12-06T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-12T13:00:00-05:00",
+     "end": "2026-12-12T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-19T13:00:00-05:00",
+     "end": "2026-12-19T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-23T13:00:00-05:00",
+     "end": "2026-12-23T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-27T13:00:00-05:00",
+     "end": "2026-12-27T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-31T13:00:00-05:00",
+     "end": "2026-12-31T21:00:00-05:00"
+    },
+    {
+     "start": "2027-01-03T13:00:00-05:00",
+     "end": "2027-01-03T21:00:00-05:00"
+    }
+   ],
+   "schedule": "28 select nights, Nov 21 to Jan 3. Entry from 1pm, lights 4:30–9pm.",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 42.95,
+   "priceLabel": "Adults $37.95, kids 3–12 $22.95, ages 2 and under free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets online ahead of time at bronxzoo.com. They aren't sold at the zoo, and all sales are final. Last entry is 8pm. Dec 3, 10 and 17 are lower-priced Deal Days."
+   },
+   "url": "https://bronxzoo.com/holiday-lights/tickets",
+   "description": "Lantern trails and light displays fill the zoo after dark. This season, the Children's Zoo farmyard and some animal buildings stay open into the evening. Dec 3 is a Sensory Inclusive Night.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "stroller-friendly",
+    "free-for-babies"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, prices, ages, Dec 3 sensory night: bronxzoo.com/holiday-lights/tickets. Hours (1-9 pm, last entry 8 pm, lights 4:30 pm), strollers allowed, deal days, not sold on site: bronxzoo.com/holiday-lights/faqs. Season framing, new Children's Zoo night access, member preview, address: WCS newsroom release 'Bronx Zoo Expands 2026-27 Holiday Lights Festival'.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "nybg-holiday-train-show-2026",
+   "title": "Holiday Train Show",
+   "organizer": "New York Botanical Garden",
+   "type": "Holiday",
+   "venue": "Enid A. Haupt Conservatory, New York Botanical Garden",
+   "address": "2900 Southern Blvd, Bronx, NY 10458",
+   "neighborhood": "Bedford Park",
+   "borough": "Bronx",
+   "lat": 40.8636,
+   "lng": -73.8796,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, under 2 free",
+   "sessions": [
+    {
+     "start": "2026-11-14T10:00:00-05:00",
+     "end": "2026-11-14T18:00:00-05:00"
+    },
+    {
+     "start": "2026-11-21T09:00:00-05:00",
+     "end": "2026-11-21T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-27T10:00:00-05:00",
+     "end": "2026-11-27T20:00:00-05:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00-05:00",
+     "end": "2026-11-28T20:00:00-05:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00-05:00",
+     "end": "2026-11-29T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00-05:00",
+     "end": "2026-12-05T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-11T10:00:00-05:00",
+     "end": "2026-12-11T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00-05:00",
+     "end": "2026-12-12T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00-05:00",
+     "end": "2026-12-19T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-26T10:00:00-05:00",
+     "end": "2026-12-26T20:00:00-05:00"
+    },
+    {
+     "start": "2027-01-09T09:00:00-05:00",
+     "end": "2027-01-09T11:00:00-05:00"
+    },
+    {
+     "start": "2027-01-10T10:00:00-05:00",
+     "end": "2027-01-10T18:00:00-05:00"
+    }
+   ],
+   "schedule": "Nov 14 to Jan 10, Tue to Sun 10am–6pm, some evenings to 8pm",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 39,
+   "priceLabel": "$35–$39 adults, $15–$17 kids, under 2 and members free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Reserve with the Get Tickets link on the show page. Entry comes with the All-Garden Pass, which costs less on weekdays. Members get in free but should reserve ahead, except on quieter weekdays. Members-only preview Nov 13."
+   },
+   "url": "https://www.nybg.org/event/holiday-train-show-2026/",
+   "description": "Model trains wind through a miniature New York built from bark, leaves and other plant parts in the glass conservatory. Sensory-friendly mornings on Nov 21 and Jan 9 (9–11am) turn off the music and video.",
+   "tags": [
+    "holiday",
+    "indoor",
+    "trains",
+    "free-for-babies",
+    "sensory-friendly"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Run dates, preview, evening-hours dates and 7:15 pm last entry: nybg.org Holiday Train Show 2026 page. Sensory morning dates and format: its Sensory Friendly Mornings subpage. Prices, under-2 free, 10 am-6 pm Tue-Sun hours: nybg.org/tickets. Address: NYBG page footer.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "nybg-evergreen-express-2026",
+   "title": "Evergreen Express",
+   "organizer": "New York Botanical Garden",
+   "type": "Play",
+   "venue": "Everett Children's Adventure Garden, New York Botanical Garden",
+   "address": "2900 Southern Blvd, Bronx, NY 10458",
+   "neighborhood": "Bedford Park",
+   "borough": "Bronx",
+   "lat": 40.8652,
+   "lng": -73.8772,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Families, no set age range",
+   "sessions": [
+    {
+     "start": "2026-11-14T10:00:00-05:00",
+     "end": "2026-11-14T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-15T10:00:00-05:00",
+     "end": "2026-11-15T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-21T10:00:00-05:00",
+     "end": "2026-11-21T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-22T10:00:00-05:00",
+     "end": "2026-11-22T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-27T10:00:00-05:00",
+     "end": "2026-11-27T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00-05:00",
+     "end": "2026-11-28T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00-05:00",
+     "end": "2026-11-29T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-05T10:00:00-05:00",
+     "end": "2026-12-05T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-06T10:00:00-05:00",
+     "end": "2026-12-06T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-12T10:00:00-05:00",
+     "end": "2026-12-12T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-13T10:00:00-05:00",
+     "end": "2026-12-13T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-19T10:00:00-05:00",
+     "end": "2026-12-19T17:00:00-05:00"
+    }
+   ],
+   "schedule": "Daily Nov 14 to Jan 10, 10am–5pm. Guided activities from 1:30pm weekdays, 11am weekends.",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 39,
+   "priceLabel": "Included with the All-Garden Pass, under 2 free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "No separate sign-up needed. Your All-Garden Pass or Holiday Train Show ticket covers it."
+   },
+   "url": "https://www.nybg.org/event/holiday-train-show-2026/evergreen-express/",
+   "description": "An outdoor holiday play stop at the Holiday Train Show. Kids play conductor on big toy trains, follow a picture-book trail about birds that winter in the city, and make a small evergreen bundle.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "trains",
+    "hands-on",
+    "free-for-babies"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, daily hours, guided-activity hours, activities, inclusion in All-Garden Pass: nybg.org Evergreen Express subpage. Prices: nybg.org/tickets. No age range given on the page.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "bbg-lightscape-2026",
+   "title": "Lightscape",
+   "organizer": "Brooklyn Botanic Garden",
+   "type": "Holiday",
+   "venue": "Brooklyn Botanic Garden (trail starts and ends at the Visitor Center)",
+   "address": "990 Washington Avenue, Brooklyn, NY",
+   "neighborhood": "Prospect Heights",
+   "borough": "Brooklyn",
+   "lat": 40.6676,
+   "lng": -73.9632,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, except 21+ nights on Dec 10 and 17",
+   "sessions": [
+    {
+     "start": "2026-12-03T16:00:00-05:00"
+    },
+    {
+     "start": "2026-12-18T16:00:00-05:00"
+    }
+   ],
+   "schedule": "Evenings Nov 20 to Jan 3, timed entry every 15 minutes",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 59,
+   "priceLabel": "Adults $29–$44, kids 3–11 $15–$28, ages 0–2 free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Book at bbg.org/lightscape. Pick a date and a 15-minute entry window. Popular dates can sell out."
+   },
+   "url": "https://bbg.org/lightscape",
+   "description": "A walking trail of light installations loops through the garden after dark. Sensory-friendly early entry starts at 4pm on Dec 3 and Dec 18.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "free-for-babies",
+    "sensory-friendly"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Run dates, prices, age bands, 15-minute timed entry, sell-out warning, sensory (Dec 3 and 18, 4 pm) and 21+ nights, 3:30 pm daytime closing, Visitor Center address: bbg.org/lightscape. Nightly hours and which dates are Value/Off-Peak/Peak are not stated in the page text.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "met-hello-met-winter-2027",
+   "title": "Hello, Met! (Winter 2027)",
+   "organizer": "The Metropolitan Museum of Art",
+   "type": "Class",
+   "venue": "The Met Fifth Avenue",
+   "address": "1000 Fifth Avenue, New York, NY 10028",
+   "neighborhood": "Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.7794,
+   "lng": -73.9632,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 59,
+   "ageLabel": "Ages 2–4",
+   "sessions": [
+    {
+     "start": "2027-01-07T11:00:00-05:00"
+    },
+    {
+     "start": "2027-01-14T11:00:00-05:00"
+    },
+    {
+     "start": "2027-01-21T11:00:00-05:00"
+    },
+    {
+     "start": "2027-01-28T11:00:00-05:00"
+    },
+    {
+     "start": "2027-02-04T11:00:00-05:00"
+    },
+    {
+     "start": "2027-02-11T11:00:00-05:00"
+    },
+    {
+     "start": "2027-02-25T11:00:00-05:00"
+    },
+    {
+     "start": "2027-03-04T11:00:00-05:00"
+    }
+   ],
+   "schedule": "Thursdays at 11am, Jan 7 to Mar 4 (8 classes)",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": "2026-11-10T10:00:00-05:00",
+    "closesAt": "2026-12-04T17:00:00-05:00",
+    "status": "upcoming",
+    "note": "Family-level Met Members and above can register from Wed Nov 4 at 10am ET. Everyone else can register from Tue Nov 10 at 10am ET at engage.metmuseum.org. Registration closes Dec 4 at 5pm or when classes fill."
+   },
+   "url": "https://www.metmuseum.org/events/programs/met-creates/childrens-classes/winter/hello-met-2-to-4",
+   "description": "The Met's winter workshop for its youngest artists, ages 2 to 4. The class meets on eight Thursday mornings.",
+   "tags": [
+    "toddlers",
+    "art",
+    "museum",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, 11 am time, ages, registration open and close dates: Met winter children's classes page and visit-guides/families/childrens-classes. The registration page could not be fetched, so price, length and caregiver rules are unconfirmed.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "met-storytime-color-and-light-nov-2026",
+   "title": "Storytime at The Met: Color and Light",
+   "organizer": "The Metropolitan Museum of Art",
+   "type": "Story time",
+   "venue": "The Met Fifth Avenue",
+   "address": "1000 Fifth Avenue, New York, NY 10028",
+   "neighborhood": "Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.7794,
+   "lng": -73.9632,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 72,
+   "ageLabel": "Children 18 months to 6 years and their families",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:15:00-05:00"
+    },
+    {
+     "start": "2026-11-05T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-10T10:15:00-05:00"
+    },
+    {
+     "start": "2026-11-10T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T10:15:00-05:00"
+    },
+    {
+     "start": "2026-11-12T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-17T10:15:00-05:00"
+    },
+    {
+     "start": "2026-11-17T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-19T10:15:00-05:00"
+    },
+    {
+     "start": "2026-11-19T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-24T10:15:00-05:00"
+    },
+    {
+     "start": "2026-11-24T11:00:00-05:00"
+    }
+   ],
+   "schedule": "Tue and Thu, Nov 5 to Nov 24, 10:15am and 11am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free, no museum ticket needed",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Drop in, no sign-up needed. Space is limited and goes first come, first served."
+   },
+   "url": "https://www.metmuseum.org/events/programs/met-tours/storytime-at-the-met/storytime-at-the-met-light-and-color",
+   "description": "Free drop-in stories for toddlers and preschoolers, themed this month around color and light.",
+   "tags": [
+    "free",
+    "drop-in",
+    "toddlers",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates and times: metmuseum.org visit-guides/families/programs-and-resources (listed without a year; the weekdays match 2026, and the same page lists Winter 2027 classes). Ages, free, no admission needed, first come first served: Storytime 'light and color' program page.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "cmom-playworks-daily",
+   "title": "PlayWorks daily programs",
+   "organizer": "Children's Museum of Manhattan",
+   "type": "Play",
+   "venue": "Children's Museum of Manhattan, The Tisch Building (3rd floor PlayWorks)",
+   "address": "212 West 83rd Street, New York, NY 10024",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7857,
+   "lng": -73.9776,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 59,
+   "ageLabel": "Birth to 4 years",
+   "sessions": [
+    {
+     "start": "2026-11-04T10:30:00-05:00",
+     "end": "2026-11-04T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-05T10:30:00-05:00",
+     "end": "2026-11-05T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-06T10:30:00-05:00",
+     "end": "2026-11-06T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-07T10:30:00-05:00",
+     "end": "2026-11-07T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-08T10:30:00-05:00",
+     "end": "2026-11-08T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-10T10:30:00-05:00",
+     "end": "2026-11-10T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-11T10:30:00-05:00",
+     "end": "2026-11-11T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T10:30:00-05:00",
+     "end": "2026-11-12T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-13T10:30:00-05:00",
+     "end": "2026-11-13T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-14T10:30:00-05:00",
+     "end": "2026-11-14T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-15T10:30:00-05:00",
+     "end": "2026-11-15T11:00:00-05:00"
+    },
+    {
+     "start": "2026-11-17T10:30:00-05:00",
+     "end": "2026-11-17T11:00:00-05:00"
+    }
+   ],
+   "schedule": "Tue to Sun, 10am–5pm. Circle Time 10:30am, goodbye story 4pm.",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 15,
+   "priceLabel": "Museum admission, $15 per person, infants free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy timed-entry tickets online before you go. Entry slots open every hour, and buying online saves $1."
+   },
+   "url": "https://cmom.org/experiences/playworks/",
+   "description": "CMOM's floor for babies through 4-year-olds runs on a daily rhythm of songs, messy art and stories. Each day starts with a music-and-movement circle and ends with a goodbye story.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "messy-play",
+    "free-for-babies",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages, floor, daily schedule: cmom.org/experiences/playworks. Museum hours and address: cmom.org events pages. Admission prices, infants free, timed entry: visit.cmom.org. Holiday closures not checked.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "cmom-little-birds-spring-2027",
+   "title": "Little Birds (Spring 2027)",
+   "organizer": "Children's Museum of Manhattan",
+   "type": "Class",
+   "venue": "Children's Museum of Manhattan, The Tisch Building",
+   "address": "212 West 83rd Street, New York, NY 10024",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7857,
+   "lng": -73.9776,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 35,
+   "ageLabel": "Ages 0–2 with a caregiver",
+   "sessions": [
+    {
+     "start": "2027-02-05T09:45:00-05:00",
+     "end": "2027-02-05T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Fridays 9:45–10:30am, Feb 5 to May 21 (12 classes)",
+   "recurring": true,
+   "priceMin": 516,
+   "priceMax": 516,
+   "priceLabel": "$516 for 12 classes",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Spring registration isn't open yet. Check cmom.org/classes for the opening date. The fall term is sold out, with a waitlist by email."
+   },
+   "url": "https://cmom.org/classes/",
+   "description": "A weekly caregiver-and-baby class built on singing, shaking and moving together. It supports early social skills and bonding over a 12-week spring term.",
+   "tags": [
+    "babies",
+    "music",
+    "caregiver-and-me",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages, day and time, term dates, 12 classes, $516, registration wording, fall sell-out: cmom.org/classes. Feb 5, 2027 is a Friday, which matches the stated schedule.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "central-park-zoo-zoo-peeps-tropical-oasis",
+   "title": "Zoo Peeps Drop-In: Tropical Oasis",
+   "organizer": "Central Park Zoo (Wildlife Conservation Society)",
+   "type": "Class",
+   "venue": "Central Park Zoo",
+   "address": "East 64th Street and Fifth Avenue, New York, NY",
+   "neighborhood": "Central Park / Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.7678,
+   "lng": -73.9718,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 47,
+   "ageLabel": "Ages 2–3 with a caregiver",
+   "sessions": [
+    {
+     "start": "2026-12-06T09:30:00-05:00",
+     "end": "2026-12-06T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Sun Dec 6, 9:30–10:30am",
+   "recurring": false,
+   "priceMin": 32,
+   "priceMax": 40,
+   "priceLabel": "$40 per adult-child pair, $32 for members",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Book with the Book now link on the program page. Each ticket covers one adult and one child, and extra adults can't be added. Questions go to cpzeducation@wcs.org."
+   },
+   "url": "https://centralparkzoo.com/learn/families/early-childhood-programs",
+   "description": "A caregiver-and-toddler hour that gets 2- and 3-year-olds moving around the zoo and seeing animals up close. This session's theme is tropical habitats.",
+   "tags": [
+    "toddlers",
+    "animals",
+    "caregiver-and-me",
+    "outdoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Ages, Sunday 9:30-10:30 time, '12/6' date, price, one-adult rule: centralparkzoo.com early childhood programs page. The page gives no year. Sunday Dec 6, 2026 matches the stated Sunday schedule. The street address is general knowledge, not from the fetched page (its footer shows the WCS headquarters).",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "nyc-transit-museum-transit-tots",
+   "title": "Transit Tots",
+   "organizer": "New York Transit Museum",
+   "type": "Story time",
+   "venue": "New York Transit Museum, Education Center",
+   "address": "99 Schermerhorn Street, Brooklyn, NY 11201",
+   "neighborhood": "Downtown Brooklyn",
+   "borough": "Brooklyn",
+   "lat": 40.6905,
+   "lng": -73.9899,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 36,
+   "ageLabel": "Children 18 months to 3 years",
+   "sessions": [
+    {
+     "start": "2026-11-08T09:30:00-05:00",
+     "end": "2026-11-08T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-15T09:30:00-05:00",
+     "end": "2026-11-15T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-22T09:30:00-05:00",
+     "end": "2026-11-22T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Sundays Nov 8, 15 and 22, 9:30–10:30am",
+   "recurring": true,
+   "priceMin": 40,
+   "priceMax": 40,
+   "priceLabel": "$40 per child with up to 2 adults, admission included",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Register for each date with the Register link on its program page. This isn't a drop-off program, so each child needs an adult. Dual/Household members and up get 10% off."
+   },
+   "url": "https://www.nytransitmuseum.org/program/transit-tots-8nov/",
+   "description": "An early Sunday hour of stories, crafts and pretend play for young transit fans at the museum's Brooklyn education center. Admission is included, so families can stay and explore.",
+   "tags": [
+    "toddlers",
+    "trains",
+    "caregiver-and-me",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, time, ages, price, member discount, address, not-drop-off rule: the Nov 8, 15 and 22, 2026 Transit Tots program pages and nytransitmuseum.org/programs listing. The pages do not show spots remaining.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "mcny-tiny-tours",
+   "title": "Tiny Tours",
+   "organizer": "Museum of the City of New York",
+   "type": "Museum",
+   "venue": "Museum of the City of New York",
+   "address": "1220 Fifth Avenue at 103rd Street, New York, NY",
+   "neighborhood": "East Harlem",
+   "borough": "Manhattan",
+   "lat": 40.7925,
+   "lng": -73.9519,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 71,
+   "ageLabel": "Ages 3–5 and their caregivers",
+   "sessions": [
+    {
+     "start": "2026-11-18T11:00:00-05:00",
+     "end": "2026-11-18T11:30:00-05:00"
+    },
+    {
+     "start": "2026-12-16T11:00:00-05:00",
+     "end": "2026-12-16T11:30:00-05:00"
+    }
+   ],
+   "schedule": "3rd Wed and 1st Sat of each month, 11–11:30am (no Sat tour Nov 7 or Dec 5)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": null,
+   "priceLabel": "Free for kids, included with adult museum admission",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No sign-up needed. Just come with museum admission. Pay-what-you-can tickets are sold at the counter, and admission is free for residents of zip codes 10029, 10035 and 10037."
+   },
+   "url": "https://www.mcny.org/tiny-tours",
+   "description": "A playful half-hour gallery visit for 3- to 5-year-olds and their grown-ups at the city history museum. It's short enough for preschool attention spans.",
+   "tags": [
+    "preschool",
+    "free-for-kids",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Schedule rule, 11-11:30 time, listed dates, cancellations, ages, admission terms, address: mcny.org/tiny-tours. Series run dates: mcny.org/series.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "bbg-fall-first-discoveries-2026",
+   "title": "Fall First Discoveries",
+   "organizer": "Brooklyn Botanic Garden",
+   "type": "Outdoors",
+   "venue": "Brooklyn Botanic Garden, Discovery Garden (Hamm Children's Learning Courtyard)",
+   "address": "990 Washington Avenue, Brooklyn, NY",
+   "neighborhood": "Prospect Heights",
+   "borough": "Brooklyn",
+   "lat": 40.6687,
+   "lng": -73.9638,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 59,
+   "ageLabel": "Ages 4 and under with caregivers",
+   "sessions": [
+    {
+     "start": "2026-11-04T10:30:00-05:00",
+     "end": "2026-11-04T12:30:00-05:00"
+    },
+    {
+     "start": "2026-11-06T10:30:00-05:00",
+     "end": "2026-11-06T12:30:00-05:00"
+    },
+    {
+     "start": "2026-11-11T10:30:00-05:00",
+     "end": "2026-11-11T12:30:00-05:00"
+    },
+    {
+     "start": "2026-11-13T10:30:00-05:00",
+     "end": "2026-11-13T12:30:00-05:00"
+    }
+   ],
+   "schedule": "Wed and Fri, 10:30am–12:30pm, through Nov 13",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": null,
+   "priceLabel": "Included with Garden admission",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Drop in any time during the session, no sign-up needed. It's canceled for rain or temperatures below 50°F."
+   },
+   "url": "https://www.bbg.org/visit/event/fall_first_discoveries",
+   "description": "Drop-in outdoor nature play for kids under 5 in the garden's children's area. The season wraps up Nov 13.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "outdoor",
+    "nature",
+    "drop-in"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Run dates, days, times, ages, drop-in, weather rule, location: bbg.org Fall First Discoveries page. Street address from bbg.org/lightscape (Visitor Center).",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "brooklyn-childrens-museum-kwanzaa-2026",
+   "title": "Celebrate Kwanzaa",
+   "organizer": "Brooklyn Children's Museum with Asase Yaa Cultural Arts Foundation",
+   "type": "Holiday",
+   "venue": "Brooklyn Children's Museum",
+   "address": "145 Brooklyn Avenue, Brooklyn, NY 11213",
+   "neighborhood": "Crown Heights",
+   "borough": "Brooklyn",
+   "lat": 40.6745,
+   "lng": -73.944,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Family festival, no set age range",
+   "sessions": [
+    {
+     "start": "2026-12-26T10:00:00-05:00",
+     "end": "2026-12-26T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-27T10:00:00-05:00",
+     "end": "2026-12-27T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-28T10:00:00-05:00",
+     "end": "2026-12-28T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-29T10:00:00-05:00",
+     "end": "2026-12-29T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-30T10:00:00-05:00",
+     "end": "2026-12-30T17:00:00-05:00"
+    }
+   ],
+   "schedule": "Daily Sat Dec 26 to Wed Dec 30, 10am–5pm",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy a ticket for your chosen day from the date links on the program page. Each day needs its own ticket. Tickets are offered for Mon Dec 28 and Tue Dec 29, when the museum is usually closed."
+   },
+   "url": "https://www.brooklynkids.org/programs/kwanzaa/",
+   "description": "The city's largest Kwanzaa festival, now in its 19th year. Each day brings a candle lighting plus music, dance, drumming and art tied to the seven principles.",
+   "tags": [
+    "holiday",
+    "cultural",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "Dates, 10-5 hours, per-day ticket links, partner, 19th year, address: brooklynkids.org/programs/kwanzaa. The page gives no year, but the weekdays match 2026 and the footer reads 2026. Ages and price are not listed.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "nypl-snfl-little-movers-toddler-time",
+   "title": "Little Movers: Toddler Time",
+   "organizer": "New York Public Library",
+   "type": "Story time",
+   "venue": "Stavros Niarchos Foundation Library (SNFL), Children's Center",
+   "address": "455 Fifth Avenue, Lower Level, New York, NY 10016",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7518,
+   "lng": -73.9814,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 35,
+   "ageLabel": "Walking 1- and 2-year-olds",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:00:00-05:00",
+     "end": "2026-11-05T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-05T10:45:00-05:00",
+     "end": "2026-11-05T11:15:00-05:00"
+    },
+    {
+     "start": "2026-11-05T11:30:00-05:00",
+     "end": "2026-11-05T12:00:00-05:00"
+    }
+   ],
+   "schedule": "Thu Nov 5, 10am, 10:45am and 11:30am (30 min)",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": "2026-10-30T00:00:00-05:00",
+    "closesAt": null,
+    "status": "open",
+    "note": "Register by phone at 212-621-0208 or in person. Sign-up opens the Friday before each session. It's limited to 20 children, and doors close once the program starts.",
+    "timeKnown": false
+   },
+   "url": "https://www.nypl.org/events/programs/2026/11/05/little-movers-toddler-time",
+   "description": "A short, active storytime with songs, stories and movement for toddlers who are already walking. Caregivers pick up ideas for early literacy at home.",
+   "tags": [
+    "free",
+    "toddlers",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "NYPL event pages for all three Nov 5 sessions (…/little-movers-toddler-time, …-toddler-time-0 and …/2026/10/01/little-movers-toddler-time) confirmed the times, the ages, the 20-child cap, phone/in-person registration and the Friday-before opening. The SNFL Children's Center page (nypl.org/locations/snfl/childrens) confirmed the address and listed only Nov 5.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "nypl-snfl-family-storytime-preschool-fun",
+   "title": "Family Storytime: Preschool Fun!",
+   "organizer": "New York Public Library",
+   "type": "Story time",
+   "venue": "Stavros Niarchos Foundation Library (SNFL), Children's Center",
+   "address": "455 Fifth Avenue, Lower Level, New York, NY 10016",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7518,
+   "lng": -73.9814,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 60,
+   "ageLabel": "Preschoolers ages 3–5",
+   "sessions": [
+    {
+     "start": "2026-11-10T16:00:00-05:00",
+     "end": "2026-11-10T17:00:00-05:00"
+    }
+   ],
+   "schedule": "Tuesdays 4–5pm",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": "2026-11-05T00:00:00-05:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Call 212-621-0208 or sign up in person. Registration opens the Thursday before each session, so Nov 5 for Nov 10. It's limited to 15 children. Please arrive on time.",
+    "timeKnown": false
+   },
+   "url": "https://www.nypl.org/events/programs/2026/10/27/family-storytime-preschool-fun",
+   "description": "A one-hour preschool storytime with songs, rhymes and read-alouds. It ends with a short craft or activity.",
+   "tags": [
+    "free",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The NYPL event page confirmed Tue Nov 10, 4-5pm, ages 3-5, the 15-child cap and the Thursday-before phone/in-person registration. The SNFL Children's Center page listed a Nov 3, 4pm session at the same URL.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "nypl-67th-street-pre-k-storytime",
+   "title": "Pre-K Storytime",
+   "organizer": "New York Public Library (67th Street Library)",
+   "type": "Story time",
+   "venue": "67th Street Library",
+   "address": "328 East 67th Street, New York, NY 10065",
+   "neighborhood": "Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.7652,
+   "lng": -73.959,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 60,
+   "ageLabel": "Preschoolers ages 3–5",
+   "sessions": [
+    {
+     "start": "2026-11-10T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-17T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-24T16:00:00-05:00"
+    }
+   ],
+   "schedule": "Tuesdays 4pm, weekly",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": "2026-11-30T11:00:00-05:00",
+    "closesAt": null,
+    "status": "sold_out",
+    "note": "November is full. Each month's sign-up opens on Eventbrite at 11am on the last Monday of the month before, so Mon Nov 30 for December. Register under your child's name. Max 20 households, no waitlist. Strollers can't go on the wheelchair lift."
+   },
+   "url": "https://www.eventbrite.com/e/pre-k-storytime-at-67th-street-library-tickets-2002565762102",
+   "description": "Stories, songs and fingerplays for preschoolers, finished off with a craft. Spots are limited and must be booked ahead.",
+   "tags": [
+    "free",
+    "preschool",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The branch's own Eventbrite listing (organizer: NYPL 67th Street Library) confirmed the Tuesday 4pm sessions on Nov 3, 10, 17 and 24, ages 3-5, the 20-household cap, sold-out status and the rule 'registration opens at 11AM on the final Monday of each month for the following month'. The Nov 30 and Dec 28 dates are worked out from that rule.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "qpl-new-mamas-virtual-support-group",
+   "title": "New Mamas Virtual Support Group",
+   "organizer": "Queens Public Library",
+   "type": "Class",
+   "venue": "Online (virtual), hosted by Queens Public Library",
+   "address": "Virtual",
+   "neighborhood": "Online",
+   "borough": "Queens",
+   "lat": null,
+   "lng": null,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 11,
+   "ageLabel": "Mothers of babies under 12 months",
+   "sessions": [
+    {
+     "start": "2026-11-06T12:30:00-05:00",
+     "end": "2026-11-06T13:30:00-05:00"
+    },
+    {
+     "start": "2026-11-13T12:30:00-05:00",
+     "end": "2026-11-13T13:30:00-05:00"
+    },
+    {
+     "start": "2026-11-20T12:30:00-05:00",
+     "end": "2026-11-20T13:30:00-05:00"
+    }
+   ],
+   "schedule": "Fridays 12:30–1:30pm, weekly, online",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Register by emailing catherine.olivo@queenslibrary.org. It's an ongoing weekly group. It takes breaks in summer and winter, so ask by email about December dates."
+   },
+   "url": "https://queenslibrary.org/programs-activities/kids/early-learning-services-queens-public-library-0-5",
+   "description": "A free weekly online support circle for mothers of babies under one, led by a postpartum doula. Topics rotate through feeding, sleep, play and milestones.",
+   "tags": [
+    "free",
+    "virtual",
+    "babies",
+    "parents"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "QPL's Early Learning Services (0-5) page confirmed the Friday 12:30-1:30pm schedule, the under-12-months audience, the doula facilitator, that it's free, and email registration. Session dates are the next Fridays on that weekly schedule. The coordinates are a placeholder (Jamaica) for a virtual event. The same page lists a free virtual Baby Basics series held in Feb/May/Aug/Nov and Toddler Learning Centers (ages 1-3, spring and fall), with no dates posted.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "riverside-park-meet-the-fleet-2026-11-07",
+   "title": "Meet the Fleet",
+   "organizer": "Riverside Park Conservancy",
+   "type": "Outdoors",
+   "venue": "Riverside Park, 95th Street Compost Compound",
+   "address": "Riverside Park near West 95th Street, New York, NY 10025",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.796,
+   "lng": -73.9768,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-07T10:00:00-05:00",
+     "end": "2026-11-07T12:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Nov 7, 10am–12pm",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No sign-up needed, first come, first served. It's canceled in heavy rain, so check nyc.gov/parks/soh two hours before."
+   },
+   "url": "https://riversideparknyc.org/event/meet-the-fleet/2026-11-07/",
+   "description": "Kids can see the park's maintenance trucks and heavy equipment up close and meet the crew who run them. A good outing for vehicle-loving toddlers.",
+   "tags": [
+    "free",
+    "outdoor",
+    "trucks",
+    "all-ages"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The Riverside Park Conservancy event page confirmed the date, time, 95th Street Compost Compound location, free admission, first-come policy and rain cancellation. The Kids & Family category page showed no other kids' events for November.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "jalc-webop-classes-winter-2027",
+   "title": "WeBop Early Childhood Jazz Classes (Winter 2027)",
+   "organizer": "Jazz at Lincoln Center",
+   "type": "Class",
+   "venue": "Frederick P. Rose Hall, Irene Diamond Education Center (5th Floor)",
+   "address": "West 60th Street and Broadway, New York, NY 10019",
+   "neighborhood": "Columbus Circle",
+   "borough": "Manhattan",
+   "lat": 40.7686,
+   "lng": -73.9829,
+   "ageMinMonths": 8,
+   "ageMaxMonths": 84,
+   "ageLabel": "Ages 8 months to 7 years, in five age levels",
+   "sessions": [],
+   "schedule": "Winter dates not announced yet. Fall was 8 weeks of 45-minute classes.",
+   "recurring": true,
+   "priceMin": 440,
+   "priceMax": 440,
+   "priceLabel": "$440 for the 8-week fall term. Winter price TBA",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Winter registration dates aren't announced yet. Most fall baby and toddler classes sold out, so watch the page or email webop@jazz.org. Kids must reach their level's minimum age by the end of the term's second week."
+   },
+   "url": "https://jazz.org/education/public-programs/webop/",
+   "description": "Caregiver-and-child jazz classes with a live accompanist, grouped by age from babies who aren't walking yet to early grade school. Kids move, sing and play along.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "music",
+    "caregiver-and-me",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The WeBop program page confirmed the fall term dates, $440 price, level age ranges, location and schedule (most baby/toddler sections sold out). It says nothing on winter 2027 dates or registration. jazz.org/education/public-programs confirmed the overall 8 months-7 years range.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "jcc-manhattan-winter-childrens-classes-2027",
+   "title": "Winter Children's Classes",
+   "organizer": "Marlene Meyerson JCC Manhattan",
+   "type": "Class",
+   "venue": "Marlene Meyerson JCC Manhattan",
+   "address": "334 Amsterdam Avenue at 76th Street, New York, NY 10023",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7816,
+   "lng": -73.9806,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Infants to teens, including Infant + Toddler classes",
+   "sessions": [],
+   "schedule": "Winter session, class dates not announced yet",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": "2026-11-18T00:00:00-05:00",
+    "memberOpensAt": "2026-11-11T00:00:00-05:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Members register first, starting Wed Nov 11. Public registration opens Wed Nov 18. Questions go to boxoffice@mmjccm.org or 646.505.5708.",
+    "timeKnown": false
+   },
+   "url": "https://www.mmjccm.org/events/coming-this-month-nov",
+   "description": "The JCC's winter lineup of children's classes, from infant and toddler programs to art, dance, swim and sports.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "member-priority",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The JCC 'Coming This Month' November 2026 page (Nov 1-30, 2026) listed 'Nov 11 | For Members: Children's Winter Class Registration' and 'Nov 18 | Public: Children's Winter Class Registration'. The same lines appear on mmjccm.org/event/winter-childrens-classes. The address is from the building contact page. No times or prices were listed.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "jcc-manhattan-turning-2s-info-sessions",
+   "title": "Pre-Nursery Turning 2s Information Sessions",
+   "organizer": "Marlene Meyerson JCC Manhattan",
+   "type": "Class",
+   "venue": "Marlene Meyerson JCC Manhattan (Dec 15 session is virtual)",
+   "address": "334 Amsterdam Avenue at 76th Street, New York, NY 10023",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7816,
+   "lng": -73.9806,
+   "ageMinMonths": 5,
+   "ageMaxMonths": 13,
+   "ageLabel": "Parents of babies born Jan–May 2026",
+   "sessions": [
+    {
+     "start": "2026-11-19T09:15:00-05:00"
+    },
+    {
+     "start": "2026-12-15T12:00:00-05:00"
+    },
+    {
+     "start": "2027-01-13T09:15:00-05:00"
+    },
+    {
+     "start": "2027-02-10T09:15:00-05:00"
+    }
+   ],
+   "schedule": "Thu Nov 19, Wed Jan 13 and Wed Feb 10 at 9:15am. Tue Dec 15 at 12pm online.",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "RSVP for a specific session using the link on the event page."
+   },
+   "url": "https://www.mmjccm.org/events/pre-nursery-information-sessions",
+   "description": "Info sessions for the JCC's Turning 2s pre-nursery program, with an overview of its approach, a sample daily schedule and Q&A. Aimed at parents of babies born in early 2026.",
+   "tags": [
+    "parents",
+    "babies",
+    "info-session"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The JCC Pre-Nursery Information Sessions page confirmed the session dates and times, the Dec 15 virtual format, the Jan-May 2028 birthday window and RSVP links. The child ages in months are worked out from that birthday window.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "jcc-manhattan-click-clack-moo-2027",
+   "title": "Click Clack Moo",
+   "organizer": "Marlene Meyerson JCC Manhattan",
+   "type": "Theater",
+   "venue": "Marlene Meyerson JCC Manhattan",
+   "address": "334 Amsterdam Avenue at 76th Street, New York, NY 10023",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7816,
+   "lng": -73.9806,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Family show, no set age range",
+   "sessions": [
+    {
+     "start": "2027-01-24T11:00:00-05:00",
+     "end": "2027-01-24T12:00:00-05:00"
+    }
+   ],
+   "schedule": "Sun Jan 24, 11am–12pm",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets with the Get Tickets link on the event page. Questions go to boxoffice@mmjccm.org."
+   },
+   "url": "https://www.mmjccm.org/events/click-clack-moo",
+   "description": "A family musical based on the picture book about farm cows who type up their demands for Farmer Brown. It's a story about negotiation and compromise.",
+   "tags": [
+    "musical-theater",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The JCC event page confirmed Jan 24, 2027, 11am-12pm, the venue and the ticket link. Ages and prices were not listed.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "kaufman-lucy-moses-early-childhood-spring-2027",
+   "title": "Lucy Moses School Early Childhood Classes (Spring 2027)",
+   "organizer": "Kaufman Music Center (Lucy Moses School)",
+   "type": "Class",
+   "venue": "Kaufman Music Center, Abraham Goodman House",
+   "address": "129 West 67th Street, New York, NY 10023",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.775,
+   "lng": -73.9836,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 59,
+   "ageLabel": "Ages 1.5 to 4 (age as of Sep 1)",
+   "sessions": [],
+   "schedule": "Spring semester. Dates are in the school's class calendar.",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": "2026-11-15T00:00:00-05:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Spring registration opens to all students Nov 15. Sign up online, by phone at 212-501-3360, in person (5th floor) or by email at lucymosesschool@kaufmanmusiccenter.org. Some classes allow joining mid-session.",
+    "timeKnown": false
+   },
+   "url": "https://www.kaufmanmusiccenter.org/lms/register/",
+   "description": "Kaufman Music Center's community school offers early childhood music, dance and theater classes, including Dalcroze and Family Dalcroze, starting at 18 months.",
+   "tags": [
+    "toddlers",
+    "preschool",
+    "music",
+    "dance",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The Lucy Moses School 'How to Register' page lists the yearly timeline item 'November 15 – All students may register for spring semester classes' (no year or time). The early childhood program page confirmed class names and the 1.5-4 age browse. The facilities page confirmed the address.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "bloomingdale-school-of-music-babys-toddlers-musical-mornings",
+   "title": "Baby's & Toddler's Musical Mornings",
+   "organizer": "Bloomingdale School of Music",
+   "type": "Class",
+   "venue": "Bloomingdale School of Music",
+   "address": "323 West 108th Street (basement entrance), New York, NY 10025",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.8027,
+   "lng": -73.967,
+   "ageMinMonths": 12,
+   "ageMaxMonths": 42,
+   "ageLabel": "Baby's 1–2.5 years, Toddler's 2–3.5 years",
+   "sessions": [],
+   "schedule": "Spring schedule TBA. Fall classes met Fri and Sat mornings.",
+   "recurring": true,
+   "priceMin": 408,
+   "priceMax": 782,
+   "priceLabel": "$782 per semester or $408 for 8 drop-ins (fall rates)",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Spring registration dates aren't posted yet. A free trial class is offered in the first week of each semester, so contact ponorato@bsmny.org. A caregiver must attend."
+   },
+   "url": "https://www.bsmny.org/early-childhood-fall-2026/",
+   "description": "Caregiver-and-child music classes for babies and toddlers at a long-running community music school on West 108th Street. Drop-in packages suit families who can't come every week.",
+   "tags": [
+    "babies",
+    "toddlers",
+    "music",
+    "caregiver-and-me",
+    "free-trial"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The BSM Early Childhood Fall 2026 page confirmed the under-3 class list, ages, days and times, $782/$408 prices, the free first-week trial and the fall cancellations. The Baby's Musical Mornings class page confirmed 17 weeks, the caregiver requirement and fall start dates (Sep 11/12, 2026). The contact page confirmed the address. No spring 2027 info was posted.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "92ny-parkbench-babies-winter",
+   "title": "Parkbench Babies",
+   "organizer": "92NY Parenting Center",
+   "type": "Class",
+   "venue": "92NY, Room S201",
+   "address": "1395 Lexington Avenue, New York, NY 10128",
+   "neighborhood": "Upper East Side",
+   "borough": "Manhattan",
+   "lat": 40.783,
+   "lng": -73.9527,
+   "ageMinMonths": 4,
+   "ageMaxMonths": 9,
+   "ageLabel": "Babies 4–9 months old at the start of the session",
+   "sessions": [
+    {
+     "start": "2026-11-10T11:30:00-05:00",
+     "end": "2026-11-10T12:15:00-05:00"
+    },
+    {
+     "start": "2026-11-17T11:30:00-05:00",
+     "end": "2026-11-17T12:15:00-05:00"
+    },
+    {
+     "start": "2026-11-24T11:30:00-05:00",
+     "end": "2026-11-24T12:15:00-05:00"
+    },
+    {
+     "start": "2026-12-01T11:30:00-05:00",
+     "end": "2026-12-01T12:15:00-05:00"
+    },
+    {
+     "start": "2026-12-08T11:30:00-05:00",
+     "end": "2026-12-08T12:15:00-05:00"
+    },
+    {
+     "start": "2026-12-15T11:30:00-05:00",
+     "end": "2026-12-15T12:15:00-05:00"
+    }
+   ],
+   "schedule": "Tuesdays 11:30am–12:15pm, Nov 10 to Jan 12",
+   "recurring": true,
+   "priceMin": 535,
+   "priceMax": 535,
+   "priceLabel": "$535 for the session",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "The Tuesday class is open for registration now. The Friday section is sold out. Each baby comes with one adult. During construction, enter at 92nd St and Lexington Ave."
+   },
+   "url": "https://www.92ny.org/class/parkbench-babies",
+   "description": "A weekly caregiver-and-baby play class for young infants at the 92NY Parenting Center. The session runs through mid-January.",
+   "tags": [
+    "babies",
+    "caregiver-and-me",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The 92NY Parkbench Babies class page confirmed the Tuesday 11:30am-12:15pm section (Nov 10-Jan 12, Room S201, registration open), the sold-out Friday section, $535, ages 4-9 months at start and one adult per child. Dates listed are weekly Tuesdays within that range through Dec 15. The 92NY Parenting Center page gave no winter/spring 2027 registration date.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "church-street-school-explore-music-art-spring-2027",
+   "title": "Explore! Music I & Explore! Art I (Spring 2027)",
+   "organizer": "Church Street School for Music and Art",
+   "type": "Class",
+   "venue": "Church Street School for Music and Art",
+   "address": "41 White Street, New York, NY 10013",
+   "neighborhood": "Tribeca",
+   "borough": "Manhattan",
+   "lat": 40.7189,
+   "lng": -74.0046,
+   "ageMinMonths": 16,
+   "ageMaxMonths": 36,
+   "ageLabel": "16–36 months, with a parent or caregiver",
+   "sessions": [],
+   "schedule": "Feb 1 to Jun 18 (closed Feb 13–19 and Apr 22–30)",
+   "recurring": true,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices. $60 yearly family fee",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Spring registration is open now, first come, first served. Sign up by Mon Nov 30 for a 10% early-registration scholarship. Questions go to 212-571-7290 or info@churchstreetschool.org."
+   },
+   "url": "https://www.churchstreetschool.org/earlychildhood",
+   "description": "Caregiver-and-toddler music, movement and art classes for children 16 to 36 months in Tribeca.",
+   "tags": [
+    "toddlers",
+    "music",
+    "art",
+    "caregiver-and-me",
+    "early-bird"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The Church Street School Early Childhood page confirmed Explore! Music I and Art I for 16-36 months with a caregiver, and the Nov 30 early-registration scholarship. The Programs page confirmed that Fall 2026 and Spring 2027 registration is open and the $60 fee. The About & Policies page confirmed the address, the Feb 1-Jun 18, 2027 semester, closures and the first-come policy.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "mark-morris-we-dance-spring-2027",
+   "title": "We Dance (Spring 2027)",
+   "organizer": "Mark Morris Dance Center",
+   "type": "Class",
+   "venue": "Mark Morris Dance Center",
+   "address": "3 Lafayette Avenue, Brooklyn, NY 11217",
+   "neighborhood": "Fort Greene",
+   "borough": "Brooklyn",
+   "lat": 40.6865,
+   "lng": -73.9779,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 48,
+   "ageLabel": "18 months to 4 years",
+   "sessions": [],
+   "schedule": "16 weeks, Feb 1 to Jun 14, 45-minute classes. Times TBA.",
+   "recurring": true,
+   "priceMin": 450,
+   "priceMax": 640,
+   "priceLabel": "$640 per semester (subsidies available), plus $30 fee",
+   "registration": {
+    "required": true,
+    "method": "Enrollment",
+    "opensAt": "2026-12-08T00:00:00-05:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "Registration opens Dec 8 and closes Feb 28. Need-based tuition of $545 or $450 is available. Questions go to 718-624-8400 or info@mmdg.org.",
+    "timeKnown": false
+   },
+   "url": "https://markmorrisdancegroup.org/dance-center/the-school/school-calendar-policies-and-procedures/registration-and-tuition/",
+   "description": "Dance classes with live music for toddlers and preschoolers. Caregivers are encouraged to join in.",
+   "tags": [
+    "toddlers",
+    "preschool",
+    "dance",
+    "live-music",
+    "indoor"
+   ],
+   "verified": "2026-11-03",
+   "sourceNote": "The MMDG Registration and Tuition page confirmed the spring 2027 dates (registration Dec 8, 2026-Feb 28, 2027; classes Feb 1-Jun 14, 2027) and the tuition tiers and $30 fee. The Early Childhood page confirmed ages 18 months-4 years, live music and caregiver participation. The Class Schedule page confirmed the fall section ages. The School page confirmed the address.",
+   "addedBy": "claude",
+   "city": "nyc"
+  },
+  {
+   "id": "nyc-sight-meet-the-tree-day",
+   "city": "nyc",
+   "title": "Meet the Tree Day at Rockefeller Center",
+   "organizer": "Rockefeller Center",
+   "type": "Sights",
+   "venue": "Rockefeller Plaza",
+   "address": "Rockefeller Plaza, West 49th to 50th Streets between Fifth and Sixth Avenues, New York, NY 10111",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7587,
+   "lng": -73.9787,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, great for toddlers who love characters",
+   "sessions": [
+    {
+     "start": "2026-11-07T10:00:00-05:00",
+     "end": "2026-11-07T13:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Nov 7, 10am to 1pm",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free entry, first come, first served. A paid Meet the Tree + Top of the Rock ticket adds expedited entry."
+   },
+   "url": "https://www.timeout.com/newyork/news/this-years-rockefeller-center-christmas-tree-has-been-chosenand-you-can-welcome-it-to-nyc-for-free-102726",
+   "description": "The new Rockefeller Center tree arrives in town, and the plaza throws a free family welcome. Care Bears characters pose for photos. Kids can write holiday letters, make a keepsake craft and add a wish to The Caring Tree.",
+   "tips": [
+    "Entry is first come, first served, so arrive close to 10am.",
+    "A carrier is easier than a stroller in the plaza crowd.",
+    "Take the B, D, F or M to 47-50 Sts-Rockefeller Center."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "characters",
+    "crafts",
+    "toddlers"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Date (Sat Nov 7, 2026), 10am-1pm, free first-come entry, Holiday Workshop by Care Bears and FAO Schwarz (character meet-and-greets, letter writing, Care-A-Lot Craft Corner, The Caring Tree) and the paid Meet the Tree + Top of the Rock expedited option confirmed in Time Out New York (Oct 27, 2026). 6sqft's 2026 tree article also confirms Meet the Tree Day on Nov 7, free and first-come. rockefellercenter.com pages returned errors when fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-grand-central-holiday-fair",
+   "city": "nyc",
+   "title": "Grand Central Holiday Fair",
+   "organizer": "Grand Central Terminal (MTA)",
+   "type": "Sights",
+   "venue": "Vanderbilt Hall, Grand Central Terminal",
+   "address": "89 East 42nd Street, New York, NY 10017",
+   "neighborhood": "Midtown East",
+   "borough": "Manhattan",
+   "lat": 40.7525,
+   "lng": -73.9772,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:00:00-05:00",
+     "end": "2026-12-24T18:00:00-05:00"
+    }
+   ],
+   "schedule": "Nov 9 to Dec 24. Mon to Sat 10am to 7pm, Sun 11am to 6pm. Open until 8pm Dec 17 to 23. Dec 24 10am to 6pm. Closed Thanksgiving.",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free to browse",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://grandcentralterminal.com/holiday-fair/",
+   "description": "An indoor holiday market inside Vanderbilt Hall, just off the Main Concourse. Local makers sell jewelry, home goods, sweets and gifts. It is a warm, dry stop on a cold day, with the famous starry ceiling steps away.",
+   "tips": [
+    "It is indoors and heated, a good pick for cold or wet days.",
+    "Weekday mornings are calmer than lunch hour and the evening rush.",
+    "Look up at the starry ceiling in the Main Concourse next door."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "indoor",
+    "market",
+    "rainy-day"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "2026 dates (Nov 9-Dec 24, and Nov 9, 2026 is a Monday), hours (Mon-Sat 10am-7pm, Sun 11am-6pm, closed Thanksgiving, until 8pm Dec 17-23, Christmas Eve 10am-6pm) and about 35 vendors from the Time Out New York holiday markets guide dated Oct 30, 2026. The official grandcentralterminal.com/holiday-fair page still showed 2025 dates (Nov 10-Dec 24, 2025) when fetched on 2026-11-05.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-union-square-holiday-market",
+   "city": "nyc",
+   "title": "Union Square Holiday Market",
+   "organizer": "Urbanspace",
+   "type": "Sights",
+   "venue": "Union Square Park",
+   "address": "Union Square Park, Broadway and East 14th Street, New York, NY 10003",
+   "neighborhood": "Union Square",
+   "borough": "Manhattan",
+   "lat": 40.7359,
+   "lng": -73.9911,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-12T11:00:00-05:00",
+     "end": "2026-12-24T21:00:00-05:00"
+    }
+   ],
+   "schedule": "Nov 12 to Dec 24. Sun to Wed 11am to 8pm, Thu and Fri 11am to 9pm, Sat 10am to 9pm.",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free to browse",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://urbanspacemarkets.com/pages/union-square",
+   "description": "Nearly 200 holiday stalls fill Union Square with gifts from local makers, art and treats. Strolling the lit-up aisles is a classic city holiday outing for the whole family.",
+   "tips": [
+    "Go on a weekday morning for the most room to push a stroller.",
+    "Evenings and weekends get packed, so a carrier helps.",
+    "The 4, 5, 6, L, N, Q, R and W trains all stop here."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "market"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Dates (Nov 12-Dec 24), daily hours, nearly 200 vendors and subway lines from the official urbanspacemarkets.com Union Square page. The date line shows no year, but it is the 2026 version (the 2025 run was Nov 13-Dec 24, and Nov 12, 2026 is a Thursday), and Time Out's Oct 30, 2026 guide gives the same dates and hours. The page lists no holiday exceptions, so the session end uses the posted Thursday hours for Dec 24.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-bryant-park-holiday-shops",
+   "city": "nyc",
+   "title": "Holiday Shops at Bryant Park Winter Village",
+   "organizer": "Bryant Park Corporation and Urbanspace",
+   "type": "Sights",
+   "venue": "Bank of America Winter Village at Bryant Park",
+   "address": "Bryant Park, between 40th and 42nd Streets and Fifth and Sixth Avenues, New York, NY 10018",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7536,
+   "lng": -73.9832,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-10-28T11:00:00-04:00",
+     "end": "2027-01-03T20:00:00-05:00"
+    }
+   ],
+   "schedule": "Oct 28 to Jan 3. Mon to Fri 11am to 8pm, Sat and Sun 10am to 8pm.",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free to browse",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://bryantpark.org/activities/holiday-shops",
+   "description": "More than 180 holiday kiosks ring the skating rink with gifts, food and hot drinks. Little ones can watch skaters on the ice, and Le Carrousel is right in the park. Free Santa photos run at Santa's Corner from Dec 14 to 18.",
+   "tips": [
+    "Weekday mornings are calmest. Evenings and weekends get crowded.",
+    "Santa's Corner has free Santa photos Dec 14 to 18, first come, first served.",
+    "Take the B, D, F or M to 42 St-Bryant Park, or the 7 to 5 Av."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "market",
+    "santa"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Opening Oct 28, 2026, Holiday Shops through Jan 3, 2027, 180+ vendors and Santa's Corner Dec 14-18 (free, no tickets, first-come, behind Le Carrousel) from 6sqft (Oct 29, 2026), Time Out (Sep 19 and Oct 30, 2026) and Secret NYC (Oct 28, 2026). Shop hours (Mon-Fri 11am-8pm, Sat-Sun 10am-8pm) from the Time Out holiday markets guide dated Oct 30, 2026. Holiday-day exceptions and Santa's Corner times not listed. bryantpark.org pages could not be fetched. Opening day is before the Nov 1 DST change, hence -04:00 on the start.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-bryant-park-rink",
+   "city": "nyc",
+   "title": "Free Skating Rink at Bryant Park",
+   "organizer": "Bryant Park Corporation",
+   "type": "Sights",
+   "venue": "The Rink at Bank of America Winter Village",
+   "address": "Bryant Park, between 40th and 42nd Streets and Fifth and Sixth Avenues, New York, NY 10018",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7536,
+   "lng": -73.9832,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages to watch, skating suits steady walkers",
+   "sessions": [
+    {
+     "start": "2026-10-28T08:00:00-04:00",
+     "end": "2027-02-28T22:00:00-05:00"
+    }
+   ],
+   "schedule": "Daily 8am to 10pm, Oct 28 to Feb 28.",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": null,
+   "priceLabel": "Free admission. Skate rental costs extra.",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://bryantpark.org/activities/bank-of-america-winter-village-at-bryant-park",
+   "description": "The city's only free-admission ice rink sits in the middle of Bryant Park all winter. Toddlers can watch skaters glide by from the rinkside. Bigger kids can try a first lap, and free skating shows run during the season.",
+   "tips": [
+    "Bring your own skates to skip the rental fee.",
+    "Mornings are usually the least crowded time on the ice.",
+    "Le Carrousel is a short walk away for a warm-up ride."
+   ],
+   "tags": [
+    "winter",
+    "free",
+    "outdoor",
+    "skating"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Rink open daily 8am-10pm, free admission, skate rentals, lessons and free skating shows from 6sqft (Oct 29, 2026). Free with your own skates per Time Out (Oct 30, 2026). Season end Feb 28, 2027 per Time Out (Sep 19 and Oct 30, 2026) and Secret NYC (Oct 28, 2026). 6sqft says Mar 1, 2027, so the earlier date is used. Skate rental price not published in the fetched sources.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-macys-balloon-inflation",
+   "city": "nyc",
+   "title": "Macy's Parade Balloon Inflation",
+   "organizer": "Macy's",
+   "type": "Sights",
+   "venue": "Streets around the American Museum of Natural History",
+   "address": "West 77th to 81st Streets between Central Park West and Columbus Avenue, New York, NY 10024",
+   "neighborhood": "Upper West Side",
+   "borough": "Manhattan",
+   "lat": 40.7813,
+   "lng": -73.974,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-25T13:00:00-05:00",
+     "end": "2026-11-25T18:00:00-05:00"
+    }
+   ],
+   "schedule": "Wed Nov 25, 1pm to 6pm",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://www.macys.com/s/parade/",
+   "description": "Watch the giant parade balloons come to life the day before Thanksgiving. Crews inflate them on the streets around the Museum of Natural History, and visitors walk past on a free viewing path. Seeing the characters up close is a big thrill for little ones.",
+   "tips": [
+    "The viewing line starts at West 72nd Street and Columbus Avenue.",
+    "Lines get very long, so arrive early.",
+    "A carrier is easier than a stroller in the slow-moving line.",
+    "Dress warmly for a long wait outdoors."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "thanksgiving",
+    "parade"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "2026 date and 1-6pm hours, location around AMNH (W 77th-81st Sts between CPW and Columbus Ave), free entry and queue start at W 72nd St and Columbus Ave from the Time Out New York parade guide dated Oct 28, 2026 (it notes the 2025 line opened at noon). macys.com/s/parade returned only a redirect stub when fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-macys-thanksgiving-day-parade",
+   "city": "nyc",
+   "title": "Macy's Thanksgiving Day Parade",
+   "organizer": "Macy's",
+   "type": "Sights",
+   "venue": "Parade route, Central Park West to Herald Square",
+   "address": "Starts at West 77th Street and Central Park West, ends at Macy's Herald Square, 151 West 34th Street, New York, NY 10001",
+   "neighborhood": "Upper West Side to Herald Square",
+   "borough": "Manhattan",
+   "lat": 40.7798,
+   "lng": -73.9745,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-26T08:30:00-05:00",
+     "end": "2026-11-26T12:00:00-05:00"
+    }
+   ],
+   "schedule": "Thu Nov 26, 8:30am to noon",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://www.macys.com/s/parade/",
+   "description": "The 100th Macy's parade brings giant balloons, floats and marching bands through Manhattan. It starts at Central Park West and 77th Street, rounds Columbus Circle, and heads down Sixth Avenue to Herald Square. Watching from the curb along the 2.5-mile route is free.",
+   "tips": [
+    "Arrive very early to claim a curbside spot.",
+    "Pack snacks, layers and a blanket for the cold wait.",
+    "A carrier is easier than a stroller in the crowd."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "thanksgiving",
+    "parade"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Date (Thu Nov 26, 2026), 8:30am to noon, route (W 77th St and CPW, south around Columbus Circle, Central Park South, Sixth Ave to 34th St, west to Macy's Herald Square at Seventh Ave) and 2.5 miles of public viewing from the Time Out New York guide dated Oct 28, 2026. The 100th edition is stated in the macys.com parade page title in search results. macys.com parade pages returned only redirect stubs when fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-bryant-park-tree-lighting",
+   "city": "nyc",
+   "title": "Bryant Park Tree Lighting",
+   "organizer": "Bryant Park Corporation",
+   "type": "Sights",
+   "venue": "Bank of America Winter Village at Bryant Park",
+   "address": "Bryant Park, between 40th and 42nd Streets and Fifth and Sixth Avenues, New York, NY 10018",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7536,
+   "lng": -73.9832,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-12-01T17:30:00-05:00",
+     "end": null
+    }
+   ],
+   "schedule": "Tue Dec 1, 5:30pm",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://secretnyc.co/?p=412551",
+   "description": "Bryant Park lights its holiday tree with a free evening show. Expect live music, theater and skating performances on the rink. The early start suits little ones better than most tree lightings.",
+   "tips": [
+    "Arrive early for a spot with a clear view of the tree.",
+    "Bundle up. The whole show is outdoors.",
+    "Take the B, D, F or M to 42 St-Bryant Park, or the 7 to 5 Av."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "tree-lighting",
+    "live-music"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Tue Dec 1, 2026 at 5:30pm, free, with live theater, music and skating performances, from Secret NYC (Oct 28, 2026), reporting Bryant Park's announcement. End time and host lineup not yet announced, so end is null.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-columbus-circle-holiday-market",
+   "city": "nyc",
+   "title": "Columbus Circle Holiday Market",
+   "organizer": "Urbanspace",
+   "type": "Sights",
+   "venue": "Columbus Circle",
+   "address": "Columbus Circle at the southwest corner of Central Park, New York, NY 10019",
+   "neighborhood": "Columbus Circle",
+   "borough": "Manhattan",
+   "lat": 40.7681,
+   "lng": -73.9813,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-12-01T11:00:00-05:00",
+     "end": "2026-12-31T19:00:00-05:00"
+    }
+   ],
+   "schedule": "Dec 1 to 31. Mon to Thu 11am to 7pm, Fri to Sun 10am to 8pm.",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free to browse",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://urbanspacemarkets.com/pages/columbus-circle",
+   "description": "A cozy holiday market at the edge of Central Park, with stalls of gifts, crafts and treats. Pair a browse with a stroll into the park next door.",
+   "tips": [
+    "Weekday mornings are the least crowded.",
+    "Take the 1, A, B, C or D to 59 St-Columbus Circle.",
+    "Central Park is right next door for a post-market walk."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "market"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Dates (Dec 1-31, 2026), hours and subway lines from the official urbanspacemarkets.com Columbus Circle page. Time Out's Oct 30, 2026 guide matches. No holiday exceptions listed for 2026. In 2025 it closed Christmas Day and at 4pm on Dec 31 (per Secret NYC), so the Dec 31 end time, which uses posted Thursday hours, may need updating.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-rockefeller-tree-lighting",
+   "city": "nyc",
+   "title": "Rockefeller Center Tree Lighting",
+   "organizer": "Rockefeller Center",
+   "type": "Sights",
+   "venue": "Rockefeller Plaza",
+   "address": "Rockefeller Plaza, West 49th to 50th Streets between Fifth and Sixth Avenues, New York, NY 10111",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7587,
+   "lng": -73.9787,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, best for families who can handle big crowds",
+   "sessions": [
+    {
+     "start": "2026-12-02T19:00:00-05:00",
+     "end": "2026-12-02T22:00:00-05:00"
+    }
+   ],
+   "schedule": "Wed Dec 2, 7pm to 10pm",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://rockefellercenter.com/holidays/rockefeller-center-christmas-tree-lighting",
+   "description": "The city's best-known tree lights up for the season. An evening of live performances builds to the moment more than 50,000 colorful LED lights switch on under a Swarovski star. The ceremony also airs live on TV.",
+   "tips": [
+    "Crowds are huge and space is tight. A stroller is hard to manage.",
+    "Many families watch on TV and visit the lit tree another day.",
+    "Dress warmly for hours of standing outdoors."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "tree-lighting"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Wed Dec 2, 2026, 7-10pm and 50,000+ multicolored LEDs beneath the Swarovski star from Time Out New York (Oct 27, 2026). Date also confirmed by NY1 (Oct 26, 2026, lighting during the live 'Christmas in Rockefeller Center' broadcast), Time Out (Sep 29, 2026) and 6sqft. The exact switch-on moment is not published. rockefellercenter.com returned errors when fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-rockefeller-christmas-tree",
+   "city": "nyc",
+   "title": "Rockefeller Center Christmas Tree",
+   "organizer": "Rockefeller Center",
+   "type": "Sights",
+   "venue": "Rockefeller Plaza",
+   "address": "Rockefeller Plaza, West 49th to 50th Streets between Fifth and Sixth Avenues, New York, NY 10111",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7587,
+   "lng": -73.9787,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-12-03T00:00:00-05:00",
+     "end": "2027-01-09T23:59:00-05:00"
+    }
+   ],
+   "schedule": "On view Dec 3 to Jan 9. Lit 24 hours on Christmas Day and 5am to 9pm on New Year's Eve.",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://www.6sqft.com/?p=249958",
+   "description": "The giant tree glows above the skating rink at Rockefeller Plaza through early January. This year's tree comes from West Edmeston in upstate New York. It shines with more than 50,000 colorful LED lights under a Swarovski star.",
+   "tips": [
+    "Early morning visits beat the evening crowds.",
+    "A carrier is easier than a stroller in the plaza crowds.",
+    "Take the B, D, F or M to 47-50 Sts-Rockefeller Center."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "christmas-tree"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Last day Jan 9, 2027 from NY1 (Oct 26, 2026) and 6sqft (2026 tree article), which also gives 24-hour lighting on Christmas Day and 5am-9pm on New Year's Eve. Tree origin (West Edmeston, NY) per NY1. LED count and star per Time Out (Oct 27, 2026). Regular daily lit hours for 2026 not yet published (2025 was 5am to midnight per Time Out), so the session uses whole days (Dec 3 00:00 to Jan 9 23:59) as placeholders. Update when Rockefeller Center posts hours.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-macys-holiday-square",
+   "city": "nyc",
+   "title": "Macy's Holiday Square",
+   "organizer": "Macy's and Urbanspace",
+   "type": "Sights",
+   "venue": "Broadway at Herald Square",
+   "address": "Broadway from West 32nd to West 36th Streets, New York, NY 10001",
+   "neighborhood": "Herald Square",
+   "borough": "Manhattan",
+   "lat": 40.7497,
+   "lng": -73.9878,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-12-03T11:00:00-05:00",
+     "end": "2027-01-02T20:00:00-05:00"
+    }
+   ],
+   "schedule": "Dec 3 to Jan 2. Mon to Sat 11am to 8pm, Sun 11am to 7pm.",
+   "recurring": false,
+   "anytime": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free to browse",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://www.timeout.com/newyork/shopping/holiday-markets-in-new-york-city",
+   "description": "A holiday market stretches along Broadway outside Macy's flagship store, with food, drinks, gifts and photo spots. Make time for Macy's Christmas windows while you are there. Several attractions open earlier, from Nov 12.",
+   "tips": [
+    "Weekday daytime visits are calmer than evenings.",
+    "Take the B, D, F, M, N, Q, R or W to 34 St-Herald Sq.",
+    "Macy's Christmas windows are part of the stroll."
+   ],
+   "tags": [
+    "holiday",
+    "free",
+    "outdoor",
+    "market",
+    "window-displays"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Dates (Dec 3, 2026 to Jan 2, 2027), location (Broadway from 32nd to 36th Sts), hours, most attractions opening Nov 12, a returning Christmas Carousel and Macy's Christmas Windows as part of the experience, all from the Time Out New York holiday markets guide dated Oct 30, 2026. No official Macy's or Urbanspace page was fetched for this market, and the 2026 window unveiling date was not found.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-janes-carousel",
+   "city": "nyc",
+   "title": "Jane's Carousel",
+   "organizer": "Jane's Carousel",
+   "type": "Sights",
+   "venue": "Jane's Carousel, Brooklyn Bridge Park",
+   "address": "Old Dock Street at Water Street, Brooklyn Bridge Park, Brooklyn, NY 11201",
+   "neighborhood": "DUMBO",
+   "borough": "Brooklyn",
+   "lat": 40.7046,
+   "lng": -73.9914,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, little ones ride with a grown-up",
+   "sessions": [],
+   "schedule": "Wed to Sun 11am to 5:50pm through Dec 31. Thu to Sun 11am to 5:50pm, Jan 1 to Mar 16. Wed to Sun 11am to 5:50pm, Mar 17 to May 16.",
+   "recurring": true,
+   "anytime": true,
+   "priceMin": 4,
+   "priceMax": 4,
+   "priceLabel": "$4 per ticket. One adult and one child under 42 inches share a ticket.",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://janescarousel.com/hours/",
+   "description": "A classic carousel on the Brooklyn Bridge Park waterfront, open year-round. Little riders circle with views of the East River and the Manhattan skyline. It pairs well with a walk along the DUMBO waterfront.",
+   "tips": [
+    "One adult and a child under 42 inches ride on a single $4 ticket.",
+    "Closed Mon and Tue through Dec 31, and Mon to Wed from Jan 1 to Mar 16.",
+    "A SNAP/EBT discount is available."
+   ],
+   "tags": [
+    "carousel",
+    "outdoor",
+    "toddlers",
+    "waterfront",
+    "year-round"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Seasonal hours (Fall Sep 14-Dec 31, 2026, closed Mon-Tue, 11am-5:50pm. Winter Jan 1-Mar 16, 2027, closed Mon-Wed, 11am-5:50pm. Spring Mar 17-May 16, closed Mon-Tue, 11am-5:50pm. Summer May 17-Sep 13, 2027, closed Tue, 10am-6:50pm), $4 tickets, one child under 42 in. plus one adult per ticket and SNAP/EBT discount from janescarousel.com/hours. Homepage says open year-round. Street address not shown on the official pages fetched.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-le-carrousel-bryant-park",
+   "city": "nyc",
+   "title": "Le Carrousel in Bryant Park",
+   "organizer": "Bryant Park Corporation",
+   "type": "Sights",
+   "venue": "Le Carrousel, Bryant Park",
+   "address": "Bryant Park, between 40th and 42nd Streets and Fifth and Sixth Avenues, New York, NY 10018",
+   "neighborhood": "Midtown",
+   "borough": "Manhattan",
+   "lat": 40.7536,
+   "lng": -73.9838,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, under 42 inches ride with an adult",
+   "sessions": [],
+   "schedule": "Nov daily 10am to 10pm. Dec daily 9am to 10pm. Jan daily 11am to 7pm. Feb Thu to Sun 11am to 6pm. Mar to May daily 11am to 7pm. Thanksgiving noon to 8pm. Dec 24, Dec 25, Dec 31 and Jan 1 11am to 6pm. Weather permitting.",
+   "recurring": true,
+   "anytime": true,
+   "priceMin": 5,
+   "priceMax": 8,
+   "priceLabel": "$8 per ride Oct 31 to Jan 1. $5 per ride from Jan 5, or $42 for 10 rides.",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://bryantpark.org/activities/le-carrousel",
+   "description": "A charming carousel in Bryant Park, open year-round. In winter it sits among the Winter Village shops and skating rink, so a ride makes an easy add-on to a holiday stroll.",
+   "tips": [
+    "Children under 42 inches ride with an adult standing beside them.",
+    "Late hours in Nov and Dec make an evening ride easy.",
+    "Rides cost less after the holidays, from Jan 5."
+   ],
+   "tags": [
+    "carousel",
+    "outdoor",
+    "toddlers",
+    "year-round"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Monthly hours, holiday hours, weather-permitting note, prices ($8 Oct 31-Jan 1 with discount cards not sold then, $5 Jan 5-Oct 30, $42 10-ride card) and the rule that each child under 42 in. rides with one adult standing between the animals from bryantpark.org/activities/le-carrousel. Price for Jan 2-4 not stated. Schedule lists Nov through May only.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-little-island",
+   "city": "nyc",
+   "title": "Little Island",
+   "organizer": "Little Island",
+   "type": "Sights",
+   "venue": "Little Island at Pier 55",
+   "address": "Pier 55 at Hudson River Park, West 13th Street, New York, NY 10014",
+   "neighborhood": "Meatpacking District",
+   "borough": "Manhattan",
+   "lat": 40.742,
+   "lng": -74.0102,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [],
+   "schedule": "Daily from 6am, weather permitting. Closes 9pm through Dec 31 and 11pm from Mar 8.",
+   "recurring": true,
+   "anytime": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": null
+   },
+   "url": "https://littleisland.org/",
+   "description": "A leafy public park floating on the Hudson River, with winding paths, small hills and wide river views. Strollers are welcome. It makes a fresh-air outing in any season.",
+   "tips": [
+    "Restrooms are near The Glade, just past the South Bridge entrance.",
+    "Strollers are welcome everywhere except The Amph.",
+    "Food carts are on site, and outside food is allowed.",
+    "Refill bottles at the water stations."
+   ],
+   "tags": [
+    "park",
+    "free",
+    "outdoor",
+    "waterfront",
+    "stroller-friendly",
+    "year-round"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Free admission, opening at 6am every day of the year (weather permitting), seasonal closing times (Nov 1-Dec 31 9pm, Mar 8-May 24 11pm, May 25-Sep 7 midnight, Sep 8-Oct 31 11pm), strollers allowed except in The Amph, restroom location, food carts, outside food and water stations from littleisland.org Rules & FAQ and homepage (Today's Hours 6am-9pm). Closing time for Jan 1-Mar 7 is not listed on the fetched pages.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "nyc-sight-staten-island-ferry",
+   "city": "nyc",
+   "title": "Staten Island Ferry",
+   "organizer": "NYC Department of Transportation",
+   "type": "Sights",
+   "venue": "Whitehall Ferry Terminal",
+   "address": "4 South Street, New York, NY 10004",
+   "neighborhood": "Financial District",
+   "borough": "Manhattan",
+   "lat": 40.7013,
+   "lng": -74.0132,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, a hit with boat-loving toddlers",
+   "sessions": [],
+   "schedule": "24 hours a day, 7 days a week. Every 15 to 20 min at weekday rush hours, every 30 min at other times and on weekends. About 25 min each way.",
+   "recurring": true,
+   "anytime": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No ticket needed."
+   },
+   "url": "https://siferry.com/schedules/",
+   "description": "A free boat ride across New York Harbor, with views of the Statue of Liberty and the downtown skyline. Each crossing takes about 25 minutes. Snacks are sold on board whenever a boat is running.",
+   "tips": [
+    "Everyone gets off at St. George. Re-board through the waiting room.",
+    "The main deck has more room than the crowded upper decks.",
+    "Skip weekday rush hours for a calmer ride.",
+    "Use elevators, not escalators, with a stroller."
+   ],
+   "tags": [
+    "boat",
+    "free",
+    "views",
+    "year-round"
+   ],
+   "verified": "2026-11-05",
+   "sourceNote": "Free fare, 24/7 service, rush-hour (6-9:30am, 3:30-8pm) 15-20 min frequency and 30-min service otherwise and on weekends, ~25-min trip, mandatory debarking at St. George with re-boarding via the waiting room, deck crowding note, stroller escalator warning, food concessions and terminal address from siferry.com FAQs & Trip Tips and Schedules pages.",
+   "addedBy": "claude"
+  }
+ ]
+}

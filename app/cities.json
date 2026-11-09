@@ -1,0 +1,1256 @@
+{
+ "version": 1,
+ "updatedAt": "2026-11-09T03:08:00+00:00",
+ "cities": [
+  {
+   "id": "nyc",
+   "name": "New York City",
+   "short": "NYC",
+   "state": "NY",
+   "tz": "America/New_York",
+   "lat": 40.7549,
+   "lng": -73.984,
+   "defaultArea": "midtown",
+   "events": "events/nyc.json",
+   "count": 58,
+   "updatedAt": "2026-11-05T03:26:02+00:00",
+   "areas": [
+    {
+     "id": "upper-west-side",
+     "name": "Upper West Side",
+     "group": "Manhattan",
+     "lat": 40.787,
+     "lng": -73.9754
+    },
+    {
+     "id": "morningside-heights",
+     "name": "Morningside Heights",
+     "group": "Manhattan",
+     "lat": 40.809,
+     "lng": -73.962
+    },
+    {
+     "id": "harlem",
+     "name": "Harlem",
+     "group": "Manhattan",
+     "lat": 40.8116,
+     "lng": -73.9465
+    },
+    {
+     "id": "washington-heights",
+     "name": "Washington Heights",
+     "group": "Manhattan",
+     "lat": 40.8417,
+     "lng": -73.9394
+    },
+    {
+     "id": "upper-east-side",
+     "name": "Upper East Side",
+     "group": "Manhattan",
+     "lat": 40.7736,
+     "lng": -73.9566
+    },
+    {
+     "id": "midtown",
+     "name": "Midtown",
+     "group": "Manhattan",
+     "lat": 40.7549,
+     "lng": -73.984
+    },
+    {
+     "id": "chelsea",
+     "name": "Chelsea",
+     "group": "Manhattan",
+     "lat": 40.7465,
+     "lng": -74.0014
+    },
+    {
+     "id": "gramercy",
+     "name": "Flatiron",
+     "group": "Manhattan",
+     "lat": 40.7381,
+     "lng": -73.9874
+    },
+    {
+     "id": "greenwich-village",
+     "name": "Greenwich Village",
+     "group": "Manhattan",
+     "lat": 40.7336,
+     "lng": -74.0027
+    },
+    {
+     "id": "east-village",
+     "name": "East Village",
+     "group": "Manhattan",
+     "lat": 40.7265,
+     "lng": -73.9815
+    },
+    {
+     "id": "lower-east-side",
+     "name": "Lower East Side",
+     "group": "Manhattan",
+     "lat": 40.715,
+     "lng": -73.9843
+    },
+    {
+     "id": "tribeca",
+     "name": "Tribeca",
+     "group": "Manhattan",
+     "lat": 40.7199,
+     "lng": -74.0055
+    },
+    {
+     "id": "financial-district",
+     "name": "Financial District",
+     "group": "Manhattan",
+     "lat": 40.7075,
+     "lng": -74.0113
+    },
+    {
+     "id": "brooklyn-heights",
+     "name": "Brooklyn Heights",
+     "group": "Brooklyn",
+     "lat": 40.6985,
+     "lng": -73.9915
+    },
+    {
+     "id": "fort-greene",
+     "name": "Fort Greene",
+     "group": "Brooklyn",
+     "lat": 40.6892,
+     "lng": -73.9742
+    },
+    {
+     "id": "park-slope",
+     "name": "Park Slope",
+     "group": "Brooklyn",
+     "lat": 40.671,
+     "lng": -73.9814
+    },
+    {
+     "id": "prospect-heights",
+     "name": "Prospect Heights",
+     "group": "Brooklyn",
+     "lat": 40.6775,
+     "lng": -73.9692
+    },
+    {
+     "id": "carroll-gardens",
+     "name": "Carroll Gardens",
+     "group": "Brooklyn",
+     "lat": 40.683,
+     "lng": -73.996
+    },
+    {
+     "id": "williamsburg",
+     "name": "Williamsburg",
+     "group": "Brooklyn",
+     "lat": 40.7081,
+     "lng": -73.9571
+    },
+    {
+     "id": "greenpoint",
+     "name": "Greenpoint",
+     "group": "Brooklyn",
+     "lat": 40.73,
+     "lng": -73.954
+    },
+    {
+     "id": "crown-heights",
+     "name": "Crown Heights",
+     "group": "Brooklyn",
+     "lat": 40.6694,
+     "lng": -73.9422
+    },
+    {
+     "id": "long-island-city",
+     "name": "Long Island City",
+     "group": "Queens",
+     "lat": 40.7447,
+     "lng": -73.9485
+    },
+    {
+     "id": "astoria",
+     "name": "Astoria",
+     "group": "Queens",
+     "lat": 40.7644,
+     "lng": -73.9235
+    },
+    {
+     "id": "jackson-heights",
+     "name": "Jackson Heights",
+     "group": "Queens",
+     "lat": 40.7557,
+     "lng": -73.8831
+    },
+    {
+     "id": "forest-hills",
+     "name": "Forest Hills",
+     "group": "Queens",
+     "lat": 40.7181,
+     "lng": -73.8448
+    },
+    {
+     "id": "flushing",
+     "name": "Flushing",
+     "group": "Queens",
+     "lat": 40.7675,
+     "lng": -73.8331
+    },
+    {
+     "id": "riverdale",
+     "name": "Riverdale",
+     "group": "Bronx",
+     "lat": 40.9005,
+     "lng": -73.9064
+    },
+    {
+     "id": "fordham",
+     "name": "Bronx Park",
+     "group": "Bronx",
+     "lat": 40.8616,
+     "lng": -73.885
+    },
+    {
+     "id": "st-george",
+     "name": "St. George",
+     "group": "Staten Island",
+     "lat": 40.6437,
+     "lng": -74.0736
+    }
+   ]
+  },
+  {
+   "id": "la",
+   "name": "Los Angeles",
+   "short": "LA",
+   "state": "CA",
+   "tz": "America/Los_Angeles",
+   "lat": 34.0522,
+   "lng": -118.2437,
+   "defaultArea": "downtown",
+   "events": "events/la.json",
+   "count": 11,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "downtown",
+     "name": "Downtown LA",
+     "group": "",
+     "lat": 34.0407,
+     "lng": -118.2468
+    },
+    {
+     "id": "silver-lake",
+     "name": "Silver Lake",
+     "group": "",
+     "lat": 34.0869,
+     "lng": -118.2702
+    },
+    {
+     "id": "echo-park",
+     "name": "Echo Park",
+     "group": "",
+     "lat": 34.0782,
+     "lng": -118.2606
+    },
+    {
+     "id": "los-feliz",
+     "name": "Los Feliz",
+     "group": "",
+     "lat": 34.1063,
+     "lng": -118.2848
+    },
+    {
+     "id": "hollywood",
+     "name": "Hollywood",
+     "group": "",
+     "lat": 34.0928,
+     "lng": -118.3287
+    },
+    {
+     "id": "west-hollywood",
+     "name": "West Hollywood",
+     "group": "",
+     "lat": 34.09,
+     "lng": -118.3617
+    },
+    {
+     "id": "mid-wilshire",
+     "name": "Mid-Wilshire",
+     "group": "",
+     "lat": 34.0625,
+     "lng": -118.3518
+    },
+    {
+     "id": "westwood",
+     "name": "Westwood",
+     "group": "",
+     "lat": 34.0561,
+     "lng": -118.4297
+    },
+    {
+     "id": "santa-monica",
+     "name": "Santa Monica",
+     "group": "",
+     "lat": 34.0195,
+     "lng": -118.4912
+    },
+    {
+     "id": "venice",
+     "name": "Venice",
+     "group": "",
+     "lat": 33.985,
+     "lng": -118.4695
+    },
+    {
+     "id": "culver-city",
+     "name": "Culver City",
+     "group": "",
+     "lat": 34.0211,
+     "lng": -118.3965
+    },
+    {
+     "id": "pasadena",
+     "name": "Pasadena",
+     "group": "",
+     "lat": 34.1478,
+     "lng": -118.1445
+    },
+    {
+     "id": "glendale",
+     "name": "Glendale",
+     "group": "",
+     "lat": 34.1425,
+     "lng": -118.2551
+    },
+    {
+     "id": "burbank",
+     "name": "Burbank",
+     "group": "",
+     "lat": 34.1808,
+     "lng": -118.309
+    },
+    {
+     "id": "sherman-oaks",
+     "name": "Sherman Oaks",
+     "group": "",
+     "lat": 34.1508,
+     "lng": -118.449
+    },
+    {
+     "id": "long-beach",
+     "name": "Long Beach",
+     "group": "",
+     "lat": 33.7701,
+     "lng": -118.1937
+    }
+   ]
+  },
+  {
+   "id": "sf-bay",
+   "name": "San Francisco Bay Area",
+   "short": "SF Bay",
+   "state": "CA",
+   "tz": "America/Los_Angeles",
+   "lat": 37.7749,
+   "lng": -122.4194,
+   "defaultArea": "soma",
+   "events": "events/sf-bay.json",
+   "count": 12,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "soma",
+     "name": "SoMa",
+     "group": "San Francisco",
+     "lat": 37.7785,
+     "lng": -122.4056
+    },
+    {
+     "id": "mission",
+     "name": "Mission",
+     "group": "San Francisco",
+     "lat": 37.7599,
+     "lng": -122.4148
+    },
+    {
+     "id": "noe-valley",
+     "name": "Noe Valley",
+     "group": "San Francisco",
+     "lat": 37.7502,
+     "lng": -122.4337
+    },
+    {
+     "id": "bernal-heights",
+     "name": "Bernal Heights",
+     "group": "San Francisco",
+     "lat": 37.7389,
+     "lng": -122.4152
+    },
+    {
+     "id": "hayes-valley",
+     "name": "Hayes Valley",
+     "group": "San Francisco",
+     "lat": 37.7759,
+     "lng": -122.4245
+    },
+    {
+     "id": "marina",
+     "name": "Marina",
+     "group": "San Francisco",
+     "lat": 37.8037,
+     "lng": -122.4368
+    },
+    {
+     "id": "richmond",
+     "name": "Richmond District",
+     "group": "San Francisco",
+     "lat": 37.78,
+     "lng": -122.483
+    },
+    {
+     "id": "sunset",
+     "name": "Sunset District",
+     "group": "San Francisco",
+     "lat": 37.7531,
+     "lng": -122.494
+    },
+    {
+     "id": "oakland-downtown",
+     "name": "Downtown Oakland",
+     "group": "East Bay",
+     "lat": 37.8044,
+     "lng": -122.2712
+    },
+    {
+     "id": "rockridge",
+     "name": "Rockridge",
+     "group": "East Bay",
+     "lat": 37.8441,
+     "lng": -122.2517
+    },
+    {
+     "id": "berkeley",
+     "name": "Berkeley",
+     "group": "East Bay",
+     "lat": 37.8715,
+     "lng": -122.273
+    },
+    {
+     "id": "alameda",
+     "name": "Alameda",
+     "group": "East Bay",
+     "lat": 37.7652,
+     "lng": -122.2416
+    },
+    {
+     "id": "palo-alto",
+     "name": "Palo Alto",
+     "group": "Peninsula and South Bay",
+     "lat": 37.4419,
+     "lng": -122.143
+    },
+    {
+     "id": "san-jose",
+     "name": "San Jose",
+     "group": "Peninsula and South Bay",
+     "lat": 37.3382,
+     "lng": -121.8863
+    }
+   ]
+  },
+  {
+   "id": "chicago",
+   "name": "Chicago",
+   "short": "Chicago",
+   "state": "IL",
+   "tz": "America/Chicago",
+   "lat": 41.8781,
+   "lng": -87.6298,
+   "defaultArea": "loop",
+   "events": "events/chicago.json",
+   "count": 11,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "loop",
+     "name": "The Loop",
+     "group": "",
+     "lat": 41.8837,
+     "lng": -87.6289
+    },
+    {
+     "id": "south-loop",
+     "name": "South Loop",
+     "group": "",
+     "lat": 41.858,
+     "lng": -87.627
+    },
+    {
+     "id": "west-loop",
+     "name": "West Loop",
+     "group": "",
+     "lat": 41.8827,
+     "lng": -87.6496
+    },
+    {
+     "id": "lincoln-park",
+     "name": "Lincoln Park",
+     "group": "",
+     "lat": 41.9214,
+     "lng": -87.6513
+    },
+    {
+     "id": "lakeview",
+     "name": "Lakeview",
+     "group": "",
+     "lat": 41.9434,
+     "lng": -87.6553
+    },
+    {
+     "id": "andersonville",
+     "name": "Andersonville",
+     "group": "",
+     "lat": 41.9802,
+     "lng": -87.6681
+    },
+    {
+     "id": "wicker-park",
+     "name": "Wicker Park",
+     "group": "",
+     "lat": 41.9088,
+     "lng": -87.6796
+    },
+    {
+     "id": "logan-square",
+     "name": "Logan Square",
+     "group": "",
+     "lat": 41.9234,
+     "lng": -87.7083
+    },
+    {
+     "id": "pilsen",
+     "name": "Pilsen",
+     "group": "",
+     "lat": 41.8565,
+     "lng": -87.6606
+    },
+    {
+     "id": "hyde-park",
+     "name": "Hyde Park",
+     "group": "",
+     "lat": 41.7943,
+     "lng": -87.5907
+    },
+    {
+     "id": "evanston",
+     "name": "Evanston",
+     "group": "",
+     "lat": 42.0451,
+     "lng": -87.6877
+    },
+    {
+     "id": "oak-park",
+     "name": "Oak Park",
+     "group": "",
+     "lat": 41.885,
+     "lng": -87.7845
+    }
+   ]
+  },
+  {
+   "id": "denver",
+   "name": "Denver",
+   "short": "Denver",
+   "state": "CO",
+   "tz": "America/Denver",
+   "lat": 39.7392,
+   "lng": -104.9903,
+   "defaultArea": "downtown",
+   "events": "events/denver.json",
+   "count": 11,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "downtown",
+     "name": "Downtown",
+     "group": "",
+     "lat": 39.7439,
+     "lng": -104.9903
+    },
+    {
+     "id": "capitol-hill",
+     "name": "Capitol Hill",
+     "group": "",
+     "lat": 39.7312,
+     "lng": -104.9826
+    },
+    {
+     "id": "highlands",
+     "name": "Highlands",
+     "group": "",
+     "lat": 39.7621,
+     "lng": -105.0118
+    },
+    {
+     "id": "rino",
+     "name": "RiNo",
+     "group": "",
+     "lat": 39.7681,
+     "lng": -104.9811
+    },
+    {
+     "id": "park-hill",
+     "name": "Park Hill",
+     "group": "",
+     "lat": 39.7517,
+     "lng": -104.9294
+    },
+    {
+     "id": "central-park",
+     "name": "Central Park",
+     "group": "",
+     "lat": 39.7614,
+     "lng": -104.8836
+    },
+    {
+     "id": "washington-park",
+     "name": "Washington Park",
+     "group": "",
+     "lat": 39.7004,
+     "lng": -104.9709
+    },
+    {
+     "id": "cherry-creek",
+     "name": "Cherry Creek",
+     "group": "",
+     "lat": 39.7178,
+     "lng": -104.953
+    },
+    {
+     "id": "lakewood",
+     "name": "Lakewood",
+     "group": "",
+     "lat": 39.7047,
+     "lng": -105.0814
+    },
+    {
+     "id": "aurora",
+     "name": "Aurora",
+     "group": "",
+     "lat": 39.7294,
+     "lng": -104.8319
+    },
+    {
+     "id": "littleton",
+     "name": "Littleton",
+     "group": "",
+     "lat": 39.6133,
+     "lng": -105.0166
+    },
+    {
+     "id": "boulder",
+     "name": "Boulder",
+     "group": "",
+     "lat": 40.015,
+     "lng": -105.2705
+    }
+   ]
+  },
+  {
+   "id": "boston",
+   "name": "Boston",
+   "short": "Boston",
+   "state": "MA",
+   "tz": "America/New_York",
+   "lat": 42.3601,
+   "lng": -71.0589,
+   "defaultArea": "back-bay",
+   "events": "events/boston.json",
+   "count": 10,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "back-bay",
+     "name": "Back Bay",
+     "group": "",
+     "lat": 42.3503,
+     "lng": -71.081
+    },
+    {
+     "id": "beacon-hill",
+     "name": "Beacon Hill",
+     "group": "",
+     "lat": 42.3588,
+     "lng": -71.0707
+    },
+    {
+     "id": "south-end",
+     "name": "South End",
+     "group": "",
+     "lat": 42.3388,
+     "lng": -71.0765
+    },
+    {
+     "id": "seaport",
+     "name": "Seaport",
+     "group": "",
+     "lat": 42.3484,
+     "lng": -71.0406
+    },
+    {
+     "id": "charlestown",
+     "name": "Charlestown",
+     "group": "",
+     "lat": 42.3782,
+     "lng": -71.0602
+    },
+    {
+     "id": "jamaica-plain",
+     "name": "Jamaica Plain",
+     "group": "",
+     "lat": 42.3097,
+     "lng": -71.1151
+    },
+    {
+     "id": "roslindale",
+     "name": "Roslindale",
+     "group": "",
+     "lat": 42.2832,
+     "lng": -71.127
+    },
+    {
+     "id": "dorchester",
+     "name": "Dorchester",
+     "group": "",
+     "lat": 42.3016,
+     "lng": -71.0676
+    },
+    {
+     "id": "cambridge",
+     "name": "Cambridge",
+     "group": "",
+     "lat": 42.3736,
+     "lng": -71.1097
+    },
+    {
+     "id": "somerville",
+     "name": "Somerville",
+     "group": "",
+     "lat": 42.3876,
+     "lng": -71.0995
+    },
+    {
+     "id": "brookline",
+     "name": "Brookline",
+     "group": "",
+     "lat": 42.3318,
+     "lng": -71.1212
+    },
+    {
+     "id": "newton",
+     "name": "Newton",
+     "group": "",
+     "lat": 42.337,
+     "lng": -71.2092
+    }
+   ]
+  },
+  {
+   "id": "philadelphia",
+   "name": "Philadelphia",
+   "short": "Philly",
+   "state": "PA",
+   "tz": "America/New_York",
+   "lat": 39.9526,
+   "lng": -75.1652,
+   "defaultArea": "center-city",
+   "events": "events/philadelphia.json",
+   "count": 8,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "center-city",
+     "name": "Center City",
+     "group": "",
+     "lat": 39.9526,
+     "lng": -75.1652
+    },
+    {
+     "id": "old-city",
+     "name": "Old City",
+     "group": "",
+     "lat": 39.9522,
+     "lng": -75.1432
+    },
+    {
+     "id": "queen-village",
+     "name": "Queen Village",
+     "group": "",
+     "lat": 39.9381,
+     "lng": -75.1485
+    },
+    {
+     "id": "south-philly",
+     "name": "South Philly",
+     "group": "",
+     "lat": 39.93,
+     "lng": -75.168
+    },
+    {
+     "id": "fairmount",
+     "name": "Fairmount",
+     "group": "",
+     "lat": 39.9673,
+     "lng": -75.1773
+    },
+    {
+     "id": "university-city",
+     "name": "University City",
+     "group": "",
+     "lat": 39.9522,
+     "lng": -75.1932
+    },
+    {
+     "id": "northern-liberties",
+     "name": "Northern Liberties",
+     "group": "",
+     "lat": 39.9653,
+     "lng": -75.1407
+    },
+    {
+     "id": "fishtown",
+     "name": "Fishtown",
+     "group": "",
+     "lat": 39.9718,
+     "lng": -75.134
+    },
+    {
+     "id": "manayunk",
+     "name": "Manayunk",
+     "group": "",
+     "lat": 40.0262,
+     "lng": -75.2255
+    },
+    {
+     "id": "germantown",
+     "name": "Germantown",
+     "group": "",
+     "lat": 40.039,
+     "lng": -75.173
+    },
+    {
+     "id": "mount-airy",
+     "name": "Mount Airy",
+     "group": "",
+     "lat": 40.061,
+     "lng": -75.1919
+    },
+    {
+     "id": "chestnut-hill",
+     "name": "Chestnut Hill",
+     "group": "",
+     "lat": 40.0732,
+     "lng": -75.207
+    }
+   ]
+  },
+  {
+   "id": "dc",
+   "name": "Washington DC",
+   "short": "DC",
+   "state": "DC",
+   "tz": "America/New_York",
+   "lat": 38.9072,
+   "lng": -77.0369,
+   "defaultArea": "downtown",
+   "events": "events/dc.json",
+   "count": 11,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "downtown",
+     "name": "Downtown and Penn Quarter",
+     "group": "Washington",
+     "lat": 38.8977,
+     "lng": -77.0219
+    },
+    {
+     "id": "capitol-hill",
+     "name": "Capitol Hill",
+     "group": "Washington",
+     "lat": 38.8899,
+     "lng": -76.9905
+    },
+    {
+     "id": "navy-yard",
+     "name": "Navy Yard",
+     "group": "Washington",
+     "lat": 38.8762,
+     "lng": -77.003
+    },
+    {
+     "id": "dupont-circle",
+     "name": "Dupont Circle",
+     "group": "Washington",
+     "lat": 38.9097,
+     "lng": -77.0434
+    },
+    {
+     "id": "georgetown",
+     "name": "Georgetown",
+     "group": "Washington",
+     "lat": 38.9076,
+     "lng": -77.0723
+    },
+    {
+     "id": "columbia-heights",
+     "name": "Columbia Heights",
+     "group": "Washington",
+     "lat": 38.9282,
+     "lng": -77.0327
+    },
+    {
+     "id": "petworth",
+     "name": "Petworth",
+     "group": "Washington",
+     "lat": 38.942,
+     "lng": -77.0242
+    },
+    {
+     "id": "cleveland-park",
+     "name": "Cleveland Park",
+     "group": "Washington",
+     "lat": 38.9343,
+     "lng": -77.058
+    },
+    {
+     "id": "arlington",
+     "name": "Arlington",
+     "group": "Virginia",
+     "lat": 38.8816,
+     "lng": -77.091
+    },
+    {
+     "id": "alexandria",
+     "name": "Alexandria",
+     "group": "Virginia",
+     "lat": 38.8048,
+     "lng": -77.0469
+    },
+    {
+     "id": "bethesda",
+     "name": "Bethesda",
+     "group": "Maryland",
+     "lat": 38.9807,
+     "lng": -77.1003
+    },
+    {
+     "id": "silver-spring",
+     "name": "Silver Spring",
+     "group": "Maryland",
+     "lat": 38.9907,
+     "lng": -77.0261
+    }
+   ]
+  },
+  {
+   "id": "atlanta",
+   "name": "Atlanta",
+   "short": "Atlanta",
+   "state": "GA",
+   "tz": "America/New_York",
+   "lat": 33.749,
+   "lng": -84.388,
+   "defaultArea": "midtown",
+   "events": "events/atlanta.json",
+   "count": 10,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "midtown",
+     "name": "Midtown",
+     "group": "",
+     "lat": 33.7838,
+     "lng": -84.383
+    },
+    {
+     "id": "downtown",
+     "name": "Downtown",
+     "group": "",
+     "lat": 33.755,
+     "lng": -84.39
+    },
+    {
+     "id": "old-fourth-ward",
+     "name": "Old Fourth Ward",
+     "group": "",
+     "lat": 33.7639,
+     "lng": -84.3725
+    },
+    {
+     "id": "inman-park",
+     "name": "Inman Park",
+     "group": "",
+     "lat": 33.7576,
+     "lng": -84.3527
+    },
+    {
+     "id": "virginia-highland",
+     "name": "Virginia-Highland",
+     "group": "",
+     "lat": 33.7808,
+     "lng": -84.354
+    },
+    {
+     "id": "grant-park",
+     "name": "Grant Park",
+     "group": "",
+     "lat": 33.7365,
+     "lng": -84.3714
+    },
+    {
+     "id": "kirkwood",
+     "name": "Kirkwood",
+     "group": "",
+     "lat": 33.7519,
+     "lng": -84.3226
+    },
+    {
+     "id": "west-end",
+     "name": "West End",
+     "group": "",
+     "lat": 33.7362,
+     "lng": -84.4133
+    },
+    {
+     "id": "buckhead",
+     "name": "Buckhead",
+     "group": "",
+     "lat": 33.8381,
+     "lng": -84.3796
+    },
+    {
+     "id": "decatur",
+     "name": "Decatur",
+     "group": "",
+     "lat": 33.7748,
+     "lng": -84.2963
+    },
+    {
+     "id": "sandy-springs",
+     "name": "Sandy Springs",
+     "group": "",
+     "lat": 33.9304,
+     "lng": -84.3733
+    },
+    {
+     "id": "marietta",
+     "name": "Marietta",
+     "group": "",
+     "lat": 33.9526,
+     "lng": -84.5499
+    }
+   ]
+  },
+  {
+   "id": "seattle",
+   "name": "Seattle",
+   "short": "Seattle",
+   "state": "WA",
+   "tz": "America/Los_Angeles",
+   "lat": 47.6062,
+   "lng": -122.3321,
+   "defaultArea": "downtown",
+   "events": "events/seattle.json",
+   "count": 13,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "downtown",
+     "name": "Downtown",
+     "group": "",
+     "lat": 47.6062,
+     "lng": -122.3321
+    },
+    {
+     "id": "capitol-hill",
+     "name": "Capitol Hill",
+     "group": "",
+     "lat": 47.6253,
+     "lng": -122.3222
+    },
+    {
+     "id": "queen-anne",
+     "name": "Queen Anne",
+     "group": "",
+     "lat": 47.6374,
+     "lng": -122.357
+    },
+    {
+     "id": "ballard",
+     "name": "Ballard",
+     "group": "",
+     "lat": 47.6687,
+     "lng": -122.3847
+    },
+    {
+     "id": "fremont",
+     "name": "Fremont",
+     "group": "",
+     "lat": 47.6509,
+     "lng": -122.3505
+    },
+    {
+     "id": "wallingford",
+     "name": "Wallingford",
+     "group": "",
+     "lat": 47.6615,
+     "lng": -122.3359
+    },
+    {
+     "id": "green-lake",
+     "name": "Green Lake",
+     "group": "",
+     "lat": 47.6798,
+     "lng": -122.3254
+    },
+    {
+     "id": "university-district",
+     "name": "University District",
+     "group": "",
+     "lat": 47.6615,
+     "lng": -122.3138
+    },
+    {
+     "id": "west-seattle",
+     "name": "West Seattle",
+     "group": "",
+     "lat": 47.5667,
+     "lng": -122.3868
+    },
+    {
+     "id": "columbia-city",
+     "name": "Columbia City",
+     "group": "",
+     "lat": 47.5598,
+     "lng": -122.2868
+    },
+    {
+     "id": "bellevue",
+     "name": "Bellevue",
+     "group": "",
+     "lat": 47.6101,
+     "lng": -122.2015
+    },
+    {
+     "id": "redmond",
+     "name": "Redmond",
+     "group": "",
+     "lat": 47.674,
+     "lng": -122.1215
+    }
+   ]
+  },
+  {
+   "id": "austin",
+   "name": "Austin",
+   "short": "Austin",
+   "state": "TX",
+   "tz": "America/Chicago",
+   "lat": 30.2672,
+   "lng": -97.7431,
+   "defaultArea": "downtown",
+   "events": "events/austin.json",
+   "count": 12,
+   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "areas": [
+    {
+     "id": "downtown",
+     "name": "Downtown",
+     "group": "",
+     "lat": 30.2672,
+     "lng": -97.7431
+    },
+    {
+     "id": "south-congress",
+     "name": "South Congress",
+     "group": "",
+     "lat": 30.249,
+     "lng": -97.7495
+    },
+    {
+     "id": "zilker",
+     "name": "Zilker",
+     "group": "",
+     "lat": 30.264,
+     "lng": -97.77
+    },
+    {
+     "id": "clarksville",
+     "name": "Clarksville",
+     "group": "",
+     "lat": 30.279,
+     "lng": -97.759
+    },
+    {
+     "id": "east-austin",
+     "name": "East Austin",
+     "group": "",
+     "lat": 30.264,
+     "lng": -97.718
+    },
+    {
+     "id": "mueller",
+     "name": "Mueller",
+     "group": "",
+     "lat": 30.2985,
+     "lng": -97.706
+    },
+    {
+     "id": "hyde-park",
+     "name": "Hyde Park",
+     "group": "",
+     "lat": 30.3049,
+     "lng": -97.729
+    },
+    {
+     "id": "north-loop",
+     "name": "North Loop",
+     "group": "",
+     "lat": 30.319,
+     "lng": -97.723
+    },
+    {
+     "id": "allandale",
+     "name": "Allandale",
+     "group": "",
+     "lat": 30.3449,
+     "lng": -97.747
+    },
+    {
+     "id": "circle-c",
+     "name": "Circle C",
+     "group": "",
+     "lat": 30.194,
+     "lng": -97.881
+    },
+    {
+     "id": "round-rock",
+     "name": "Round Rock",
+     "group": "",
+     "lat": 30.5083,
+     "lng": -97.6789
+    },
+    {
+     "id": "cedar-park",
+     "name": "Cedar Park",
+     "group": "",
+     "lat": 30.5052,
+     "lng": -97.8203
+    }
+   ]
+  }
+ ]
+}

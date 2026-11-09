@@ -1,0 +1,543 @@
+{
+ "version": 1,
+ "city": "philadelphia",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "philadelphia-orchestra-sound-all-around-horn",
+   "city": "philadelphia",
+   "title": "Sound All Around: Horn",
+   "organizer": "The Philadelphia Orchestra (Ensemble Arts Philly)",
+   "type": "Music",
+   "venue": "Commonwealth Plaza, Kimmel Center",
+   "address": "300 South Broad Street, Philadelphia, PA 19102",
+   "neighborhood": "Avenue of the Arts",
+   "borough": "Philadelphia",
+   "lat": 39.9466,
+   "lng": -75.1652,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "Ages 2 to 6",
+   "sessions": [
+    {
+     "start": "2026-12-12T10:00:00-05:00",
+     "end": null
+    }
+   ],
+   "schedule": "Sat Dec 12 to Mon Dec 14, first show 10am",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy online or call Ticket Sales at 215-893-1999. Pick three or more Sound All Around shows in one package to save."
+   },
+   "url": "https://philorch.ensembleartsphilly.org/philadelphia-orchestra-series-and-subscriptions/sound-all-around/horn",
+   "description": "Host Carol Jantsch and horn player Victoria Knudtson use story and music to introduce the French horn. Kids hear its heroic and magical sounds up close.",
+   "tags": [
+    "toddlers",
+    "preschool",
+    "music",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Dates Dec 12-14, 2026, Commonwealth Plaza venue, host Carol Jantsch, horn player Victoria Knudtson and phone line confirmed on the philorch.ensembleartsphilly.org Horn page and the Sound All Around series page (package of 3+ saves). The page shows no per-show times. Its event metadata gives a 10:00 AM start on Dec 12 and an 11:15 AM end on Dec 14, so only the Dec 12 10 AM start is listed. Ages 2-6 from the Orchestra's 2026-27 season press release ('curated for ages two to six'). Prices not shown.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "philadelphia-orchestra-sound-all-around-percussion",
+   "city": "philadelphia",
+   "title": "Sound All Around: Percussion",
+   "organizer": "The Philadelphia Orchestra (Ensemble Arts Philly)",
+   "type": "Music",
+   "venue": "Commonwealth Plaza, Kimmel Center",
+   "address": "300 South Broad Street, Philadelphia, PA 19102",
+   "neighborhood": "Avenue of the Arts",
+   "borough": "Philadelphia",
+   "lat": 39.9466,
+   "lng": -75.1652,
+   "ageMinMonths": 24,
+   "ageMaxMonths": 72,
+   "ageLabel": "Ages 2 to 6",
+   "sessions": [
+    {
+     "start": "2027-02-06T10:00:00-05:00",
+     "end": null
+    }
+   ],
+   "schedule": "Sat Feb 6 to Mon Feb 8, first show 10am",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy online or call Ticket Sales at 215-893-1999. Pick three or more Sound All Around shows in one package to save."
+   },
+   "url": "https://philorch.ensembleartsphilly.org/philadelphia-orchestra-series-and-subscriptions/sound-all-around/percussion-3",
+   "description": "An interactive percussion party hosted by Carol Jantsch. Kids explore the many sounds of the percussion family and how percussion players keep the orchestra on the beat.",
+   "tags": [
+    "toddlers",
+    "preschool",
+    "music",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Dates Feb 6-8, 2027, Commonwealth Plaza venue, host and description confirmed on the philorch.ensembleartsphilly.org Percussion page and the series page. The page shows no per-show times. Its event metadata gives a 10:00 AM start on Feb 6 and an 11:15 AM end on Feb 8, so only the Feb 6 10 AM start is listed. Ages 2-6 from the Orchestra's 2026-27 season press release. Prices not shown.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "philadelphia-morris-arboretum-nighttime-express",
+   "city": "philadelphia",
+   "title": "Holiday Garden Railway: Nighttime Express",
+   "organizer": "Morris Arboretum & Gardens of the University of Pennsylvania",
+   "type": "Holiday",
+   "venue": "Morris Arboretum & Gardens",
+   "address": "100 E Northwestern Avenue, Philadelphia, PA 19118",
+   "neighborhood": "Chestnut Hill",
+   "borough": "Philadelphia",
+   "lat": 40.0875,
+   "lng": -75.2232,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, free for kids 2 and under",
+   "sessions": [
+    {
+     "start": "2026-11-28T16:30:00-05:00",
+     "end": "2026-11-28T20:00:00-05:00"
+    },
+    {
+     "start": "2026-11-29T16:30:00-05:00",
+     "end": "2026-11-29T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-05T16:30:00-05:00",
+     "end": "2026-12-05T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-06T16:30:00-05:00",
+     "end": "2026-12-06T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-10T16:30:00-05:00",
+     "end": "2026-12-10T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-11T16:30:00-05:00",
+     "end": "2026-12-11T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-12T16:30:00-05:00",
+     "end": "2026-12-12T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-13T16:30:00-05:00",
+     "end": "2026-12-13T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-17T16:30:00-05:00",
+     "end": "2026-12-17T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-18T16:30:00-05:00",
+     "end": "2026-12-18T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-19T16:30:00-05:00",
+     "end": "2026-12-19T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-20T16:30:00-05:00",
+     "end": "2026-12-20T20:00:00-05:00"
+    }
+   ],
+   "schedule": "Select Thu to Sun nights, Nov 28 to Dec 20, 4:30pm to 8pm",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 22,
+   "priceLabel": "$22 adults, $12 ages 3 to 17, free 2 and under, members less",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": "2026-11-09T00:00:00-05:00",
+    "closesAt": null,
+    "status": "upcoming",
+    "note": "General tickets go on sale Nov 9. Members can buy now. Tickets are timed, so pick an arrival time and get there within 15 minutes of it to avoid a parking wait.",
+    "timeKnown": false
+   },
+   "url": "https://www.morrisarboretum.org/see-do/events/hgr-nighttime-express",
+   "description": "The garden railway after dark. Model trains run past laser lights in the trees and sparkling lights along the track. Trains stop in heavy rain, snow or ice.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "trains",
+    "lights",
+    "evening"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Nights (Sat Nov 28, Dec 5, 12, 19; Sun Nov 29, Dec 6, 13, 20; Thu Dec 10, 17; Fri Dec 11, 18), 4:30-8:00 PM, prices (adult $22 / member $17, youth 3-17 $12 / member $10, 0-2 free), advance timed tickets and 'General Tickets Available November 9' (no time given) confirmed on morrisarboretum.org HGR Nighttime Express and Holiday Garden Railway pages and the homepage. The event header says Dec 10-20, but Nov 28-29 nights are also listed. Supporter+ member-only nights Dec 3-4 are left out.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "philadelphia-morris-arboretum-holiday-garden-railway",
+   "city": "philadelphia",
+   "title": "Holiday Garden Railway",
+   "organizer": "Morris Arboretum & Gardens of the University of Pennsylvania",
+   "type": "Holiday",
+   "venue": "Morris Arboretum & Gardens",
+   "address": "100 E Northwestern Avenue, Philadelphia, PA 19118",
+   "neighborhood": "Chestnut Hill",
+   "borough": "Philadelphia",
+   "lat": 40.0875,
+   "lng": -75.2232,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, free for kids 2 and under",
+   "sessions": [
+    {
+     "start": "2026-11-21T10:00:00-05:00",
+     "end": "2026-11-21T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-22T10:00:00-05:00",
+     "end": "2026-11-22T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-23T10:00:00-05:00",
+     "end": "2026-11-23T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-24T10:00:00-05:00",
+     "end": "2026-11-24T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-25T10:00:00-05:00",
+     "end": "2026-11-25T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-26T10:00:00-05:00",
+     "end": "2026-11-26T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-27T10:00:00-05:00",
+     "end": "2026-11-27T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00-05:00",
+     "end": "2026-11-28T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-29T10:00:00-05:00",
+     "end": "2026-11-29T16:00:00-05:00"
+    },
+    {
+     "start": "2026-11-30T10:00:00-05:00",
+     "end": "2026-11-30T16:00:00-05:00"
+    },
+    {
+     "start": "2026-12-01T10:00:00-05:00",
+     "end": "2026-12-01T16:00:00-05:00"
+    },
+    {
+     "start": "2026-12-02T10:00:00-05:00",
+     "end": "2026-12-02T16:00:00-05:00"
+    }
+   ],
+   "schedule": "Daily Nov 21 to Dec 30, 10am to 4pm (closed Dec 24 and 25)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 22,
+   "priceLabel": "$22 adults, $12 ages 3 to 17, free 2 and under",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Daytime viewing is included with garden admission and needs no separate ticket. Buying admission online saves $2 per ticket."
+   },
+   "url": "https://morrisarboretum.org/see-do/holiday-garden-railway",
+   "description": "A third of a mile of model train track with loops and tunnels, set among plants and twinkling lights. The path is stroller accessible but narrow, with a downhill slope.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "trains",
+    "babies",
+    "toddlers"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Daily 10 AM-4 PM viewing included with general admission ($22 adults, $20 seniors, $12 youth 3-17, 2 and under free, $2 online savings), closures Dec 24, 25, 31 and Jan 1, stroller note and track description confirmed on morrisarboretum.org Holiday Garden Railway page and homepage. Opening date conflict on the organizer site: the homepage and page header say Nov 21, the FAQ says Nov 22. Sessions follow Nov 21 and cover the first 12 days. Thanksgiving hours are not stated separately.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "philadelphia-zoo-luminature",
+   "city": "philadelphia",
+   "title": "LumiNature",
+   "organizer": "Philadelphia Zoo",
+   "type": "Holiday",
+   "venue": "Philadelphia Zoo",
+   "address": "3400 W Girard Avenue, Philadelphia, PA 19104",
+   "neighborhood": "Fairmount Park",
+   "borough": "Philadelphia",
+   "lat": 39.9713,
+   "lng": -75.1955,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Families",
+   "sessions": [
+    {
+     "start": "2026-11-19T17:00:00-05:00",
+     "end": "2026-11-19T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-31T17:00:00-05:00",
+     "end": "2026-12-31T21:00:00-05:00"
+    }
+   ],
+   "schedule": "Select nights Nov 19 to Jan 9, 5pm to 9pm",
+   "recurring": false,
+   "priceMin": 27,
+   "priceMax": 34,
+   "priceLabel": "$27 to $31 general, $29 to $34 anytime, members save 10 to 20%",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Reserve online in advance. Prices change by night. Closed Dec 24, Dec 25 and Jan 1. Parking is $22 and free for members."
+   },
+   "url": "https://philadelphiazoo.org/luminature",
+   "description": "More than a million lights fill the zoo after dark. Visit Santa Claws the lion at his lodge, follow clues in the Book of Wishes and ride the 110-foot Pherris Wheel.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "lights",
+    "evening"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Season Nov 19, 2026 to Jan 9, 2027, select nights 5-9 PM, closed Dec 24, 25 and Jan 1, open Dec 31, advance online reservations required, prices (general $27-31, anytime $29-34, members 10-20% off, parking $22) and highlights confirmed on philadelphiazoo.org/luminature. The page names no year for Nov 19, but its Dec 31, 2026 and Sat Dec 5 cocktail walk dates fix the season. The nightly calendar lives on the ticketing site, which was not reachable, so sessions list only opening night and Dec 31. Child and under-2 pricing are not stated. The LumiNature FAQ page still shows 2025-26 dates.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "philadelphia-flp-northeast-regional-read-baby-read",
+   "city": "philadelphia",
+   "title": "Read, Baby, Read Baby Storytime",
+   "organizer": "Free Library of Philadelphia",
+   "type": "Story time",
+   "venue": "Northeast Regional Library",
+   "address": "2228 Cottman Avenue, Philadelphia, PA 19149",
+   "neighborhood": "Northeast Philadelphia",
+   "borough": "Philadelphia",
+   "lat": 40.0484,
+   "lng": -75.062,
+   "ageMinMonths": 6,
+   "ageMaxMonths": 48,
+   "ageLabel": "Best for 6 months to 4 years, siblings welcome",
+   "sessions": [
+    {
+     "start": "2026-11-07T11:00:00-05:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-14T11:00:00-05:00",
+     "end": null
+    },
+    {
+     "start": "2026-11-21T11:00:00-05:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-05T11:00:00-05:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-12T11:00:00-05:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-19T11:00:00-05:00",
+     "end": null
+    }
+   ],
+   "schedule": "Saturdays at 11am through Dec 19 (none Nov 28)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Questions go to the children's desk at 215-685-0509."
+   },
+   "url": "https://libwww.freelibrary.org/calendar/event/177480",
+   "description": "A family storytime full of stories, songs, bounces and rhymes for babies and toddlers.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "library",
+    "weekend"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Saturday 11 AM program running Sept 12 to Dec 19 with no storytime Nov 28, ages 6 months to 4 years, description and phone confirmed on freelibrary.org event page 177480. The Nov 21, Dec 5, 12 and 19 dates also appear in the Free Library calendar search for 'read, baby, read'. Nov 7 and Nov 14 follow the stated Saturday schedule. No end time and no registration rule are given.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "philadelphia-flp-pci-read-baby-read",
+   "city": "philadelphia",
+   "title": "Read, Baby, Read Storytime",
+   "organizer": "Free Library of Philadelphia",
+   "type": "Story time",
+   "venue": "Philadelphia City Institute",
+   "address": "1905 Locust Street, Philadelphia, PA 19103",
+   "neighborhood": "Rittenhouse Square",
+   "borough": "Philadelphia",
+   "lat": 39.949,
+   "lng": -75.173,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 24,
+   "ageLabel": "Babies with their grown-ups",
+   "sessions": [
+    {
+     "start": "2026-12-02T10:30:00-05:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-09T10:30:00-05:00",
+     "end": null
+    },
+    {
+     "start": "2026-12-16T10:30:00-05:00",
+     "end": null
+    }
+   ],
+   "schedule": "Wednesdays at 10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Questions go to the library at 215-685-6621."
+   },
+   "url": "https://libwww.freelibrary.org/calendar/event/183958",
+   "description": "Bounces, songs and stories that build early literacy in babies, followed by baby playtime.",
+   "tags": [
+    "free",
+    "babies",
+    "library",
+    "indoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Dec 2, 9 and 16, 2026 sessions at 10:30 AM at Philadelphia City Institute come from the Free Library calendar search listing for 'read, baby, read' (event IDs 183958-183960). Those event pages returned errors when fetched. Description and phone come from the same program's summer 2026 page (calendar id 169702), which says it is 'specifically geared towards building early literacy in babies' and leaves the Ages field blank. ageMaxMonths 24 is an approximation for 'babies'. November dates were on a listing page that could not be loaded.",
+   "addedBy": "claude"
+  },
+  {
+   "id": "philadelphia-smith-memorial-playground",
+   "city": "philadelphia",
+   "title": "Smith Memorial Playground & Playhouse",
+   "organizer": "Smith Memorial Playground & Playhouse",
+   "type": "Play",
+   "venue": "Smith Memorial Playground & Playhouse",
+   "address": "3500 Reservoir Drive, Philadelphia, PA 19121",
+   "neighborhood": "East Fairmount Park",
+   "borough": "Philadelphia",
+   "lat": 39.9858,
+   "lng": -75.1888,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Kids with their grown-ups",
+   "sessions": [
+    {
+     "start": "2026-11-05T10:00:00-05:00",
+     "end": "2026-11-05T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-06T10:00:00-05:00",
+     "end": "2026-11-06T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-07T10:00:00-05:00",
+     "end": "2026-11-07T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-08T10:00:00-05:00",
+     "end": "2026-11-08T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-10T10:00:00-05:00",
+     "end": "2026-11-10T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-11T10:00:00-05:00",
+     "end": "2026-11-11T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T10:00:00-05:00",
+     "end": "2026-11-12T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-13T10:00:00-05:00",
+     "end": "2026-11-13T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-14T10:00:00-05:00",
+     "end": "2026-11-14T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-15T10:00:00-05:00",
+     "end": "2026-11-15T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-17T10:00:00-05:00",
+     "end": "2026-11-17T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-18T10:00:00-05:00",
+     "end": "2026-11-18T17:00:00-05:00"
+    }
+   ],
+   "schedule": "Tue to Sun 10am to 5pm, closed Mondays (Oct to Mar)",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Always free to visit. The site sometimes closes for private events or upkeep, so check before heading out."
+   },
+   "url": "https://smithplayground.org/",
+   "description": "A three-floor indoor Playhouse plus 6 1/2 acres of outdoor play zones for climbing, swinging and spinning in East Fairmount Park.",
+   "tags": [
+    "free",
+    "indoor",
+    "outdoor",
+    "playground"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "October-March hours (Tue-Sun 10 AM-5 PM, always closed Mondays), free admission, occasional closures, address, three-floor Playhouse and 6.5-acre playground confirmed on the smithplayground.org homepage. The homepage states no age limits, so 0-216 is a placeholder. Sessions are the next open days by those hours. A Noon Year's Eve page exists but its details could not be loaded.",
+   "addedBy": "claude"
+  }
+ ]
+}

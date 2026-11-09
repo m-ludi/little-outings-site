@@ -1,0 +1,647 @@
+{
+ "version": 1,
+ "city": "dc",
+ "updatedAt": "2026-11-05T03:13:15+00:00",
+ "events": [
+  {
+   "id": "dc-national-zoo-zoolights",
+   "title": "ZooLights",
+   "organizer": "Smithsonian's National Zoo and Conservation Biology Institute",
+   "type": "Holiday",
+   "venue": "Smithsonian's National Zoo",
+   "address": "3001 Connecticut Ave NW, Washington, DC 20008",
+   "neighborhood": "Woodley Park",
+   "borough": "Washington",
+   "lat": 38.9296,
+   "lng": -77.0498,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages. Kids 2 and under are free",
+   "sessions": [
+    {
+     "start": "2026-11-20T17:00:00-05:00",
+     "end": "2026-11-20T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-05T17:00:00-05:00",
+     "end": "2026-12-05T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-06T17:00:00-05:00",
+     "end": "2026-12-06T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-12T17:00:00-05:00",
+     "end": "2026-12-12T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-19T17:00:00-05:00",
+     "end": "2026-12-19T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-22T17:00:00-05:00",
+     "end": "2026-12-22T21:00:00-05:00"
+    },
+    {
+     "start": "2026-12-26T17:00:00-05:00",
+     "end": "2026-12-26T21:00:00-05:00"
+    },
+    {
+     "start": "2027-01-03T17:00:00-05:00",
+     "end": "2027-01-03T20:00:00-05:00"
+    }
+   ],
+   "schedule": "Nov 20 to Jan 3. Mon to Sat 5-9pm, Sun 5-8pm",
+   "recurring": false,
+   "priceMin": 10,
+   "priceMax": 10,
+   "priceLabel": "$10, kids 2 and under free. Parking $30 ahead, $40 day-of",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Buy tickets and parking passes online before you go. Nights and parking often sell out. Zoo members can reserve up to six free tickets for Member Nights on Dec 8 and 9."
+   },
+   "url": "https://www.nationalzoo.si.edu/visit/events/zoolights",
+   "description": "The zoo glows after dark with animal lanterns and holiday lights. Saturdays in December bring roaming carolers, and select nights add live music and trivia.",
+   "tags": [
+    "holiday",
+    "outdoor",
+    "evening",
+    "toddlers"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "From the nationalzoo.si.edu ZooLights page (2026-27 season, also served at /node/16730): run Nov 20, 2026 to Jan 3, 2027, hours Mon-Sat 5-9pm and Sun 5-8pm with last entry 30 min before close, $10 general admission, ages 3+ need a ticket and 2 and under free, parking $30 advance and $40 day-of, Member Nights Dec 8-9 ($0, up to 6 tickets), Adults-Only Night Dec 16, Saturday carolers in December, trivia nights Dec 6-22, sell-out warning, Book Your Tickets section live. No on-sale date stated and closed nights inside the run are not listed, so sessions are only opening night, closing night and nights the page names (Dec 5/12/19/26 carolers, Dec 6 and Dec 22 trivia). Extras: maze $6, train $6, carousel $6.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-us-botanic-garden-seasons-greenings",
+   "title": "Season's Greenings: National Parks and Historic Places",
+   "organizer": "United States Botanic Garden",
+   "type": "Holiday",
+   "venue": "U.S. Botanic Garden Conservatory and Outdoor Gardens",
+   "address": "100 Maryland Ave SW, Washington, DC 20001",
+   "neighborhood": "National Mall",
+   "borough": "Washington",
+   "lat": 38.8882,
+   "lng": -77.0129,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages",
+   "sessions": [
+    {
+     "start": "2026-11-26T10:00:00-05:00",
+     "end": "2026-11-26T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-27T10:00:00-05:00",
+     "end": "2026-11-27T17:00:00-05:00"
+    },
+    {
+     "start": "2026-11-28T10:00:00-05:00",
+     "end": "2026-11-28T17:00:00-05:00"
+    },
+    {
+     "start": "2026-12-08T10:00:00-05:00",
+     "end": "2026-12-08T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-10T10:00:00-05:00",
+     "end": "2026-12-10T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-15T10:00:00-05:00",
+     "end": "2026-12-15T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-17T10:00:00-05:00",
+     "end": "2026-12-17T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-22T10:00:00-05:00",
+     "end": "2026-12-22T20:00:00-05:00"
+    },
+    {
+     "start": "2026-12-29T10:00:00-05:00",
+     "end": "2026-12-29T20:00:00-05:00"
+    },
+    {
+     "start": "2027-01-03T10:00:00-05:00",
+     "end": "2027-01-03T17:00:00-05:00"
+    }
+   ],
+   "schedule": "Nov 26 to Jan 3, daily 10am-5pm. Open to 8pm on select Tue and Thu",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free, no tickets needed",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "No tickets or reservations are needed. Strollers are welcome. The garden is closed Dec 25, and the outdoor trains may pause in bad weather."
+   },
+   "url": "https://www.usbg.gov/holiday",
+   "description": "Model trains wind past plant-made replicas of national parks and landmarks like the Grand Canyon and the Statue of Liberty. Evening nights add live holiday music.",
+   "tags": [
+    "free",
+    "holiday",
+    "trains",
+    "indoor",
+    "outdoor"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "From usbg.gov/holiday (2026 show): Nov 26, 2026 to Jan 3, 2027, Conservatory and outdoor train display 10am-5pm daily, closed Dec 25, open to 8pm with live music 5-8pm on Dec 8, 10, 15, 17, 22 and 29, free with no tickets for any area, trains may not run in bad weather, strollers welcome, address 100 Maryland Ave SW. Sessions are opening weekend, all six evening nights and closing day.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-us-botanic-garden-sensory-friendly-morning",
+   "title": "Sensory-Friendly Morning at the Garden",
+   "organizer": "United States Botanic Garden",
+   "type": "Holiday",
+   "venue": "U.S. Botanic Garden Outdoor Gardens and Conservatory",
+   "address": "100 Maryland Ave SW, Washington, DC 20001",
+   "neighborhood": "National Mall",
+   "borough": "Washington",
+   "lat": 38.8882,
+   "lng": -77.0129,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "All ages, for visitors with sensory needs",
+   "sessions": [
+    {
+     "start": "2026-12-05T10:00:00-05:00"
+    }
+   ],
+   "schedule": "Sat Dec 5, gardens open at 10am for registered guests",
+   "recurring": false,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Free RSVP",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Registration is required for early entry. Sign up through the link on the holiday exhibit page. A sensory-friendly evening follows on Jan 2."
+   },
+   "url": "https://www.usbg.gov/holiday",
+   "description": "A calmer way to see the holiday train show. Registered families get early entry, pre-visit materials and a quiet take-a-break space.",
+   "tags": [
+    "free",
+    "sensory-friendly",
+    "holiday",
+    "trains"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "From usbg.gov/holiday: sensory-friendly programs give early entrance for registered participants, pre-visit materials and a take-a-break space. On Dec 5 the gated outdoor gardens open at 10am for this programming. A Dec 5 registration link is on the page. Sensory-Friendly Evening Jan 2, 2027 has no time listed. No ages, capacity, end time or registration opening date given. Status open is based on the live registration link.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-dcpl-mlk-toddler-story-time",
+   "title": "Toddler Story Time",
+   "organizer": "DC Public Library",
+   "type": "Story time",
+   "venue": "Martin Luther King Jr. Memorial Library, Children's Amphitheatre",
+   "address": "901 G St NW, Washington, DC 20001",
+   "neighborhood": "Penn Quarter",
+   "borough": "Washington",
+   "lat": 38.8986,
+   "lng": -77.025,
+   "ageMinMonths": 18,
+   "ageMaxMonths": 36,
+   "ageLabel": "18 to 36 months with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-05T11:00:00-05:00",
+     "end": "2026-11-05T11:30:00-05:00"
+    },
+    {
+     "start": "2026-11-10T11:00:00-05:00",
+     "end": "2026-11-10T11:30:00-05:00"
+    },
+    {
+     "start": "2026-11-12T11:00:00-05:00",
+     "end": "2026-11-12T11:30:00-05:00"
+    }
+   ],
+   "schedule": "Tue and Thu, 11-11:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free tickets are handed out first come, first served when the library opens that day. Space is limited. Groups from schools or daycares should call ahead."
+   },
+   "url": "https://dclibrary.libnet.info/event/15427843",
+   "description": "A 20 to 30 minute session of books, songs and movement for toddlers and their grown-ups. Activities build early language and motor skills.",
+   "tags": [
+    "free",
+    "toddlers",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DCPL event pages 16692056, 16692053 and 15427843 give the age (18-36 months), room, 20-30 min format and same-day first-come ticket rule. Their upcoming-events sidebars list MLK Toddler Story Time on Thu Nov 5, Tue Nov 10 and Thu Nov 12, 11-11:30am (sidebar weekdays match 2026). The sidebar stops at Nov 16, so later dates are not listed. The url is an earlier session page in the same series.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-dcpl-mlk-baby-lap-time",
+   "title": "Baby Lap Time",
+   "organizer": "DC Public Library",
+   "type": "Story time",
+   "venue": "Martin Luther King Jr. Memorial Library, Children's Amphitheatre",
+   "address": "901 G St NW, Washington, DC 20001",
+   "neighborhood": "Penn Quarter",
+   "borough": "Washington",
+   "lat": 38.8986,
+   "lng": -77.025,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Babies not yet walking, with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-05T13:00:00-05:00",
+     "end": "2026-11-05T13:30:00-05:00"
+    },
+    {
+     "start": "2026-11-12T13:00:00-05:00",
+     "end": "2026-11-12T13:30:00-05:00"
+    }
+   ],
+   "schedule": "Thursdays, 1-1:30pm",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free tickets are handed out first come, first served when the library opens that day. Each baby should come with their own adult."
+   },
+   "url": "https://dclibrary.libnet.info/event/17701379",
+   "description": "Books, songs, rhymes and bounces for the youngest listeners. Babies sit in a grown-up's lap, and adults join in the fun.",
+   "tags": [
+    "free",
+    "babies",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DCPL event pages 15427855 and 13133889 give the pre-walking age, lap format, 15-25 min length and same-day first-come ticket rule. Sidebar lists MLK Baby Lap Time on Thu Nov 5 (event 17701379) and Thu Nov 12 (event 17701380), 1-1:30pm. The organizer gives no age in months, so ageMaxMonths 12 approximates pre-walking.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-dcpl-mlk-family-story-time",
+   "title": "Family Story Time",
+   "organizer": "DC Public Library",
+   "type": "Story time",
+   "venue": "Martin Luther King Jr. Memorial Library, Children's Amphitheatre",
+   "address": "901 G St NW, Washington, DC 20001",
+   "neighborhood": "Penn Quarter",
+   "borough": "Washington",
+   "lat": 38.8986,
+   "lng": -77.025,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 60,
+   "ageLabel": "Ages 0 to 5 with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-07T11:00:00-05:00",
+     "end": "2026-11-07T11:30:00-05:00"
+    },
+    {
+     "start": "2026-11-14T11:00:00-05:00",
+     "end": "2026-11-14T11:30:00-05:00"
+    }
+   ],
+   "schedule": "Saturdays, 11-11:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": true,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free tickets are handed out first come, first served when the library opens that day. Groups should call ahead."
+   },
+   "url": "https://dclibrary.libnet.info/event/17078277",
+   "description": "A lively weekend story time with books, songs, rhymes and movement. Families are encouraged to join in together.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DCPL event page 17078277 gives Birth-5 ages, 25-30 min format and the first-come ticket rule. Its sidebar lists the next MLK sessions on Sat Nov 7 and Sat Nov 14, 11-11:30am. The url is an earlier session page in the same series.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-dcpl-takoma-park-baby-lap-time",
+   "title": "Baby Lap Time",
+   "organizer": "DC Public Library",
+   "type": "Story time",
+   "venue": "Takoma Park Neighborhood Library, Meeting Room",
+   "address": "416 Cedar St NW, Washington, DC 20012",
+   "neighborhood": "Takoma",
+   "borough": "Washington",
+   "lat": 38.9765,
+   "lng": -77.0182,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Babies not yet walking, with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-05T13:30:00-05:00",
+     "end": "2026-11-05T14:00:00-05:00"
+    },
+    {
+     "start": "2026-11-12T13:30:00-05:00",
+     "end": "2026-11-12T14:00:00-05:00"
+    }
+   ],
+   "schedule": "Thursdays, 1:30-2pm",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. The meeting room is small, so arrive a few minutes early."
+   },
+   "url": "https://dclibrary.libnet.info/event/7466471",
+   "description": "A short neighborhood story time with lap songs, rhymes and board books for pre-walkers and their grown-ups.",
+   "tags": [
+    "free",
+    "babies",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DCPL sidebar on event pages 7466471 and 13133889 lists 'Baby Lap Time - For Pre-walking Babies' at Takoma Park Neighborhood Library, Meeting Room (1-25 person capacity), Thu Nov 5 and Thu Nov 12, 1:30-2pm. Branch ticket or sign-up rule was not shown, so Walk-in is an assumption. Street address and coordinates are from general knowledge, not the fetched page. Format wording follows the DCPL Baby Lap Time description on the MLK pages.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-dcpl-chevy-chase-baby-lap-time",
+   "title": "Baby Lap Time",
+   "organizer": "DC Public Library",
+   "type": "Story time",
+   "venue": "Chevy Chase Neighborhood Library",
+   "address": "5625 Connecticut Ave NW, Washington, DC 20015",
+   "neighborhood": "Chevy Chase",
+   "borough": "Washington",
+   "lat": 38.9653,
+   "lng": -77.0764,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 12,
+   "ageLabel": "Babies with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-09T10:00:00-05:00",
+     "end": "2026-11-09T10:30:00-05:00"
+    },
+    {
+     "start": "2026-11-16T10:00:00-05:00",
+     "end": "2026-11-16T10:30:00-05:00"
+    }
+   ],
+   "schedule": "Mondays, 10-10:30am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Arrive a few minutes early to get settled before songs start."
+   },
+   "url": "https://dclibrary.libnet.info/event/7466471",
+   "description": "A Monday morning lap-time for babies and caregivers near the Maryland line. Expect songs, rhymes and gentle bounces.",
+   "tags": [
+    "free",
+    "babies",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DCPL sidebar on event pages 7466471 and 13133889 lists 'Baby Lap Time' at Chevy Chase Neighborhood Library on Mon Nov 9 and Mon Nov 16, 10-10:30am. No subtitle or age shown for this branch, so the 0-12 month range follows DCPL's pre-walker Baby Lap Time description. Walk-in is assumed. Street address and coordinates are from general knowledge.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-dcpl-northeast-baby-toddler-story-time",
+   "title": "Baby & Toddler Story Time",
+   "organizer": "DC Public Library",
+   "type": "Story time",
+   "venue": "Northeast Neighborhood Library, Meeting Room 1",
+   "address": "330 7th St NE, Washington, DC 20002",
+   "neighborhood": "Capitol Hill",
+   "borough": "Washington",
+   "lat": 38.8941,
+   "lng": -76.9966,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 36,
+   "ageLabel": "Babies and toddlers with a grown-up",
+   "sessions": [
+    {
+     "start": "2026-11-10T09:15:00-05:00",
+     "end": "2026-11-10T09:45:00-05:00"
+    }
+   ],
+   "schedule": "Tue Nov 10, 9:15-9:45am",
+   "recurring": true,
+   "priceMin": 0,
+   "priceMax": 0,
+   "priceLabel": "Free",
+   "registration": {
+    "required": false,
+    "method": "Walk-in",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "none",
+    "note": "Free. Come a few minutes early for this early-morning session."
+   },
+   "url": "https://dclibrary.libnet.info/event/7466471",
+   "description": "An early-morning Capitol Hill story time for babies and toddlers and their grown-ups. The same branch also hosts a Saturday family story time with an ASL interpreter.",
+   "tags": [
+    "free",
+    "babies",
+    "toddlers",
+    "indoor",
+    "library"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "DCPL sidebar on event pages 7466471 and 13133889 lists 'Baby & Toddler Story Time' at Northeast Neighborhood Library, Meeting Room 1, Tue Nov 10, 9:15-9:45am. The same branch also has Baby Lap Time Fri Nov 6 and 13, 3-4pm, and Family Story Time With ASL Interpreter Sat Nov 7 and 14, 11-11:30am. Age range 0-36 months is inferred from the program name. Walk-in assumed. Address from general knowledge.",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-national-childrens-museum",
+   "title": "National Children's Museum",
+   "organizer": "National Children's Museum",
+   "type": "Museum",
+   "venue": "National Children's Museum, Woodrow Wilson Plaza",
+   "address": "1300 Pennsylvania Ave NW, Washington, DC 20004",
+   "neighborhood": "Federal Triangle",
+   "borough": "Washington",
+   "lat": 38.894,
+   "lng": -77.0311,
+   "ageMinMonths": 0,
+   "ageMaxMonths": 216,
+   "ageLabel": "Kids and families. Babies under 1 free",
+   "sessions": [
+    {
+     "start": "2026-11-05T09:30:00-05:00",
+     "end": "2026-11-05T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-06T09:30:00-05:00",
+     "end": "2026-11-06T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-07T09:30:00-05:00",
+     "end": "2026-11-07T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-08T09:30:00-05:00",
+     "end": "2026-11-08T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-09T09:30:00-05:00",
+     "end": "2026-11-09T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-11T09:30:00-05:00",
+     "end": "2026-11-11T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-12T09:30:00-05:00",
+     "end": "2026-11-12T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-13T09:30:00-05:00",
+     "end": "2026-11-13T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-14T09:30:00-05:00",
+     "end": "2026-11-14T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-15T09:30:00-05:00",
+     "end": "2026-11-15T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-16T09:30:00-05:00",
+     "end": "2026-11-16T16:30:00-05:00"
+    },
+    {
+     "start": "2026-11-18T09:30:00-05:00",
+     "end": "2026-11-18T16:30:00-05:00"
+    }
+   ],
+   "schedule": "Mon and Wed to Sun, 9:30am-4:30pm. Closed Tuesdays",
+   "recurring": true,
+   "priceMin": 19.95,
+   "priceMax": 23.95,
+   "priceLabel": "$19.95, or $23.95 at peak times. Under 1 free",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Get tickets on the museum website. Adults and kids 1 and up pay the same price. Peak pricing applies on busy days and holiday breaks."
+   },
+   "url": "https://nationalchildrensmuseum.org/",
+   "description": "Hands-on exhibits let kids climb, build and experiment at their own pace. Highlights include the Dream Machine, Data Science Alley and a visiting dinosaur exhibit.",
+   "tags": [
+    "indoor",
+    "babies",
+    "toddlers",
+    "hands-on"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "From the nationalchildrensmuseum.org homepage: open Mon and Wed-Sun 9:30am-4:30pm, closed Tuesdays, admission $19.95 adults and children 1+, $23.95 peak (busy periods, extended-hours days, holiday breaks), under 1 and members free, address, featured exhibits. Extended hours Nov 25-29 with Nov 26 closed appear without a year, so sessions skip that week. Whether advance tickets are mandatory is not stated. No overall age range given (visiting dinosaur hall is 3-10).",
+   "addedBy": "claude",
+   "city": "dc"
+  },
+  {
+   "id": "dc-discovery-theater-little-red-gingerbread",
+   "title": "Little Red & Gingerbread",
+   "organizer": "Smithsonian Associates Discovery Theater",
+   "type": "Theater",
+   "venue": "Discovery Theater, S. Dillon Ripley Center (3rd sublevel)",
+   "address": "1100 Jefferson Dr SW, Washington, DC",
+   "neighborhood": "National Mall",
+   "borough": "Washington",
+   "lat": 38.8881,
+   "lng": -77.0262,
+   "ageMinMonths": 36,
+   "ageMaxMonths": 84,
+   "ageLabel": "Ages 3 to 7",
+   "sessions": [
+    {
+     "start": "2026-12-09T10:00:00-05:00",
+     "end": "2026-12-09T10:45:00-05:00"
+    }
+   ],
+   "schedule": "Wed Dec 9, 10am (45 min). More dates on the theater calendar",
+   "recurring": false,
+   "priceMin": null,
+   "priceMax": null,
+   "priceLabel": "See the official page for prices",
+   "registration": {
+    "required": true,
+    "method": "Tickets",
+    "opensAt": null,
+    "closesAt": null,
+    "status": "open",
+    "note": "Tickets for the 2026-27 season are on sale through Smithsonian Associates. Everyone needs a ticket to enter, including children under 2."
+   },
+   "url": "https://smithsonianassociates.org/ticketing/programs/little-red-gingerbread-DT16091",
+   "description": "Little Red chases a runaway gingerbread cookie through the woods to Grandma's house. A short holiday show from the Smithsonian's theater for young kids.",
+   "tags": [
+    "theater",
+    "holiday",
+    "indoor",
+    "preschool"
+   ],
+   "verified": "2026-11-04",
+   "sourceNote": "Smithsonian Associates Discovery Theater listing (smithsonianassociates.org/ticketing/programs/discovery-theater) shows Little Red & Gingerbread on Wed Dec 9, 2026, 10-10:45am, ages 3 to 7, In-Person Discovery Theater, page 1 of 6 only, so later dates were not seen. discoverytheater.org says the 2026-27 season is on sale. Ripley Center venue and the everyone-needs-a-ticket rule come from other Smithsonian Associates Discovery Theater show pages. No 2026-27 prices seen.",
+   "addedBy": "claude",
+   "city": "dc"
+  }
+ ]
+}
