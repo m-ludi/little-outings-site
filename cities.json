@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updatedAt": "2026-11-09T03:08:00+00:00",
+ "updatedAt": "2026-11-09T03:57:04+00:00",
  "cities": [
   {
    "id": "nyc",
@@ -12,8 +12,8 @@
    "lng": -73.984,
    "defaultArea": "midtown",
    "events": "events/nyc.json",
-   "count": 58,
-   "updatedAt": "2026-11-05T03:26:02+00:00",
+   "count": 54,
+   "updatedAt": "2026-11-09T03:56:24+00:00",
    "areas": [
     {
      "id": "upper-west-side",
@@ -231,7 +231,7 @@
    "defaultArea": "downtown",
    "events": "events/la.json",
    "count": 11,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "downtown",
@@ -358,7 +358,7 @@
    "defaultArea": "soma",
    "events": "events/sf-bay.json",
    "count": 12,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "soma",
@@ -471,7 +471,7 @@
    "defaultArea": "loop",
    "events": "events/chicago.json",
    "count": 11,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "loop",
@@ -569,8 +569,8 @@
    "lng": -104.9903,
    "defaultArea": "downtown",
    "events": "events/denver.json",
-   "count": 11,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "count": 8,
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "downtown",
@@ -669,7 +669,7 @@
    "defaultArea": "back-bay",
    "events": "events/boston.json",
    "count": 10,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "back-bay",
@@ -768,7 +768,7 @@
    "defaultArea": "center-city",
    "events": "events/philadelphia.json",
    "count": 8,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "center-city",
@@ -867,7 +867,7 @@
    "defaultArea": "downtown",
    "events": "events/dc.json",
    "count": 11,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "downtown",
@@ -966,7 +966,7 @@
    "defaultArea": "midtown",
    "events": "events/atlanta.json",
    "count": 10,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "midtown",
@@ -1064,8 +1064,8 @@
    "lng": -122.3321,
    "defaultArea": "downtown",
    "events": "events/seattle.json",
-   "count": 13,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "count": 11,
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "downtown",
@@ -1164,7 +1164,7 @@
    "defaultArea": "downtown",
    "events": "events/austin.json",
    "count": 12,
-   "updatedAt": "2026-11-05T03:13:15+00:00",
+   "updatedAt": "2026-11-09T03:56:10+00:00",
    "areas": [
     {
      "id": "downtown",

@@ -1,7 +1,7 @@
 {
  "version": 1,
  "city": "seattle",
- "updatedAt": "2026-11-05T03:13:15+00:00",
+ "updatedAt": "2026-11-09T03:56:10+00:00",
  "events": [
   {
    "id": "seattle-woodland-park-zoo-wildlanterns",
@@ -518,53 +518,6 @@
    "city": "seattle"
   },
   {
-   "id": "seattle-kcls-kirkland-baby-story-time",
-   "title": "Baby Story Time at Kirkland Library",
-   "organizer": "King County Library System",
-   "type": "Story time",
-   "venue": "Kirkland Library",
-   "address": "308 Kirkland Ave, Kirkland, WA 98033",
-   "neighborhood": "Downtown Kirkland",
-   "borough": "Kirkland",
-   "lat": 47.6766,
-   "lng": -122.2047,
-   "ageMinMonths": 0,
-   "ageMaxMonths": 12,
-   "ageLabel": "Newborn to 12 months, with an adult",
-   "sessions": [
-    {
-     "start": "2026-11-05T10:30:00-08:00",
-     "end": "2026-11-05T11:00:00-08:00"
-    }
-   ],
-   "schedule": "Thu Nov 5, 10:30 to 11am",
-   "recurring": false,
-   "priceMin": 0,
-   "priceMax": 0,
-   "priceLabel": "Free",
-   "registration": {
-    "required": false,
-    "method": "Walk-in",
-    "opensAt": null,
-    "closesAt": null,
-    "status": "none",
-    "note": "No registration needed. Seats are first come, first served and space is limited."
-   },
-   "url": "https://kcls.bibliocommons.com/v2/events/6ac810b5901b02002cc110ad",
-   "description": "Stories, songs, rhymes and movement for the littlest listeners. A short play time follows.",
-   "tags": [
-    "free",
-    "babies",
-    "library",
-    "indoor",
-    "drop-in"
-   ],
-   "verified": "2026-11-04",
-   "sourceNote": "Thursday Nov 5 2026, 10:30-11am, Kirkland Library at 308 Kirkland Ave, newborn to 12 months with an adult, 'first come, first seated', space limited, early literacy focus and short play time confirmed on the KCLS BiblioCommons event page. The kcls.org Kirkland location page lists only this one Baby Story Time date, so no further weekly dates are included.",
-   "addedBy": "claude",
-   "city": "seattle"
-  },
-  {
    "id": "seattle-kcls-bothell-toddler-story-time",
    "title": "Toddler Story Time at Bothell Library",
    "organizer": "King County Library System",
@@ -814,53 +767,6 @@
    ],
    "verified": "2026-11-04",
    "sourceNote": "Thursday Nov 12 2026, 10:30-11am, Issaquah Library at 10 W Sunset Way, newborns through 5 years with an adult, no registration, 'Space is limited', up to 30 minutes of play time confirmed on the KCLS BiblioCommons event page. Only this one date was confirmed.",
-   "addedBy": "claude",
-   "city": "seattle"
-  },
-  {
-   "id": "seattle-kcls-boulevard-park-family-story-time",
-   "title": "Family Story Time at Boulevard Park Library",
-   "organizer": "King County Library System",
-   "type": "Story time",
-   "venue": "Boulevard Park Library",
-   "address": "12015 Roseberg Ave S, Seattle, WA 98168",
-   "neighborhood": "Boulevard Park",
-   "borough": "Seattle",
-   "lat": 47.4985,
-   "lng": -122.3148,
-   "ageMinMonths": 0,
-   "ageMaxMonths": 95,
-   "ageLabel": "Infants to age 7, with an adult",
-   "sessions": [
-    {
-     "start": "2026-11-07T11:15:00-08:00",
-     "end": "2026-11-07T12:00:00-08:00"
-    }
-   ],
-   "schedule": "Sat Nov 7, 11:15am to noon",
-   "recurring": false,
-   "priceMin": 0,
-   "priceMax": 0,
-   "priceLabel": "Free",
-   "registration": {
-    "required": false,
-    "method": "Walk-in",
-    "opensAt": null,
-    "closesAt": null,
-    "status": "none",
-    "note": "Free. Just come by with your child. To request an accommodation, email access@kcls.org at least seven days ahead."
-   },
-   "url": "https://kcls.bibliocommons.com/v2/events/6a0fa4e6490f176f7dd5ff22",
-   "description": "Stories, music, movement, rhymes and bubbles, followed by play time. A Saturday morning option for the whole family.",
-   "tags": [
-    "free",
-    "babies",
-    "toddlers",
-    "library",
-    "weekend"
-   ],
-   "verified": "2026-11-04",
-   "sourceNote": "Saturday Nov 7 2026, 11:15am-12pm, Boulevard Park Library at 12015 Roseberg Ave S, infants through age seven with an adult, stories/music/movement/rhymes/bubbles plus play time, and the access@kcls.org seven-day accommodation request confirmed on the KCLS BiblioCommons event page. The page shows no registration requirement (only Interested and Add to calendar buttons), so Walk-in is inferred.",
    "addedBy": "claude",
    "city": "seattle"
   },

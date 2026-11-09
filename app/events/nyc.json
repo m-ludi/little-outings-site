@@ -1,7 +1,7 @@
 {
  "version": 1,
  "city": "nyc",
- "updatedAt": "2026-11-05T03:26:02+00:00",
+ "updatedAt": "2026-11-09T03:56:24+00:00",
  "events": [
   {
    "id": "lincoln-center-rain-for-babies",
@@ -66,72 +66,6 @@
    ],
    "verified": "2026-11-03",
    "sourceNote": "Dates, times, 45-min length, venue, pre-walker age rule, Choose-What-You-Pay and booking methods confirmed on the lincolncenter.org RAIN event page and the Lincoln Center Presents calendar. The organizer gives no age in months, so ageMaxMonths 12 is an approximation for pre-walking babies.",
-   "addedBy": "claude",
-   "city": "nyc"
-  },
-  {
-   "id": "lincoln-center-de-papel",
-   "title": "De Papel (Of Paper)",
-   "organizer": "Lincoln Center Presents (Silencio Blanco)",
-   "type": "Theater",
-   "venue": "Clark Studio Theater, Samuel B. & David Rose Building (7th floor)",
-   "address": "165 West 65th Street, New York, NY 10023",
-   "neighborhood": "Lincoln Square",
-   "borough": "Manhattan",
-   "lat": 40.7738,
-   "lng": -73.9846,
-   "ageMinMonths": 0,
-   "ageMaxMonths": 216,
-   "ageLabel": "Family-friendly, no set age range",
-   "sessions": [
-    {
-     "start": "2026-11-06T11:00:00-05:00",
-     "end": "2026-11-06T11:30:00-05:00"
-    },
-    {
-     "start": "2026-11-06T14:00:00-05:00",
-     "end": "2026-11-06T14:30:00-05:00"
-    },
-    {
-     "start": "2026-11-07T11:00:00-05:00",
-     "end": "2026-11-07T11:30:00-05:00"
-    },
-    {
-     "start": "2026-11-07T14:00:00-05:00",
-     "end": "2026-11-07T14:30:00-05:00"
-    },
-    {
-     "start": "2026-11-08T11:00:00-05:00",
-     "end": "2026-11-08T11:30:00-05:00"
-    },
-    {
-     "start": "2026-11-08T14:00:00-05:00",
-     "end": "2026-11-08T14:30:00-05:00"
-    }
-   ],
-   "schedule": "Fri Nov 6 to Sun Nov 8, 11am and 2pm (30 min). Sunday shows are relaxed.",
-   "recurring": false,
-   "priceMin": null,
-   "priceMax": null,
-   "priceLabel": "Choose what you pay",
-   "registration": {
-    "required": true,
-    "method": "Tickets",
-    "opensAt": null,
-    "closesAt": null,
-    "status": "open",
-    "note": "Tickets are on sale now. Book on the event page, call CenterCharge at 212-721-6500, or visit the Alice Tully Hall or David Geffen Hall box office. If it sells out, a day-of line may form at the box office."
-   },
-   "url": "https://www.lincolncenter.org/series/lincoln-center-presents/de-papel-848",
-   "description": "A half-hour puppet show from Chile. A figure made of newspaper and chopsticks comes to life with help from the children watching.",
-   "tags": [
-    "puppets",
-    "pay-what-you-wish",
-    "relaxed-performance",
-    "indoor"
-   ],
-   "verified": "2026-11-03",
-   "sourceNote": "Dates, times, 30-min length, venue, relaxed Sunday shows and Choose-What-You-Pay confirmed on the lincolncenter.org De Papel page and the Lincoln Center Presents family calendar. No age range is listed.",
    "addedBy": "claude",
    "city": "nyc"
   },
@@ -1656,60 +1590,6 @@
    "city": "nyc"
   },
   {
-   "id": "nypl-snfl-little-movers-toddler-time",
-   "title": "Little Movers: Toddler Time",
-   "organizer": "New York Public Library",
-   "type": "Story time",
-   "venue": "Stavros Niarchos Foundation Library (SNFL), Children's Center",
-   "address": "455 Fifth Avenue, Lower Level, New York, NY 10016",
-   "neighborhood": "Midtown",
-   "borough": "Manhattan",
-   "lat": 40.7518,
-   "lng": -73.9814,
-   "ageMinMonths": 12,
-   "ageMaxMonths": 35,
-   "ageLabel": "Walking 1- and 2-year-olds",
-   "sessions": [
-    {
-     "start": "2026-11-05T10:00:00-05:00",
-     "end": "2026-11-05T10:30:00-05:00"
-    },
-    {
-     "start": "2026-11-05T10:45:00-05:00",
-     "end": "2026-11-05T11:15:00-05:00"
-    },
-    {
-     "start": "2026-11-05T11:30:00-05:00",
-     "end": "2026-11-05T12:00:00-05:00"
-    }
-   ],
-   "schedule": "Thu Nov 5, 10am, 10:45am and 11:30am (30 min)",
-   "recurring": false,
-   "priceMin": 0,
-   "priceMax": 0,
-   "priceLabel": "Free",
-   "registration": {
-    "required": true,
-    "method": "Free RSVP",
-    "opensAt": "2026-10-30T00:00:00-05:00",
-    "closesAt": null,
-    "status": "open",
-    "note": "Register by phone at 212-621-0208 or in person. Sign-up opens the Friday before each session. It's limited to 20 children, and doors close once the program starts.",
-    "timeKnown": false
-   },
-   "url": "https://www.nypl.org/events/programs/2026/11/05/little-movers-toddler-time",
-   "description": "A short, active storytime with songs, stories and movement for toddlers who are already walking. Caregivers pick up ideas for early literacy at home.",
-   "tags": [
-    "free",
-    "toddlers",
-    "indoor"
-   ],
-   "verified": "2026-11-03",
-   "sourceNote": "NYPL event pages for all three Nov 5 sessions (…/little-movers-toddler-time, …-toddler-time-0 and …/2026/10/01/little-movers-toddler-time) confirmed the times, the ages, the 20-child cap, phone/in-person registration and the Friday-before opening. The SNFL Children's Center page (nypl.org/locations/snfl/childrens) confirmed the address and listed only Nov 5.",
-   "addedBy": "claude",
-   "city": "nyc"
-  },
-  {
    "id": "nypl-snfl-family-storytime-preschool-fun",
    "title": "Family Storytime: Preschool Fun!",
    "organizer": "New York Public Library",
@@ -1814,8 +1694,8 @@
    "address": "Virtual",
    "neighborhood": "Online",
    "borough": "Queens",
-   "lat": null,
-   "lng": null,
+   "lat": 40.7549,
+   "lng": -73.984,
    "ageMinMonths": 0,
    "ageMaxMonths": 11,
    "ageLabel": "Mothers of babies under 12 months",
@@ -1856,52 +1736,6 @@
    ],
    "verified": "2026-11-03",
    "sourceNote": "QPL's Early Learning Services (0-5) page confirmed the Friday 12:30-1:30pm schedule, the under-12-months audience, the doula facilitator, that it's free, and email registration. Session dates are the next Fridays on that weekly schedule. The coordinates are a placeholder (Jamaica) for a virtual event. The same page lists a free virtual Baby Basics series held in Feb/May/Aug/Nov and Toddler Learning Centers (ages 1-3, spring and fall), with no dates posted.",
-   "addedBy": "claude",
-   "city": "nyc"
-  },
-  {
-   "id": "riverside-park-meet-the-fleet-2026-11-07",
-   "title": "Meet the Fleet",
-   "organizer": "Riverside Park Conservancy",
-   "type": "Outdoors",
-   "venue": "Riverside Park, 95th Street Compost Compound",
-   "address": "Riverside Park near West 95th Street, New York, NY 10025",
-   "neighborhood": "Upper West Side",
-   "borough": "Manhattan",
-   "lat": 40.796,
-   "lng": -73.9768,
-   "ageMinMonths": 0,
-   "ageMaxMonths": 216,
-   "ageLabel": "All ages",
-   "sessions": [
-    {
-     "start": "2026-11-07T10:00:00-05:00",
-     "end": "2026-11-07T12:00:00-05:00"
-    }
-   ],
-   "schedule": "Sat Nov 7, 10am–12pm",
-   "recurring": false,
-   "priceMin": 0,
-   "priceMax": 0,
-   "priceLabel": "Free",
-   "registration": {
-    "required": false,
-    "method": "Walk-in",
-    "opensAt": null,
-    "closesAt": null,
-    "status": "none",
-    "note": "No sign-up needed, first come, first served. It's canceled in heavy rain, so check nyc.gov/parks/soh two hours before."
-   },
-   "url": "https://riversideparknyc.org/event/meet-the-fleet/2026-11-07/",
-   "description": "Kids can see the park's maintenance trucks and heavy equipment up close and meet the crew who run them. A good outing for vehicle-loving toddlers.",
-   "tags": [
-    "free",
-    "outdoor",
-    "trucks",
-    "all-ages"
-   ],
-   "verified": "2026-11-03",
-   "sourceNote": "The Riverside Park Conservancy event page confirmed the date, time, 95th Street Compost Compound location, free admission, first-come policy and rain cancellation. The Kids & Family category page showed no other kids' events for November.",
    "addedBy": "claude",
    "city": "nyc"
   },
@@ -2321,60 +2155,6 @@
    "sourceNote": "The MMDG Registration and Tuition page confirmed the spring 2027 dates (registration Dec 8, 2026-Feb 28, 2027; classes Feb 1-Jun 14, 2027) and the tuition tiers and $30 fee. The Early Childhood page confirmed ages 18 months-4 years, live music and caregiver participation. The Class Schedule page confirmed the fall section ages. The School page confirmed the address.",
    "addedBy": "claude",
    "city": "nyc"
-  },
-  {
-   "id": "nyc-sight-meet-the-tree-day",
-   "city": "nyc",
-   "title": "Meet the Tree Day at Rockefeller Center",
-   "organizer": "Rockefeller Center",
-   "type": "Sights",
-   "venue": "Rockefeller Plaza",
-   "address": "Rockefeller Plaza, West 49th to 50th Streets between Fifth and Sixth Avenues, New York, NY 10111",
-   "neighborhood": "Midtown",
-   "borough": "Manhattan",
-   "lat": 40.7587,
-   "lng": -73.9787,
-   "ageMinMonths": 0,
-   "ageMaxMonths": 216,
-   "ageLabel": "All ages, great for toddlers who love characters",
-   "sessions": [
-    {
-     "start": "2026-11-07T10:00:00-05:00",
-     "end": "2026-11-07T13:00:00-05:00"
-    }
-   ],
-   "schedule": "Sat Nov 7, 10am to 1pm",
-   "recurring": false,
-   "anytime": false,
-   "priceMin": 0,
-   "priceMax": 0,
-   "priceLabel": "Free",
-   "registration": {
-    "required": false,
-    "method": "Walk-in",
-    "opensAt": null,
-    "closesAt": null,
-    "status": "none",
-    "note": "Free entry, first come, first served. A paid Meet the Tree + Top of the Rock ticket adds expedited entry."
-   },
-   "url": "https://www.timeout.com/newyork/news/this-years-rockefeller-center-christmas-tree-has-been-chosenand-you-can-welcome-it-to-nyc-for-free-102726",
-   "description": "The new Rockefeller Center tree arrives in town, and the plaza throws a free family welcome. Care Bears characters pose for photos. Kids can write holiday letters, make a keepsake craft and add a wish to The Caring Tree.",
-   "tips": [
-    "Entry is first come, first served, so arrive close to 10am.",
-    "A carrier is easier than a stroller in the plaza crowd.",
-    "Take the B, D, F or M to 47-50 Sts-Rockefeller Center."
-   ],
-   "tags": [
-    "holiday",
-    "free",
-    "outdoor",
-    "characters",
-    "crafts",
-    "toddlers"
-   ],
-   "verified": "2026-11-05",
-   "sourceNote": "Date (Sat Nov 7, 2026), 10am-1pm, free first-come entry, Holiday Workshop by Care Bears and FAO Schwarz (character meet-and-greets, letter writing, Care-A-Lot Craft Corner, The Caring Tree) and the paid Meet the Tree + Top of the Rock expedited option confirmed in Time Out New York (Oct 27, 2026). 6sqft's 2026 tree article also confirms Meet the Tree Day on Nov 7, free and first-come. rockefellercenter.com pages returned errors when fetched.",
-   "addedBy": "claude"
   },
   {
    "id": "nyc-sight-grand-central-holiday-fair",
